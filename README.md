@@ -2,5 +2,5 @@
 
 **California**
 
-**Odessa**
+**Midland / Odessa**
 
