@@ -9,27 +9,40 @@
 
 Companies going for a WFH Model :-
 
-1. [Adobe(for some teams)](https://www.adobe.com/careers.html)
+* [Adobe(for some teams)](https://www.adobe.com/careers.html)
 
-2. [Airbnb](https://careers.airbnb.com/)
+* [Airbnb](https://careers.airbnb.com/)
 
-3. Akamai Technologies
+* [Akamai Technologies](https://www.akamai.com/careers)
 
-4-Atlassian
+* [Atlassian](https://www.atlassian.com/company/careers)
 
-5-Avalara
-6-Brex
-7-BrowserStack
-8-Cimpress
-9-Citrix
-10-Coinbase
-11-Crescenza Consulting Group
-12-Dropbox
-13-DXC Technology
-14-EPAM Anywhere
-15-Fleet Studio
-16-Germin8
-17-Hotstar
+* [Avalara](https://careers.avalara.com/north-america)
+
+* [Brex](https://www.brex.com/careers)
+
+* [BrowserStack](https://www.browserstack.com/careers)
+
+* [Cimpress](https://cimpress.com/careers/)
+
+* [Citrix](https://careers.cloud.com/CloudCareers)
+
+* [Coinbase](https://www.coinbase.com/careers) | focused: cryptocurrency| Remote
+
+* [Crescenza Consulting Group](https://www.crescenzaconsulting.com/careers)| focused: Engineering IT and Project Management
+
+* [Dropbox](https://jobs.dropbox.com/all-jobs)| focused: cloud storage, file synchronization, personal cloud, and client software.
+
+
+* [DXC Technology](https://careers.dxc.com/global/en) | focused: technology services and consulting company
+
+* [EPAM Anywhere](https://anywhere.epam.com/en/jobs) | 
+
+* [Fleet Studio](https://www.fleetstudio.com/careers)
+
+* [Germin8](https://www.germin8.com/careers/)
+
+* [Hotstar]()
 18-Incubyte
 19-Indeed
 20-Meesho
