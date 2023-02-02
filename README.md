@@ -47,47 +47,93 @@ Companies going for a WFH Model :-
 * [Incubyte](https://www.incubyte.co/careers)
 
 
-* [19-Indeed]()
-20-Meesho
-21-Mindtickle
-22-Nagarro Publicis Sapient
-23-Novartis
-24-ONVU Technologies
-25-Paytm
-26-Publicis Sapient
-27-PwC
-28-Quora
-29-Red Hat Flex Avalara
-30-Salesforce
-31-Shopify
-32-Slack
-33-SourceFuse Technologies
-34-Spotify
-35-Square
-36-Sunlife
-37-Swiggy
-38-Tiger Analytics
-39-Twilio
-40-Twitter[depends on Elon musk :-)]
-41-Upwork
-42-ValueLabs
-43-VMware
-44-Wingify45-Zillow
+* [Indeed](indeed.jobs)
+
+* [Meesho](https://www.meesho.io/jobs)
+
+* [Mindtickle](https://www.mindtickle.com/sales-enablement-business-solution-jobs/)
+
+* [Nagarro Publicis Sapient](https://careers.publicissapient.com/)
+
+* [Novartis](https://www.novartis.com/careers)
+
+* [ONVU Technologies](https://www.onvutech.com/careers/)
+
+* [Paytm](https://paytm.com/careers/)
+
+* [Publicis Sapient](https://careers.publicissapient.com/)
+
+* [PwC](https://jobs.us.pwc.com/)
+
+* [Quora](https://www.careers.quora.com/)
+
+* [Red Hat Flex Avalara](https://www.redhat.com/en/jobs)
+
+* [Salesforce](https://www.salesforce.com/company/careers/)
+
+* [Shopify](https://www.shopify.com/careers)
+
+* [Slack](https://slack.com/careers)
+
+* [SourceFuse Technologies](https://careers.sourcefuse.com/)
+
+* [Spotify](https://www.lifeatspotify.com/)
+
+* [Square](https://careers.squareup.com/us/en)
+
+* [Sunlife](https://www.sunlife.com/us/en/about/careers/)
+
+* [Swiggy](https://careers.swiggy.com/#/)
+
+* [Tiger Analytics](https://www.tigeranalytics.com/current-openings/)
+
+* [Twilio](https://www.twilio.com/company/jobs)
+
+* [Twitter[depends on Elon musk :-)](https://careers.twitter.com/)
+
+* [Upwork](https://www.upwork.com/careers)
+
+* [ValueLabs](https://www.valuelabs.com/careers/)
+
+* [VMware](https://careers.vmware.com/main/)
+
+* [Wingify](https://wingify.com/careers/)
+
+* [Zillow](https://career.zillowgroup.com/careers)
 
 Companies going for a Hybrid Model :-
 
-1-Google
-2-Ford
-3-Hubspot
-4-Intuit
-5-Microsoft
-6-Siemens
-7-Nationwide
-8-Reddit
-9-Salesforce
-10-Amazon
-11-TCS
-12-Infosys
-13-Wipro
-14-Maruti
-15-Philips
+* [Google](https://careers.google.com/)
+
+* [Ford](https://corporate.ford.com/careers.html)
+
+* [Hubspot](https://www.hubspot.com/careers)
+
+* [Intuit](https://www.intuit.com/careers/)
+
+* [Microsoft](https://careers.microsoft.com/us/en/)
+
+* [Siemens](https://www.siemens.com/global/en/company/jobs.html)
+
+* [Nationwide](https://www.nationwide.com/personal/about-us/careers/explore/)
+
+* [Reddit](https://www.redditinc.com/careers)
+
+* [Salesforce](https://www.salesforce.com/company/careers/)
+
+* [Amazon](https://www.amazon.jobs/en/)
+
+* [TCS](https://www.tcs.com/careers)
+
+* [Infosys](https://www.infosys.com/careers/americas.html)
+
+* [Wipro](https://careers.wipro.com/careers-home/)
+
+* [Maruti](https://www.marutisuzuki.com/corporate/careers)
+
+* [Philips](https://www.careers.philips.com/global/en)
+
+
+# Reference
+* [Google near jobs](https://www.google.com/search?q=jobs+near+me&oq=&aqs=chrome.0.35i39i362l8.19173743j0j15&sourceid=chrome&ie=UTF-8)
+* [Linkdine]()
