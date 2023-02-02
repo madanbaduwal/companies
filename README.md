@@ -42,9 +42,12 @@ Companies going for a WFH Model :-
 
 * [Germin8](https://www.germin8.com/careers/)
 
-* [Hotstar]()
-18-Incubyte
-19-Indeed
+* [Hotstar](https://careers.hotstar.com/join-us)
+
+* [Incubyte](https://www.incubyte.co/careers)
+
+
+* [19-Indeed]()
 20-Meesho
 21-Mindtickle
 22-Nagarro Publicis Sapient
