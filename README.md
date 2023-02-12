@@ -134,6 +134,8 @@ Companies going for a Hybrid Model :-
 * [Philips](https://www.careers.philips.com/global/en)
 
 
+
+
 # Reference
 * [Google near jobs](https://www.google.com/search?q=jobs+near+me&oq=&aqs=chrome.0.35i39i362l8.19173743j0j15&sourceid=chrome&ie=UTF-8)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
