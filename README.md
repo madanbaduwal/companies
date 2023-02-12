@@ -135,6 +135,18 @@ Companies going for a Hybrid Model :-
 
 
 
+Not Remote company
+
+* [Ola](https://ola.skillate.com/)
+* [Uber](https://www.uber.com/us/en/careers/)
+* [Zoomcare](https://www.zoomcare.com/careers)
+* [Walmart](https://careers.walmart.com/)
+* [Flipcart](https://www.flipkartcareers.com/#!/)
+* [myntra](https://careers.myntra.com/)
+* [tesco](https://www.tesco-careers.com/)
+* 
+
+
 
 # Reference
 * [Google near jobs](https://www.google.com/search?q=jobs+near+me&oq=&aqs=chrome.0.35i39i362l8.19173743j0j15&sourceid=chrome&ie=UTF-8)
