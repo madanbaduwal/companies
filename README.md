@@ -1,14 +1,20 @@
 # ai-companies-in-us
 
-1. [Google](https://careers.google.com/)
+1. [Meta](https://www.metacareers.com/)
 2. [Amazon](https://www.amazon.jobs/en/)
-3. [Meta](https://www.metacareers.com/)
+3. [Apple](https://www.apple.com/careers/us/)
 4. [Netflix](https://jobs.netflix.com/)
-5. [Tesla](https://www.tesla.com/careers/search/?site=US)
-6. [SpaceX](https://www.spacex.com/careers/)
-7. [Microsoft](https://careers.microsoft.com/us/en/)
-8. [Adobe: onsite and remote](https://www.adobe.com/careers.html)
-9. [Airbnb](https://careers.airbnb.com/)
+5. [Google](https://careers.google.com/)
+6. [Tesla](https://www.tesla.com/careers/search/?site=US)
+7. [SpaceX](https://www.spacex.com/careers/)
+8. [Microsoft](https://careers.microsoft.com/us/en/)
+9. [Adobe: onsite and remote](https://www.adobe.com/careers.html)
+10. [Airbnb](https://careers.airbnb.com/)
+11. [Walmart](https://careers.walmart.com/)
+12. [CVS Health](https://jobs.cvshealth.com/)
+13. [UnitedHealth Group](https://careers.unitedhealthgroup.com/)
+14. [Exxon Mobil](https://jobs.exxonmobil.com/)
+15. 
 
 
 **California**
