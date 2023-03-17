@@ -6,7 +6,9 @@
 4. [Netflix](https://jobs.netflix.com/)
 5. [Tesla](https://www.tesla.com/careers/search/?site=US)
 6. [SpaceX](https://www.spacex.com/careers/)
-7. 
+7. [Microsoft](https://careers.microsoft.com/us/en/)
+8. [Adobe: onsite and remote](https://www.adobe.com/careers.html)
+9. [Airbnb](https://careers.airbnb.com/)
 
 
 **California**
@@ -18,9 +20,6 @@
 
 Companies going for a WFH Model :-
 
-* [Adobe(for some teams)](https://www.adobe.com/careers.html)
-
-* [Airbnb](https://careers.airbnb.com/)
 
 * [Akamai Technologies](https://www.akamai.com/careers)
 
