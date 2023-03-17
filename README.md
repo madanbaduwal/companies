@@ -1,5 +1,14 @@
 # ai-companies-in-us
 
+1. [Google](https://careers.google.com/)
+2. [Amazon](https://www.amazon.jobs/en/)
+3. [Meta](https://www.metacareers.com/)
+4. [Netflix](https://jobs.netflix.com/)
+5. [Tesla](https://www.tesla.com/careers/search/?site=US)
+6. [SpaceX](https://www.spacex.com/careers/)
+7. 
+
+
 **California**
 
 **Midland / Odessa**
@@ -149,5 +158,6 @@ Not Remote company
 
 
 # Reference
+* [Firtune 500](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 * [Google near jobs](https://www.google.com/search?q=jobs+near+me&oq=&aqs=chrome.0.35i39i362l8.19173743j0j15&sourceid=chrome&ie=UTF-8)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
