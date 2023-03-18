@@ -1,5 +1,10 @@
 # ai-companies-in-us
 
+* Internship
+* H1B filled
+* Linkdein
+* 
+
 1. [Meta](https://www.metacareers.com/)
 2. [Amazon](https://www.amazon.jobs/en/)
 3. [Apple](https://www.apple.com/careers/us/)
@@ -14,7 +19,22 @@
 12. [CVS Health](https://jobs.cvshealth.com/)
 13. [UnitedHealth Group](https://careers.unitedhealthgroup.com/)
 14. [Exxon Mobil](https://jobs.exxonmobil.com/)
-15. 
+15. [McKesson](https://www.mckesson.com/Careers/)
+16. [AmerisourceBergen](https://www.amerisourcebergen.com/careers-home)
+17. [Costco Wholesale](https://www.costco.com/job-opportunities.html)
+18. [Cigna](https://jobs.thecignagroup.com/us/en)
+19. [AT&T](https://www.att.jobs/)
+20. [Cardinal Health](https://www.cardinalhealth.com/en/careers.html)
+21. [Chevron](https://chevroncareers.jobs/)
+22. [Walgreens Boots Alliance](https://jobs.walgreens.com/en)
+23. [Marathon Petroleum](https://www.marathonpetroleum.com/Jobs/)
+24. [Elevance Health](https://careers.elevancehealth.com/)
+25. [Kroger](https://www.thekrogerco.com/careers/)
+26. [Ford Motor](https://corporate.ford.com/careers/job-opportunities.html)
+27. [Verizon Communications](https://www.verizon.com/about/careers)
+28. [JPMorgan Chase	](https://careers.jpmorgan.com/us/en/home)
+29. [General Motors](https://search-careers.gm.com/en/)
+30. [Centene]()
 
 
 **California**
@@ -163,6 +183,7 @@ Not Remote company
 
 
 # Reference
-* [Firtune 500](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
+* [Firtune 500](https://fortune.com/ranking/fortune500/)
+* [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 * [Google near jobs](https://www.google.com/search?q=jobs+near+me&oq=&aqs=chrome.0.35i39i362l8.19173743j0j15&sourceid=chrome&ie=UTF-8)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
