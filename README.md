@@ -1,8 +1,8 @@
 # ai-companies-in-us
 
-* Internship
+* Main page> Career(top or bottom of the page) > Students > Internship
 * H1B filled
-* Linkdein
+* Linkedin follower
 * 
 
 1. [Meta](https://www.metacareers.com/)
@@ -34,7 +34,61 @@
 27. [Verizon Communications](https://www.verizon.com/about/careers)
 28. [JPMorgan Chase	](https://careers.jpmorgan.com/us/en/home)
 29. [General Motors](https://search-careers.gm.com/en/)
-30. [Centene]()
+30. [Centene](https://jobs.centene.com/us/en)
+31. [Comcast](https://corporate.comcast.com/careers)
+32. [Phillips 66](https://phillips66.jobs/)
+33. [Valero Energy](https://www.valero.com/careers)
+34. [Dell Technologies](https://jobs.dell.com/)
+35. [Target](https://corporate.target.com/careers)
+36. [Fannie Mae](https://www.fanniemae.com/careers)
+37. [UPS](https://www.jobs-ups.com/)
+38. [Lowe's](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB)
+39. [Bank of America](https://careers.bankofamerica.com/en-us)
+40. [Johnson & Johnson](https://www.careers.jnj.com/)
+41. [Archer Daniels Midland](https://www.adm.com/en-us/culture-and-careers/join-team-adm/)
+42. [FedEx](https://careers.fedex.com/fedex/)
+43. [Humana](https://careers.humana.com/)
+44. [Wells Fargo](https://www.wellsfargo.com/about/careers/)
+45. [State Farm Insurance](https://www.statefarm.com/careers)
+46. [Pfizer](https://www.pfizer.com/about/careers)
+47. [Citigroup](https://jobs.citi.com/)
+48. [PepsiCo](https://www.pepsicojobs.com/main/)
+49. [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
+50. [Procter & Gamble](https://www.pgcareers.com/)
+51. [General Electric](https://www.ge.com/)
+52. [IBM](https://www.ibm.com/careers/us-en/search/)
+53. [MetLife](https://jobs.metlife.com/go/Corporate-Jobs/2763000/)
+54. [Prudential Financial](https://jobs.prudential.com/)
+55. [Albertsons](https://www.albertsons.com/eat-life-up/careers.html)
+56. [Walt Disney](https://jobs.disneycareers.com/)
+57. [Energy Transfer](https://energytransfer.com/careers/)
+58. [Lockheed Martin](https://www.lockheedmartin.com/)
+59. [Freddie Mac](https://www.freddiemac.com/)
+60. [Goldman Sachs Group](https://www.goldmansachs.com/)
+61. [Raytheon Technologies](https://www.rtx.com/)
+62. [HP](https://jobs.hp.com/search-results/)
+63. [Boeing](https://www.boeing.com/)
+64. [Morgan Stanley](https://www.morganstanley.com/)
+65. [HCAHealthcare](https://hcahealthcare.com/)
+66. [AbbVie](https://careers.abbvie.com/en)
+67. [Dow](https://corporate.dow.com/en-us/careers.html)
+68. [Allstate](https://careers.allstate.com/)
+69. [AIG](https://www.aig.com/home)
+70. [Best Buy](https://www.bestbuy.com/)
+71. [Charter Communications](https://corporate.charter.com/)
+72. [Sysco](https://www.sysco.com/)
+73. [Merck](https://jobs.merck.com/us/en)
+74. [Newyorklife](https://www.newyorklife.com/careers)
+75. [Caterpillar](https://www.caterpillar.com/)
+76. [Cisco Systems](https://www.cisco.com/c/en/us/about/careers.html)
+77. [TJX](https://www.tjx.com/)
+78. [Publix Super Markets](https://corporate.publix.com/careers)
+79. [ConocoPhillips](https://www.conocophillips.com/)
+80. [Liberty Mutual Insurance Group](https://www.libertymutualgroup.com/about-lm/corporate-information/overview)
+81. [Progressive](https://www.progressive.com/)
+82. [Nationwide](https://www.nationwide.com/personal/about-us/careers/explore/)
+83. [Tyson Foods](https://www.tysonfoods.com/)
+84. [Bristol-Myers Squibb](https://www.bms.com/)
 
 
 **California**
@@ -179,6 +233,8 @@ Not Remote company
 * [myntra](https://careers.myntra.com/)
 * [tesco](https://www.tesco-careers.com/)
 * 
+
+# Consultancy
 
 
 
