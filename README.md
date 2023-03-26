@@ -2,7 +2,7 @@
 
 * Main page> Career(top or bottom of the page) > Students > Internship
 * H1B filled
-* Linkedin follower
+* Linkedin follower: 6 digit followers in linkedin i.e 100k > 
 * 
 
 1. [Meta](https://www.metacareers.com/)
