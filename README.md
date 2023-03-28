@@ -1,6 +1,6 @@
 # ai-companies-in-us
 
-* Main page> Career(top or bottom of the page) > Students > Internship
+* Main page> Career(top or bottom of the page, about>career) > Students > Internship
 * H1B filled
 * Linkedin follower: 6 digit followers in linkedin i.e 100k > 
 * 
@@ -135,6 +135,66 @@
 128. [Micron Technology](https://www.micron.com/careers)
 129. [Broadcom](https://www.broadcom.com/company/careers)
 130. [Gilead Sciences](https://www.gilead.com/)
+131. [PBF Energy](https://www.pbfenergy.com/)
+132. [Lennar](https://www.lennar.com/)
+133. [United Natural Foods](https://www.unfi.com/)
+134. [NRG Energy](https://www.nrg.com/about/careers.html)
+135. [Nvidia](https://www.nvidia.com/en-us/)
+136. [Occidental Petroleum](https://www.oxy.com/)
+137. [Salesforce](https://www.salesforce.com/)
+138. [Dollar Tree](https://www.dollartree.com/)
+139. [KKR](https://www.kkr.com/)
+140. [Kraft Heinz](https://www.kraftheinzcompany.com/)
+141. [Amgen](https://www.amgen.com/)
+142. [AutoNation](https://jobs.autonation.com/)
+143. [Penske Automotive Group](https://www.penskeautomotive.com/home/default.aspx)
+144. [PayPal Holdings](https://careers.pypl.com/home/)
+145. [Macy's](https://www.macysinc.com/careers)
+146. [Duke Energy](https://www.duke-energy.com/our-company/careers)
+147. [United Airlines Holdings](https://careers.united.com/us/en)
+148. [Visa](https://www.visa.co.in/)
+149. [Rite Aid](https://www.riteaid.com/)
+150. [Cummins](https://www.cummins.com/)
+151. [U.S. Bancorp](https://www.usbank.com/index.html)
+152. [Paccar](https://jobs.paccar.com/)
+153. [McDonald's](https://careers.mcdonalds.com/)
+154. [Southern](https://www.southernrailway.com/)
+155. [C.H. Robinson Worldwide](https://www.chrobinson.com/en-us/)
+156. [Truist Financial](https://www.truist.com/#)
+157. [Applied Materials](https://www.appliedmaterials.com/)
+158. [Freeport-McMoRan](https://www.fcx.com/)
+159. [Lithia Motors](https://www.lithia.com/)
+160. [Blackstone](https://www.blackstone.com/)
+161. [Hartford Financial Services Group](https://www.thehartford.com/)
+162. [Aflac](https://www.aflac.com/)
+163. [Whirlpool](https://www.whirlpoolindia.com/)
+164. [Union Pacific](https://www.up.com/index.htm)
+165. [International Paper](https://www.internationalpaper.com/)
+166. [AltriaGroup](https://www.altria.com/)
+167. [CDW](https://www.cdw.com/)
+168. [ManpowerGroup](https://www.manpowergroup.com/en/careers)
+169. [PG&E](https://www.pgecorp.com/corp/index.page)
+170. [Carrier Global](https://www.corporate.carrier.com/)
+171. [Baker Hughes](https://www.bakerhughes.com/)
+172. [Cleveland-Cliffs](https://www.clevelandcliffs.com/)
+173. [United States Steel](https://www.ussteel.com/)
+174. [Becton Dickinson](https://www.bd.com/en-us)
+175. [CarMax](https://www.carmax.com/)
+176. [Sherwin-Williams](https://www.sherwin-williams.com/)
+177. [Builders FirstSource](https://www.bldr.com/)
+178. [Marsh & McLennan](https://www.marsh.com/us/home.html)
+179. [PNC Financial Services](https://www.pnc.com/en/personal-banking.html)
+180. [Lumen Technologies](https://www.lumen.com/en-us/home.html)
+181. [Avnet](https://www.avnet.com/wps/portal/us/)
+182. [Tenet Healthcare](https://www.tenethealth.com/)
+183. [Kimberly-Clark](https://www.kimberly-clark.com/en-us/)
+184. [Kohl's](https://www.kohls.com/)
+185. [BlackRock](https://www.blackrock.com/us/individual)
+186. [Jones Lang LaSalle](https://www.us.jll.com/)
+187. [Lear](https://www.lear.com/)
+
+
+
 
 **California**
 
