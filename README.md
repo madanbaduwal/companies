@@ -57,7 +57,7 @@ Fortune 500
 48. [PepsiCo](https://www.pepsicojobs.com/main/)
 49. [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
 50. [Procter & Gamble](https://www.pgcareers.com/)
-51. [General Electric](https://www.ge.com/)
+51. [General Electric / GE](https://www.ge.com/)
 52. [IBM](https://www.ibm.com/careers/us-en/search/)
 53. [MetLife](https://jobs.metlife.com/go/Corporate-Jobs/2763000/)
 54. [Prudential Financial](https://jobs.prudential.com/)
@@ -201,7 +201,7 @@ Fortune 500
 192. [Genuine Parts](https://www.genpt.com/)
 193. [WestRock](https://www.westrock.com/)
 194. [EOG Resources](https://careers.eogresources.com/adhocjobsearch.asp)
-195. [goanizant Technology](https://www.cognizant.com/us/en)
+195. [cognizant Technology](https://www.cognizant.com/us/en)
 196. [Moderna](https://www.modernatx.com/)
 197. [Steel Dynamics](https://stld.steeldynamics.com/)
 198. [HF Sinclair](https://www.hfsinclair.com/home/default.aspx)
@@ -433,7 +433,7 @@ Fortune 500
 424. [Tillow Group](https://www.zillowgroup.com/)
 425. [Opendoor Technologies	](https://www.opendoor.com/)
 426. [J.M. Smucker](https://www.jmsmucker.com/)
-427. [Anywhere Real Estate](https://www.anywhere.re/)
+427. [Anywhere Real Estate/Realogy](https://www.anywhere.re/)
 428. [Oshkosh](https://www.oshkosh.com/)
 429. [MasTec](https://www.mastec.com/)
 430. [GXO Logistics](https://gxo.com/)
@@ -514,7 +514,7 @@ Other
 502. [Dice](https://www.dice.com/)
 503. [Proofpoint](https://www.proofpoint.com/us)
 504. [Genentech](https://www.gene.com/)
-506. [Citadle](https://www.citadel.com/)
+506. [Citadel](https://www.citadel.com/)
 507. [Sppechify](https://speechify.com/)
 508. [Niantic](https://nianticlabs.com/?hl=en)
 509. [Atlassian](https://www.atlassian.com/company/careers)
@@ -527,140 +527,101 @@ Other
 516. [Goldman Sachs](https://www.goldmansachs.com/)
 517. [Cockroach Labs](https://www.cockroachlabs.com/)
 518. [Alcatel-Lucent Enterprise](https://www.al-enterprise.com/)
-519. []()
-
-
-
-* [Akamai Technologies](https://www.akamai.com/careers)
-
-* [Avalara](https://careers.avalara.com/north-america)
-
-* [Brex](https://www.brex.com/careers)
-
-* [BrowserStack](https://www.browserstack.com/careers)
-
-* [Cimpress](https://cimpress.com/careers/)
-
-* [Citrix](https://careers.cloud.com/CloudCareers)
-
-* [Coinbase](https://www.coinbase.com/careers) | focused: cryptocurrency| Remote
-
-* [Crescenza Consulting Group](https://www.crescenzaconsulting.com/careers)| focused: Engineering IT and Project Management
-
-* [Dropbox](https://jobs.dropbox.com/all-jobs)| focused: cloud storage, file synchronization, personal cloud, and client software.
-
-
-* [DXC Technology](https://careers.dxc.com/global/en) | focused: technology services and consulting company
-
-* [EPAM Anywhere](https://anywhere.epam.com/en/jobs) | 
-
-* [Fleet Studio](https://www.fleetstudio.com/careers)
-
-* [Germin8](https://www.germin8.com/careers/)
-
-* [Hotstar](https://careers.hotstar.com/join-us)
-
-* [Incubyte](https://www.incubyte.co/careers)
-
-
-* [Indeed](indeed.jobs)
-
-* [Meesho](https://www.meesho.io/jobs)
-
-* [Mindtickle](https://www.mindtickle.com/sales-enablement-business-solution-jobs/)
-
-* [Nagarro Publicis Sapient](https://careers.publicissapient.com/)
-
-* [Novartis](https://www.novartis.com/careers)
-
-* [ONVU Technologies](https://www.onvutech.com/careers/)
-
-* [Paytm](https://paytm.com/careers/)
-
-* [Publicis Sapient](https://careers.publicissapient.com/)
-
-* [PwC](https://jobs.us.pwc.com/)
-
-* [Quora](https://www.careers.quora.com/)
-
-* [Red Hat Flex Avalara](https://www.redhat.com/en/jobs)
-
-* [Salesforce](https://www.salesforce.com/company/careers/)
-
-* [Shopify](https://www.shopify.com/careers)
-
-* [Slack](https://slack.com/careers)
-
-* [SourceFuse Technologies](https://careers.sourcefuse.com/)
-
-* [Spotify](https://www.lifeatspotify.com/)
-
-* [Square](https://careers.squareup.com/us/en)
-
-* [Sunlife](https://www.sunlife.com/us/en/about/careers/)
-
-* [Swiggy](https://careers.swiggy.com/#/)
-
-* [Tiger Analytics](https://www.tigeranalytics.com/current-openings/)
-
-* [Twilio](https://www.twilio.com/company/jobs)
-
-* [Twitter depends on Elon musk :-)](https://careers.twitter.com/)
-
-* [Upwork](https://www.upwork.com/careers)
-
-* [ValueLabs](https://www.valuelabs.com/careers/)
-
-* [VMware](https://careers.vmware.com/main/)
-
-* [Wingify](https://wingify.com/careers/)
-
-* [Zillow](https://career.zillowgroup.com/careers)
-
-Companies going for a Hybrid Model :-
-
-* [Google](https://careers.google.com/)
-
-* [Ford](https://corporate.ford.com/careers.html)
-
-* [Hubspot](https://www.hubspot.com/careers)
-
-* [Intuit](https://www.intuit.com/careers/)
-
-* [Microsoft](https://careers.microsoft.com/us/en/)
-
-* [Siemens](https://www.siemens.com/global/en/company/jobs.html)
-
-* [Nationwide](https://www.nationwide.com/personal/about-us/careers/explore/)
-
-* [Reddit](https://www.redditinc.com/careers)
-
-* [Salesforce](https://www.salesforce.com/company/careers/)
-
-* [Amazon](https://www.amazon.jobs/en/)
-
-* [TCS](https://www.tcs.com/careers)
-
-* [Infosys](https://www.infosys.com/careers/americas.html)
-
-* [Wipro](https://careers.wipro.com/careers-home/)
-
-* [Maruti](https://www.marutisuzuki.com/corporate/careers)
-
-* [Philips](https://www.careers.philips.com/global/en)
-
-
-
-Not Remote company
-
-* [Ola](https://ola.skillate.com/)
-* [Uber](https://www.uber.com/us/en/careers/)
-* [Zoomcare](https://www.zoomcare.com/careers)
-* [Walmart](https://careers.walmart.com/)
-* [Flipcart](https://www.flipkartcareers.com/#!/)
-* [myntra](https://careers.myntra.com/)
-* [tesco](https://www.tesco-careers.com/)
-* 
+519. [Darktrace](https://darktrace.com/)
+520. [Revl](https://www.revlon.com/)
+521. [Abalta Technologies](https://abaltatech.com/)
+522. [Tonic.ai](https://www.tonic.ai/)
+523. [Duolingo](https://careers.duolingo.com/)
+524. [KAYAK](https://www.kayak.com/)
+525. [FLYR Labs](https://flyrlabs.com/)
+526. [Generally Intelligent](https://generallyintelligent.com/)
+527. [Plainsight](https://plainsight.ai/)
+528. [Interactions](https://www.interactions.com/)
+529. [Urbint](https://www.urbint.com/)
+530. [Afresh](https://www.afresh.com/)
+531. [HouseCanary](https://www.housecanary.com/)
+532. [DataRobot](https://www.datarobot.com/)
+533. [Quora](https://www.careers.quora.com/)
+534. [Convoso](https://www.convoso.com/)
+535. [TackleAI](https://www.tackleai.com/)
+536. [Hyperscience](https://hyperscience.com/)
+537. [CloudZero](https://www.cloudzero.com/)
+538. [Strong Analytics](https://www.strong.io/)
+539. [Unity](https://unity.com/)
+540. [Databricks](https://shor.by/2Nyl)
+541. [Dataiku](https://www.dataiku.com/)
+542. [MathWorks](https://www.mathworks.com/)
+543. [Veritone](https://www.veritone.com/)
+544. [Aurora Flight Sciences](https://www.aurora.aero/)
+545. [Attivio](https://www.attivio.com/)
+546. [Gamalon](https://gamalon.com/)
+547. [Tethr](https://tethr.com/)
+548. [SoundHound](https://www.soundhound.com/)
+549. [OCTI](https://www.octime.com/)
+550. [Fama Technologies](https://fama.io/)
+551. [Luminoso Technologies](https://www.luminoso.ai/)
+552. [QBurst](https://www.qburst.com/)
+553. [iTechArt Group](https://www.itechart.com/)
+554. [ScienceSoft](https://www.scnsoft.com/)
+555. [MobiDev](https://mobidev.biz/)
+556. [DogTown Media](https://www.dogtownmedia.com/)
+557. [Xicom Technologies](https://www.xicom.biz/)
+558. [Altoros](https://www.altoros.com/)
+559. [Iflexion](https://www.iflexion.com/)
+560. [RapidMiner](https://rapidminer.com/)
+561. [SAS](https://www.sas.com/en_us/home.html)
+562. [TIBCO](https://www.tibco.com/)
+563. [Akamai Technologies](https://www.akamai.com/careers)
+564. [Avalara](https://careers.avalara.com/north-america)
+565. [Brex](https://www.brex.com/careers)
+566. [Citrix](https://careers.cloud.com/CloudCareers)
+567. [Dropbox](https://jobs.dropbox.com/all-jobs)| focused: cloud storage, file synchronization, personal cloud, and client software.
+568. [DXC Technology](https://careers.dxc.com/global/en) | focused: technology services and consulting company
+569. [EPAM Anywhere](https://anywhere.epam.com/en/jobs) | 
+570. [Fleet Studio](https://www.fleetstudio.com/careers)
+571. [Indeed](indeed.jobs)
+572. [Mindtickle](https://www.mindtickle.com/sales-enablement-business-solution-jobs/)
+573. [Publicis Sapient](https://careers.publicissapient.com/)
+574. [PwC](https://jobs.us.pwc.com/)
+575. [Deloitte](https://www2.deloitte.com/us/en.html)
+576. [The Walt Disney Company](https://jobs.disneycareers.com/)
+577. [Accenture](https://www.accenture.com/us-en)
+578. [EY](https://www.ey.com/en_us)
+579. [Keller Williams Realty, Inc.](https://go.kw.com/join-keller-williams?utm_source=LinkedIn&utm_medium=social&utm_campaign=Agent_Count&utm_content=Recruiting_Site)
+580. [Kaiser Permanente](https://healthy.kaiserpermanente.org/front-door)
+581. [Target](https://corporate.target.com/Careers)
+582. [Kimley-Horn](https://www.kimley-horn.com/)
+583. [Citi](https://www.citigroup.com/global)
+584. [Siemens](https://www.siemens.com/global/en/company/jobs.html)
+585. [The Whiting-Turner Contracting Company](https://www.whiting-turner.com/)
+586. [Juniper Networks](https://www.juniper.net/)
+587. [Viasat Inc.](https://www.viasat.com/)
+588. [RedHat](https://www.redhat.com/en)
+589. [Shopify](https://www.shopify.com/careers)
+590. [Slack](https://slack.com/careers)
+591. [SourceFuse Technologies](https://careers.sourcefuse.com/)
+592. [Spotify](https://www.lifeatspotify.com/)
+593. [Square](https://careers.squareup.com/us/en)
+594. [Sunlife](https://www.sunlife.com/us/en/about/careers/)
+595. [Swiggy](https://careers.swiggy.com/#/)
+596. [Tiger Analytics](https://www.tigeranalytics.com/current-openings/)
+597. [Twilio](https://www.twilio.com/company/jobs)
+598. [Twitter](https://careers.twitter.com/)
+599. [Upwork](https://www.upwork.com/careers)
+600. [ValueLabs](https://www.valuelabs.com/careers/)
+601. [VMware](https://careers.vmware.com/main/)
+602. [Hubspot](https://www.hubspot.com/careers)
+603. [Reddit](https://www.redditinc.com/careers)
+604. [TCS](https://www.tcs.com/careers)
+605. [Infosys](https://www.infosys.com/careers/americas.html)
+606. [Wipro](https://careers.wipro.com/careers-home/)
+607. [Maruti](https://www.marutisuzuki.com/corporate/careers)
+608. [Philips](https://www.careers.philips.com/global/en)
+609. [Ola](https://ola.skillate.com/)
+610. [Uber](https://www.uber.com/us/en/careers/)
+611. [Flipcart](https://www.flipkartcareers.com/#!/)
+612. [myntra](https://careers.myntra.com/)
+ 
 
 # Consultancy
 
@@ -670,4 +631,5 @@ Not Remote company
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
 * [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 * [Google near jobs](https://www.google.com/search?q=jobs+near+me&oq=&aqs=chrome.0.35i39i362l8.19173743j0j15&sourceid=chrome&ie=UTF-8)
+* [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
