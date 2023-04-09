@@ -1,9 +1,18 @@
 # ai-companies-in-us
 
+## From there official website
+
 * Main page> Career(top or bottom of the page, about>career) > Students > Internship
 * H1B filled
 * Linkedin follower: 6 digit followers in linkedin i.e 100k > 
 * Many company have sub-companies work on software and technology
+
+## From social media
+
+* Google near job search
+* Linkedin 
+* Youtube
+
 
 Fortune 500
 
@@ -898,6 +907,7 @@ Other
 * [machine learning software  jobs near me: note company name and apply through portal](https://www.google.com/search?q=machine+learning+software++jobs+near+me&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#htivrt=jobs&htidocid=1gww_iHo9B8AAAAAAAAAAA%3D%3D&fpstate=tldetail)
 
 
+------------------------------------------------
 
 * [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
