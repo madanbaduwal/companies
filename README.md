@@ -12,6 +12,7 @@
 * Google near job search
 * Linkedin 
 * Youtube
+*  [Handshake](https://joinhandshake.com/)
 
 
 Fortune 500
@@ -898,7 +899,8 @@ Other
      
 # Consultancy
 
-
+- Must of the consultancies are legal
+	- If they are trying to put wrong number of experience is illigle
 
 # Reference
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
