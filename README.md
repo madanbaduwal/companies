@@ -11,22 +11,30 @@
 
 * Google near job search
 * Linkedin 
+* [indeed](https://www.indeed.com/)
+* [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
+* [ZipRecruiter](https://www.ziprecruiter.com/)
+* [Mediabistro](https://www.mediabistro.com/)
 * Youtube
 *  [Handshake](https://joinhandshake.com/)
 
 
 Fortune 500
 
-1. [Meta](https://www.metacareers.com/)
-2. [Amazon](https://www.amazon.jobs/en/)
-3. [Apple](https://www.apple.com/careers/us/)
-4. [Netflix](https://jobs.netflix.com/)
-5. [Google](https://careers.google.com/)
-6. [Tesla](https://www.tesla.com/careers/search/?site=US)
-7. [SpaceX](https://www.spacex.com/careers/)
-8. [Microsoft](https://careers.microsoft.com/us/en/)
-9. [Adobe: onsite and remote](https://www.adobe.com/careers.html)
-10. [Airbnb](https://careers.airbnb.com/)
+Profile: Find out position and submit
+
+No Profile: Fill all fields and submit
+
+1. Meta | [Jobs](https://www.metacareers.com/),[Internship](https://www.metacareers.com/careerprograms/students) | [Profile](https://www.metacareers.com/profile/home)
+2. Amazon | [Jobs](https://www.amazon.jobs/en/), [Internship](https://www.amazon.jobs/en/teams/internships-for-students)| [Profile](https://account.amazon.jobs/en-US)
+3. Apple | [Jobs](https://www.apple.com/careers/us/), [Internship](https://www.apple.com/careers/us/students.html) | 
+4. Netflix| [Jobs](https://jobs.netflix.com/), [Internship](https://jobs.netflix.com/intern-program)| No need profile
+5. Google | [Jobs](https://careers.google.com/), [Internship](https://buildyourfuture.withgoogle.com/internships) | [Profile](https://www.google.com/about/careers/applications/students/) 
+6. Tesla | [Jobs](https://www.tesla.com/careers/search/?site=US) , [Internship](https://www.tesla.com/careers/internships)| No need profile
+7. SpaceX | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | No need profile
+8. Microsoft | [Jobs](https://careers.microsoft.com/us/en/), [Internship](https://careers.microsoft.com/students/us/en/job/1533653/Research-Intern-Machine-Learning) | Profile
+9. Adobe | [Jobs](https://www.adobe.com/careers.html), [Internship](https://www.adobe.com/careers/university/internships.html) | No need profile
+10. Airbnb | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | 
 11. [Walmart](https://careers.walmart.com/)
 12. [CVS Health](https://jobs.cvshealth.com/)
 13. [UnitedHealth Group](https://careers.unitedhealthgroup.com/)
@@ -901,7 +909,30 @@ Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 [Projectstartups](https://www.projectstartups.com/)
 
 878. [vint](https://vint.co/)
-879. [pocketnest]()
+879. [pocketnest](https://www.pocketnest.com/)
+880. [Zype](https://www.getzype.com/)
+881. [AppViewX](https://www.appviewx.com/)
+882. [ZEBEDEE](https://zebedee.io/)
+883. [Dot Compliance](https://www.dotcompliance.com/)
+884. [ZeroAvia](https://www.zeroavia.com/)
+885. [Radancy](https://www.radancy.com/en)
+886. [Dgraph Labs](https://dgraph.io/)
+
+Linkedine
+
+887. [FocusKPI](https://www.focuskpi.com/)
+888. [ARA](https://www.ara.com/)
+889. [Discover Financial Services](https://www.discover.com/)
+890. [Alibaba Group](https://www.alibabagroup.com/en-US/)
+891. [Alldus](https://alldus.com/)
+892. [Nityo Infotech](https://nityo.com/)
+893. [Eliassen Group](http://www.eliassen.com/)
+894. [Sage Bionetworks](https://sagebionetworks.org/)
+895. [CGG](https://www.cgg.com/)
+896. [Allen Institute for AI (AI2)](https://alleninstitute.org/)
+897. [Jobot](https://jobot.com/)
+898. [IUNU](https://iunu.com/)
+899. [Actalentservices](https://www.actalentservices.com/)
      
 # Consultancy
 
