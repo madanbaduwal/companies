@@ -42,14 +42,14 @@ No Profile: Fill all fields and submit
 15. McKesson |[Jobs](https://www.mckesson.com/Careers/), [Internship](https://careers.mckesson.com/en/category/intern-jobs/733/8457936/1)| Profile
 16. AmerisourceBergen |[Jobs](https://www.amerisourcebergen.com/careers-home), [Internship](https://www.amerisourcebergen.com/careers-home/internships) | Profile required
 17. Costco Wholesale | [Jobs](https://www.costco.com/job-opportunities.html) | No Computer science jobs
-18. [Cigna](https://jobs.thecignagroup.com/us/en)
-19. [AT&T](https://www.att.jobs/)
-20. [Cardinal Health](https://www.cardinalhealth.com/en/careers.html)
-21. [Chevron](https://chevroncareers.jobs/)
-22. [Walgreens Boots Alliance](https://jobs.walgreens.com/en)
-23. [Marathon Petroleum](https://www.marathonpetroleum.com/Jobs/)
-24. [Elevance Health](https://careers.elevancehealth.com/)
-25. [Kroger](https://www.thekrogerco.com/careers/)
+18. Cigna | [Jobs](https://jobs.thecignagroup.com/us/en),[Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program) | You can create profile
+19. AT&T | [Jobs](https://www.att.jobs/),[Internship](https://www.att.jobs/students) | No profile need 
+20. Cardinal Health | [Jobs](https://www.cardinalhealth.com/en/careers.html), [Internship](https://www.cardinalhealth.com/en/careers/students-grads/internships.html)| No profile need
+21. Chevron | [Jobs](https://chevroncareers.jobs/), [Internship](https://careers.chevron.com/internship) | No profile need
+22. Walgreens Boots Alliance | [Jobs](https://jobs.walgreens.com/en), [Internship](https://jobs.walgreens.com/en/students) | No profile need
+23. Marathon Petroleum | [Jobs](https://www.marathonpetroleum.com/Jobs/), [Internship](https://www.marathonpetroleum.com/Jobs/University-Recruiting/) | No profile need
+24. Elevance Health | [Jobs](https://careers.elevancehealth.com/), [Internship](https://careers.elevancehealth.com/student-programs/) | Profile need
+25. Kroger| [Jobs](https://www.thekrogerco.com/careers/), [Internship](https://www.thekrogerco.com/careers/students/) | Profile need
 26. [Ford Motor](https://corporate.ford.com/careers/job-opportunities.html)
 27. [Verizon Communications](https://www.verizon.com/about/careers)
 28. [JPMorgan Chase	](https://careers.jpmorgan.com/us/en/home)
