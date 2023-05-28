@@ -34,14 +34,14 @@ No Profile: Fill all fields and submit
 7. SpaceX | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | No need profile
 8. Microsoft | [Jobs](https://careers.microsoft.com/us/en/), [Internship](https://careers.microsoft.com/students/us/en/job/1533653/Research-Intern-Machine-Learning) | Profile
 9. Adobe | [Jobs](https://www.adobe.com/careers.html), [Internship](https://www.adobe.com/careers/university/internships.html) | No need profile
-10. Airbnb | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | 
-11. [Walmart](https://careers.walmart.com/)
-12. [CVS Health](https://jobs.cvshealth.com/)
-13. [UnitedHealth Group](https://careers.unitedhealthgroup.com/)
-14. [Exxon Mobil](https://jobs.exxonmobil.com/)
-15. [McKesson](https://www.mckesson.com/Careers/)
-16. [AmerisourceBergen](https://www.amerisourcebergen.com/careers-home)
-17. [Costco Wholesale](https://www.costco.com/job-opportunities.html)
+10. Airbnb | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | No profile required
+11. Walmart | [Jobs](https://careers.walmart.com/), [Internship](https://careers.walmart.com/student) | No profile required
+12. CVS Health | [Jobs](https://jobs.cvshealth.com/), [Internship](https://jobs.cvshealth.com/internships/) | Profile is required
+13. UnitedHealth Group | [Jobs](https://careers.unitedhealthgroup.com/), [Internship](https://careers.unitedhealthgroup.com/early-careers/) | No Profile needed
+14. Exxon Mobil | [Jobs](https://jobs.exxonmobil.com/), [Internship](https://corporate.exxonmobil.com/careers/internship-opportunities) | Profile
+15. McKesson |[Jobs](https://www.mckesson.com/Careers/), [Internship](https://careers.mckesson.com/en/category/intern-jobs/733/8457936/1)| Profile
+16. AmerisourceBergen |[Jobs](https://www.amerisourcebergen.com/careers-home), [Internship](https://www.amerisourcebergen.com/careers-home/internships) | Profile required
+17. Costco Wholesale | [Jobs](https://www.costco.com/job-opportunities.html) | No Computer science jobs
 18. [Cigna](https://jobs.thecignagroup.com/us/en)
 19. [AT&T](https://www.att.jobs/)
 20. [Cardinal Health](https://www.cardinalhealth.com/en/careers.html)
