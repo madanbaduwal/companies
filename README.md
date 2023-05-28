@@ -50,10 +50,10 @@ No Profile: Fill all fields and submit
 23. Marathon Petroleum | [Jobs](https://www.marathonpetroleum.com/Jobs/), [Internship](https://www.marathonpetroleum.com/Jobs/University-Recruiting/) | No profile need
 24. Elevance Health | [Jobs](https://careers.elevancehealth.com/), [Internship](https://careers.elevancehealth.com/student-programs/) | Profile need
 25. Kroger| [Jobs](https://www.thekrogerco.com/careers/), [Internship](https://www.thekrogerco.com/careers/students/) | Profile need
-26. [Ford Motor](https://corporate.ford.com/careers/job-opportunities.html)
-27. [Verizon Communications](https://www.verizon.com/about/careers)
-28. [JPMorgan Chase	](https://careers.jpmorgan.com/us/en/home)
-29. [General Motors](https://search-careers.gm.com/en/)
+26. Ford Motor | [Jobs](https://corporate.ford.com/careers/job-opportunities.html), [Internship](https://corporate.ford.com/careers/programs/students-and-recent-graduates/ford-summer-internship-program.html) | No Profile Need
+27. Verizon Communications | [Jobs](https://www.verizon.com/about/careers), [Internship](https://mycareer.verizon.com/life-at-verizon/students-internships/) | No Profile Need
+28. JPMorgan Chase	 | [Jobs](https://careers.jpmorgan.com/us/en/home), [Internship](https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__Americas__UnitedStatesofAmerica) | No profile Need
+29. General Motors | [Jobs](https://search-careers.gm.com/en/), [Internship](https://search-careers.gm.com/en/early-careers/) | 
 30. [Centene](https://jobs.centene.com/us/en)
 31. [Comcast](https://corporate.comcast.com/careers)
 32. [Phillips 66](https://phillips66.jobs/)
