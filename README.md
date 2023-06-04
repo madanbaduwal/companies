@@ -691,7 +691,7 @@ Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 662. [Cruise](https://getcruise.com/)
 663. [Current](https://current.com/)
 664. [Cybereason](https://www.cybereason.com/)
-665. [Datadog](https://www.datadoghq.com/)
+665. [Datadog](https://www.datadoghq.com/)Select
 666. [Dave](https://dave.com/)
 667. [Deliverr](https://deliverr.com/)
 668. [Digit](https://digit.co/)
@@ -934,10 +934,6 @@ Linkedine
 898. [IUNU](https://iunu.com/)
 899. [Actalentservices](https://www.actalentservices.com/)
      
-# Consultancy
-
-- Must of the consultancies are legal
-	- If they are trying to put wrong number of experience is illigle
 
 # Reference
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
