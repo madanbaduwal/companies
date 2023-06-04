@@ -54,11 +54,11 @@ No Profile: Fill all fields and submit
 27. Verizon Communications | [Jobs](https://www.verizon.com/about/careers), [Internship](https://mycareer.verizon.com/life-at-verizon/students-internships/) | No Profile Need
 28. JPMorgan Chase	 | [Jobs](https://careers.jpmorgan.com/us/en/home), [Internship](https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__Americas__UnitedStatesofAmerica) | No profile Need
 29. General Motors | [Jobs](https://search-careers.gm.com/en/), [Internship](https://search-careers.gm.com/en/early-careers/) | 
-30. [Centene](https://jobs.centene.com/us/en)
-31. [Comcast](https://corporate.comcast.com/careers)
-32. [Phillips 66](https://phillips66.jobs/)
-33. [Valero Energy](https://www.valero.com/careers)
-34. [Dell Technologies](https://jobs.dell.com/)
+30. Centene | [Jobs](https://jobs.centene.com/us/en), [Internship](https://jobs.centene.com/us/en/students)
+31. Comcast | [Jobs](https://corporate.comcast.com/careers), [Internship](https://jobs.comcast.com/internships-and-co-ops) | Need Profile
+32. Phillips 66 | [Jobs](https://phillips66.jobs/),[Internship](https://p66oncampus.jobs/university-interns/)| No need profile
+33. Valero Energy | [Jobs](https://www.valero.com/careers), [Internship](https://www.valero.com/careers/university-recruiting/intern-programs) | No profile need
+34. Dell Technologies|[JObs](https://jobs.dell.com/), [Internship](https://jobs.dell.com/internships) | 
 35. [Target](https://corporate.target.com/careers)
 36. [Fannie Mae](https://www.fanniemae.com/careers)
 37. [UPS](https://www.jobs-ups.com/)
