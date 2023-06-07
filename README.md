@@ -59,11 +59,11 @@ No Profile: Fill all fields and submit
 32. Phillips 66 | [Jobs](https://phillips66.jobs/),[Internship](https://p66oncampus.jobs/university-interns/)| No need profile
 33. Valero Energy | [Jobs](https://www.valero.com/careers), [Internship](https://www.valero.com/careers/university-recruiting/intern-programs) | No profile need
 34. Dell Technologies|[JObs](https://jobs.dell.com/), [Internship](https://jobs.dell.com/internships) | 
-35. [Target](https://corporate.target.com/careers)
-36. [Fannie Mae](https://www.fanniemae.com/careers)
-37. [UPS](https://www.jobs-ups.com/)
-38. [Lowe's](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB)
-39. [Bank of America](https://careers.bankofamerica.com/en-us)
+35. Target| [Jobs](https://corporate.target.com/careers), [Internship](https://jobs.target.com/category/internship-jobs/1118/57353/1?source=google_paidsearch&utm_source=google.com&utm_medium=paid_search&utm_campaign=HQ&utm_content=search_engine&utm_term=326746547&ss=paid&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0wKjfpCchlANPz6BBonM33D64W3MLs4D1nUXU5nmKVb3bzLxQHaQpgaAnUVEALw_wcB) | Need profile
+36. Fannie Mae | [Jobs](https://www.fanniemae.com/careers), [Internship](https://www.fanniemae.com/careers/campus)| No profile needed
+37. [UPS](https://www.jobs-ups.com/),[Internship](https://www.jobs-ups.com/student-programs)|No profile needed
+38. Lowe's| [Jobs](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB),[Internship](https://talent.lowes.com/us/en/students-grads)|No profile needed
+39. Bank of America| [JObs](https://careers.bankofamerica.com/en-us),[Internship](https://campus.bankofamerica.com/?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america_internship-_-Brand_Campus&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yuA4yYpTzH0M2o2MriFt5GmZBXTLqxZPbwxP9d5wYnF4Dp0y8dCKYaAogWEALw_wcB&gclsrc=aw.ds)| 
 40. [Johnson & Johnson](https://www.careers.jnj.com/)
 41. [Archer Daniels Midland](https://www.adm.com/en-us/culture-and-careers/join-team-adm/)
 42. [FedEx](https://careers.fedex.com/fedex/)
