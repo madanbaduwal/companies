@@ -64,9 +64,9 @@ No Profile: Fill all fields and submit
 37. [UPS](https://www.jobs-ups.com/),[Internship](https://www.jobs-ups.com/student-programs)|No profile needed
 38. Lowe's| [Jobs](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB),[Internship](https://talent.lowes.com/us/en/students-grads)|No profile needed
 39. Bank of America| [JObs](https://careers.bankofamerica.com/en-us),[Internship](https://campus.bankofamerica.com/?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america_internship-_-Brand_Campus&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yuA4yYpTzH0M2o2MriFt5GmZBXTLqxZPbwxP9d5wYnF4Dp0y8dCKYaAogWEALw_wcB&gclsrc=aw.ds)| 
-40. [Johnson & Johnson](https://www.careers.jnj.com/)
-41. [Archer Daniels Midland](https://www.adm.com/en-us/culture-and-careers/join-team-adm/)
-42. [FedEx](https://careers.fedex.com/fedex/)
+40. Johnson & Johnson | [Jobs](https://www.careers.jnj.com/), [Internship](https://www.careers.jnj.com/internship) | Profile needed
+41. Archer Daniels Midland | [Internship](https://www.adm.com/en-us/culture-and-careers/join-team-adm/),[](https://www.adm.com/en-us/news/adm-stories/adm-internship-program-offers-endless-opportunities/) | 
+42. FedEx| [Jobs](https://careers.fedex.com/fedex/),[Internhsip](https://careers.fedex.com/intern) | Need Profile
 43. [Humana](https://careers.humana.com/)
 44. [Wells Fargo](https://www.wellsfargo.com/about/careers/)
 45. [State Farm Insurance](https://www.statefarm.com/careers)
@@ -934,6 +934,15 @@ Linkedine
 898. [IUNU](https://iunu.com/)
 899. [Actalentservices](https://www.actalentservices.com/)
      
+
+## Remote Companies In US
+
+- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
+- [established-remote: github](https://github.com/yanirs/established-remote)
+
+## Consultancy
+* [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
 
 # Reference
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
