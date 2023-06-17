@@ -952,7 +952,23 @@ Linkedine
 897. [Jobot](https://jobot.com/)
 898. [IUNU](https://iunu.com/)
 899. [Actalentservices](https://www.actalentservices.com/)
-     
+900. [Krisp.ai](https://krisp.ai/)
+901. [One.ai](https://one.ai/) 
+902. [Loora.ai](https://www.loora.ai/)| [Jobs](https://www.loora.ai/careers)  
+903. [Vozy.co](https://www.vozy.co/) | [Jobs](https://www.vozy.co/vacantes)  
+904. [Secondnature.ai](https://secondnature.ai/)| [Jobs](https://secondnature.ai/careers/)
+905. [Murf.ai](https://murf.ai/)| [Jobs]()
+906. [Astrid.ai](https://www.astrid.ai/) | [Jobs]()
+907. [Lovo.ai](https://lovo.ai/)
+908. [Wellsaidlabs](https://wellsaidlabs.com/) | [Jobs](https://wellsaidlabs.com/careers/)
+909. [Amberscript](https://www.amberscript.com/)| [Jobs](https://www.amberscript.com/en/careers/)
+910. [Podcastle.ai](https://podcastle.ai/) | [Jobs](https://podcastle.ai/careers)
+911. [Skit.ai](https://skit.ai/) | [Jobs](https://skit.ai/careers/)
+912. [Voicemod.net](https://www.voicemod.net/) | [Jobs](https://www.voicemod.com/careers)
+913. [Corti.ai](https://www.corti.ai/) | [Jobs](https://jobs.corti.ai/)
+914. [deepdub.ai](https://deepdub.ai/) | [Jobs]()
+915. [Symbl.ai](https://symbl.ai/) | [Jobs](https://symbl.ai/about/careers/)
+916. []()
 
 ## Remote Companies In US
 
