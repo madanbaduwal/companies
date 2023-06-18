@@ -1,5 +1,7 @@
 # ai-companies-in-us
 
+**Note: Write email,message, and resume in such a way that your research/goal align with company goal/mission.**
+
 ## Message for Internship
 
 
@@ -968,7 +970,35 @@ Linkedine
 913. [Corti.ai](https://www.corti.ai/) | [Jobs](https://jobs.corti.ai/)
 914. [deepdub.ai](https://deepdub.ai/) | [Jobs]()
 915. [Symbl.ai](https://symbl.ai/) | [Jobs](https://symbl.ai/about/careers/)
-916. []()
+916. [Assemblyai](https://www.assemblyai.com/) | [Jobs]()
+917. [Descript](https://www.descript.com/) | [Jobs](https://www.descript.com/careers)
+918. [Deepbrain](https://www.deepbrain.io/) | [Jobs](https://www.deepbrain.io/company/careers)
+919. [Eliseai](https://www.eliseai.com/) | [Jobs](https://www.eliseai.com/careers)
+920. [Riverside](https://riverside.fm/) | [Jobs](https://careers.riverside.fm/)
+921. [Speakai](https://speakai.co/) | [Jobs]()
+922. [Ushur](https://ushur.com/) | [Jobs](https://ushur.com/company/careers/)
+923. [Balto](https://www.balto.ai/) | [Jobs](https://www.balto.ai/careers/)
+924. [Papercup](https://www.papercup.com/) | [Jobs](https://www.papercup.com/careers)
+925. [Dialpad](https://www.dialpad.com/) | [Jobs](https://www.dialpad.com/careers/)
+926. [Observe](https://www.observe.ai/) | [Jobs](https://www.observe.ai/careers)
+927. [Replicant](https://www.replicant.com/) | [Jobs](https://www.replicant.com/careers/)
+928. [Deepgram](https://deepgram.com/)|[Jobs](https://deepgram.com/company/careers/)
+929. [Asapp](https://www.asapp.com/) | [Jobs](https://www.asapp.com/company/careers?team=All&location=All)
+930. [Cresta](https://cresta.com/)| [Jobs](https://cresta.com/careers/)
+931. [Poly](https://poly.ai/) | [Jobs](https://poly.ai/careers/)
+932. [Nlx](https://nlx.ai/) | [Jobs](https://nlx.breezy.hr/)
+933. [lavender](https://www.lavender.ai/)| [Jobs]()
+934. [Personal.ai](https://www.personal.ai/) | [Jobs]()
+935. [landbot](https://landbot.io/) | [Jobs](https://jobs.landbot.io/)
+936. [Replika](https://replika.com/) | [Jobs]()
+937. [Verloop](https://verloop.io/) | [Jobs](https://verloop.io/careers-opportunities/)
+938. [Copy.ai](https://www.copy.ai/) | [Jobs](https://jobs.lever.co/CopyAI)
+939. [Autobound](https://www.autobound.ai/) | [Jobs]()
+940. [Certainly](https://certainly.io/) | [Jobs](https://certainly.io/careers/)
+941. [Copysmith](https://copysmith.ai/) | [Jobs](https://boards.greenhouse.io/copysmith)
+942. [Flowrite](https://www.flowrite.com/)|[Jobs](https://www.flowrite.com/careers)
+943. [tymely](https://www.tymely.ai/) | [Jobs](https://www.tymely.ai/careers/)
+944. []() | []()
 
 ## Remote Companies In US
 
