@@ -1,8 +1,8 @@
-# ai-companies-in-us
+# Companies
 
-**Note: Write email,message, and resume in such a way that your research/goal align with company goal/mission.**
+**Note: Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
 
-## Message for Internship
+## Cover Letter
 
 
 Dear [Recruiter Name],
@@ -24,23 +24,29 @@ Madan Baduwal
 ## From there official website
 
 * Main page> Career(top or bottom of the page, about>career) > Students > Internship
-* H1B filled
-* Linkedin follower: 6 digit followers in linkedin i.e 100k > 
-* Many company have sub-companies work on software and technology
 
 ## From social media
 
-* Google near job search
-* Linkedin 
+* [Google near job search]()
+* [Linkedin](https://www.linkedin.com/) 
 * [indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 * [ZipRecruiter](https://www.ziprecruiter.com/)
 * [Mediabistro](https://www.mediabistro.com/)
 * Youtube
 *  [Handshake](https://joinhandshake.com/)
+* [Monster](https://www.monster.com/)
+* [Simplyhired](https://www.simplyhired.com/)
+* [Careerbuilder](https://www.careerbuilder.com/)
+* [Usajobs](https://www.usajobs.gov/)
 
+## Important Factors Selecting Company
 
-Fortune 500
+* H1B filled
+* Linkedin follower: 6 digit followers in linkedin i.e 100k > 
+* Many company have sub-companies work on software and technology
+
+## Fortune 500+
 
 Profile: Find out position and submit
 
@@ -88,9 +94,9 @@ No Profile: Fill all fields and submit
 40. Johnson & Johnson | [Jobs](https://www.careers.jnj.com/), [Internship](https://www.careers.jnj.com/internship) | Profile needed
 41. Archer Daniels Midland | [Internship](https://www.adm.com/en-us/culture-and-careers/join-team-adm/),[](https://www.adm.com/en-us/news/adm-stories/adm-internship-program-offers-endless-opportunities/) | 
 42. FedEx| [Jobs](https://careers.fedex.com/fedex/),[Internhsip](https://careers.fedex.com/intern) | Need Profile
-43. [Humana](https://careers.humana.com/)
-44. [Wells Fargo](https://www.wellsfargo.com/about/careers/)
-45. [State Farm Insurance](https://www.statefarm.com/careers)
+43. Humana | [Jobs](https://careers.humana.com/), [Internship](https://careers.humana.com/career-areas/students-professional-programs/), [Linkedin](https://www.linkedin.com/company/humana/) | 
+44. Wells Fargo | [Jobs](https://www.wellsfargo.com/about/careers/),[Internship](https://www.wellsfargojobs.com/en/university-programs/),[Linkedin](https://www.linkedin.com/company/wellsfargo/)|
+45. State Farm Insurance | [Jobs](https://www.statefarm.com/careers),[Internship](https://jobs.statefarm.com/become-an-intern)
 46. [Pfizer](https://www.pfizer.com/about/careers)
 47. [Citigroup](https://jobs.citi.com/)
 48. [PepsiCo](https://www.pepsicojobs.com/main/)
@@ -998,18 +1004,9 @@ Linkedine
 941. [Copysmith](https://copysmith.ai/) | [Jobs](https://boards.greenhouse.io/copysmith)
 942. [Flowrite](https://www.flowrite.com/)|[Jobs](https://www.flowrite.com/careers)
 943. [tymely](https://www.tymely.ai/) | [Jobs](https://www.tymely.ai/careers/)
-944. []() | []()
 
-## Remote Companies In US
 
-- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
-- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
-- [established-remote: github](https://github.com/yanirs/established-remote)
-
-## Consultancy
-* [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
-
-# Reference
+### Reference
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
 * [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 * [github:Solomon04](https://github.com/Solomon04/top-tech-companies)
@@ -1019,4 +1016,124 @@ Linkedine
 ------------------------------------------------
 * [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
+## Remote Companies In US
+
+1. [Turing](turing.com)
+
+### References
+- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
+- [established-remote: github](https://github.com/yanirs/established-remote)
+
+## Consultancy
+
+Parameters for selecting Consultancy
+
+* Official Website
+* Followers in Linkedin
+* Official Gmails
+* Select Consultancy which have a position related to your career goals
+  
+Importatnt terminnology 
+
+* W2 contact position
+
+
+1. [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
+2. [Conflux Systems Inc.](https://www.confluxsystems.com/) | <!-- Gowtham Raja Komarala: 16789568780 -->
+3. [Arconinc](https://www.arconinc.com/)<!-- Privya Hada: 703-636-9384 -->
+4. 
+
+
+
+
+<!-- Blacklist Consultancy By Maharishi university
+
+4Consulting Inc
+ADCIEO – subsumed by LW Robbins
+Addison Technologies Inc.
+Addteq LLC
+Adroit Professional Services, Inc
+AdvanSoft, Inc
+American Technology Consulting
+Amreli Technology Solutions LLC
+Amsol, Inc
+Aqua InfoSys, Inc
+Avansys
+Baisys
+Bayan Software Services
+BridgeNexus
+Brighter Brain (aka Mobile Apps Enterprises)
+California Creative Solutions or CCSGLOBALTECH; CCSG
+CI Corporation or any company operated by Rick Shaddock
+Club Speed, Inc
+Cyan Technology
+Cygnus Professionals Inc
+Devcare – Columbus, OH
+EcmTek, Inc
+eFulgent (Malla Systems, Inc)
+EliteITPros
+Emonics
+Enterprise IT Resources
+Frontier Technologies
+Gaian Solutions
+Galaxy Software Solutions
+Global IT Experts, Inc. 
+GlobalMind Technologies
+Great Logics Inc.
+HADIAMONDSTAR Software Solutions, LLC
+Hire IT People, LLC
+iCODICE, LLC
+iCODICE, LLC
+IMCS Group 
+Infograph Solutions, Inc
+Infotech Prism, LLC
+Infoway Solutions LLC
+IntelliSoft Systems
+ISB Manufacturing
+iTrending Solutions LLC
+Metahorizon
+Meticular
+Mobile Apps Enterprises LLC/Brighter Brain 
+Montevo (sister company of Unbounded Solutions)
+Multivision 
+National Consulting Group, Inc
+Netpro Group
+NetPro System, Inc.
+NextXAP, Inc
+Nexus Software Solutions
+Nihaki Systems, Inc
+Novedea
+Okaya, Inc
+Pegasys Systems & Technologies, Inc
+Pioneer Technology
+Qdata ~ ALL POSITIONS ON HOLD!!
+Radiant Global, Inc
+ReasonSource Tech
+Rocksys International. Inc
+S Cube Soft, Inc of New Jersey
+Saicon Consultants
+Sharp Path, also known as Sharp Horizon, Inc
+Sholla Corporation
+SiriSoft Solutions
+Soft Standard Solutions Staffing
+Software Programming Group
+Source Mantra
+Talent Hire Consulting, Inc
+Tech Tammina
+Techgene Solutions
+Tekforce Corp
+TekValley Corporation, Inc
+Unbounded Solutions
+Vertex Group (Schaumburg, IL)
+VST Consulting Inc
+XcelTech Inc -->
+
+### Reference
+
+* [Facebook: Jobs for OPT & CPT Students]()
+* [Facebbok: F1, OPT, CPT Employers, Students]()
+* [Facebook Group: OPT, CPT ,H4-EAD , H1B, GC, USC, ASYLUM visa jobs in USA]()
+* [Facebook: H1B, H4, F1, OPT & CPT Visa Holders]()
+
 
