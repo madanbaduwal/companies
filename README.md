@@ -1006,7 +1006,20 @@ Linkedine
 941. [Copysmith](https://copysmith.ai/) | [Jobs](https://boards.greenhouse.io/copysmith)
 942. [Flowrite](https://www.flowrite.com/)|[Jobs](https://www.flowrite.com/careers)
 943. [tymely](https://www.tymely.ai/) | [Jobs](https://www.tymely.ai/careers/)
-
+944. [Mavenoid](https://www.mavenoid.com/) | [Jobs](https://www.mavenoid.com/en/careers)
+945. [Contents](https://www.contents.com/) | [Jobs](https://www.contents.com/careers/)
+946. [Peppercontent](https://www.peppercontent.io/) | [Jobs](https://www.peppercontent.io/careers/)
+947. [Ultimate](https://www.ultimate.ai/) | [Jobs](https://www.ultimate.ai/careers)
+948. [Writer](https://writer.com/)|[Jobs](https://writer.com/company/careers/)
+949. [Regie](https://www.regie.ai/) | [Jobs]()
+950. [Agolo](https://www.agolo.com/) | [Jobs](https://www.agolo.com/careers)
+951. [Deepl](https://www.deepl.com/translator) | [Jobs](https://jobs.deepl.com/?source=DeepLFooter)
+952. [haptik](https://www.haptik.ai/) | [Jobs](https://www.haptik.ai/careers)
+953. [Kasisto](https://kasisto.com/) | [Jobs]()
+954. [Textio](https://textio.com/) | [Jobs](https://textio.com/careers/)
+955. [Jasper](https://www.jasper.ai/) | [Jobs](https://www.jasper.ai/careers)
+956. [Ada](https://www.ada.cx/) | [Jobs](https://www.ada.cx/careers)
+957. [Forethought](https://forethought.ai/) | [Jobs](https://forethought.ai/careers/)
 
 ### Reference
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
