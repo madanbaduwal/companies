@@ -2,6 +2,8 @@
 
 **Note: Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
 
+**Note:In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
+
 ## Cover Letter
 
 
