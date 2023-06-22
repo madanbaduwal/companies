@@ -947,7 +947,7 @@ Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 885. [Radancy](https://www.radancy.com/en)
 886. [Dgraph Labs](https://dgraph.io/)
 
-Linkedine
+Linkedine and startups
 
 887. [FocusKPI](https://www.focuskpi.com/)
 888. [ARA](https://www.ara.com/)
@@ -1020,6 +1020,25 @@ Linkedine
 955. [Jasper](https://www.jasper.ai/) | [Jobs](https://www.jasper.ai/careers)
 956. [Ada](https://www.ada.cx/) | [Jobs](https://www.ada.cx/careers)
 957. [Forethought](https://forethought.ai/) | [Jobs](https://forethought.ai/careers/)
+958. [Simplified](https://simplified.com/) | [Jobs]()
+959. [prisma-ai](https://prisma-ai.com/) | [Jobs](https://prisma-ai.com/career)
+960. [Skippr](https://skippr.com/)|[Jobs]()
+961. [Modyfi](https://www.modyfi.com/) | [Jobs](https://www.modyfi.com/careers)
+962. [Artblocks](https://www.artblocks.io/) | [Jobs](https://jobs.lever.co/ArtBlocks)
+963. [Reface](https://reface.ai/) | [Jobs](https://reface.ai/hiring)
+964. [ZMO.ai](https://www.zmo.ai/)|[Jobs]()
+965. [vizcom](https://www.vizcom.ai/)|[Jobs]()
+966. [Imagen-ai](https://imagen-ai.com/) | [Jobs](https://imagen-ai.com/careers/)
+967. [Facet](https://facet.ai/) | [Jobs](https://facet.ai/jobs)
+968. [Beautiful](https://www.beautiful.ai/)| [Jobs](https://www.beautiful.ai/careers)
+969. [Photoroom](https://www.photoroom.com/)|[Jobs](https://jobs.lever.co/photoroom)
+970. [Uizard](https://uizard.io/) | [Jobs](https://uizard.io/careers/)
+971. [Typeface](https://www.typeface.ai/) | [Jobs](https://www.typeface.ai/company#careers)
+972. [Tome](https://tome.app/) | [Jobs](https://tome.app/tome/tome-careers-cl0twfpen674994keyls9y0dg2)
+973. [Lightricks](https://www.lightricks.com/) | [Jobs](https://careers.lightricks.com/)
+974. [Peech-ai](https://www.peech-ai.com/)| [Jobs](https://www.peech-ai.com/careers)
+975. [Glossai](https://glossai.co/) | [Jobs]()
+976. [Colossyan](https://www.colossyan.com/) | [Jobs]()
 
 ### Reference
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
@@ -1055,7 +1074,8 @@ Importatnt terminnology
 1. [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
 2. [Conflux Systems Inc.](https://www.confluxsystems.com/) | <!-- Gowtham Raja Komarala: 16789568780 -->
 3. [Arconinc](https://www.arconinc.com/)<!-- Privya Hada: 703-636-9384 -->
-4. 
+4. [Proximatetech](https://proximatetech.com/)
+5. [Miztechsolutions](https://www.miztechsolutions.com/)
 
 
 
