@@ -33,7 +33,7 @@ Madan Baduwal
 
 ## job sites
 
-* [Google near job search]()
+* [Google near job search](https://www.google.com/search?q=machine+learning+software++jobs+near+me&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#htivrt=jobs&htidocid=1gww_iHo9B8AAAAAAAAAAA%3D%3D&fpstate=tldetail)
 * [Linkedin](https://www.linkedin.com/) 
 * [indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
@@ -556,6 +556,11 @@ Madan Baduwal
 499. [Frontier Communications](https://frontier.com/)
 500. [Ameren](https://www.ameren.com/)
 
+**Reference**
+
+* [Firtune 500](https://fortune.com/ranking/fortune500/)
+* [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
+
 ## Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 
 501. [regeneron](https://www.regeneron.com/)
@@ -936,6 +941,10 @@ Madan Baduwal
 877. [Zynga](https://www.zynga.com/)
 
 
+**Reference**
+
+* [github:Solomon04](https://github.com/Solomon04/top-tech-companies)
+
 ## [Projectstartups](https://www.projectstartups.com/)
 
 878. [vint](https://vint.co/)
@@ -947,6 +956,12 @@ Madan Baduwal
 884. [ZeroAvia](https://www.zeroavia.com/)
 885. [Radancy](https://www.radancy.com/en)
 886. [Dgraph Labs](https://dgraph.io/)
+
+
+
+**Reference**
+
+* [Projectstartups](https://www.projectstartups.com/)
 
 ## Companies Found In Linkedine 
 
@@ -1201,19 +1216,6 @@ Madan Baduwal
 1132. [Inflection](https://inflection.ai/) | [Jobs](https://inflection.ai/careers)
 
 
-
-**Reference**
-
-* [Firtune 500](https://fortune.com/ranking/fortune500/)
-* [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
-* [github:Solomon04](https://github.com/Solomon04/top-tech-companies)
-* [Projectstartups](https://www.projectstartups.com/)
-* [machine learning software  jobs near me: note company name and apply through portal](https://www.google.com/search?q=machine+learning+software++jobs+near+me&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#htivrt=jobs&htidocid=1gww_iHo9B8AAAAAAAAAAA%3D%3D&fpstate=tldetail)
-* [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
-* [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
-
-
-
 ## Remote Companies In US
 
 1. [Turing](turing.com)
@@ -1336,4 +1338,10 @@ XcelTech Inc -->
 * [Facebook Group: OPT, CPT ,H4-EAD , H1B, GC, USC, ASYLUM visa jobs in USA]()
 * [Facebook: H1B, H4, F1, OPT & CPT Visa Holders]()
 
+
+
+## References
+
+
+* [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 
