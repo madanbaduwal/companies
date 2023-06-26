@@ -23,11 +23,15 @@ Yours sincerely,
 
 Madan Baduwal
 
-## From there official website
 
-* Main page> Career(top or bottom of the page, about>career) > Students > Internship
+## Important Factors Selecting Company
 
-## From social media
+* H1B filled
+* Linkedin follower: 6 digit followers in linkedin i.e 100k > 
+* Many company have sub-companies work on software and technology
+
+
+## job sites
 
 * [Google near job search]()
 * [Linkedin](https://www.linkedin.com/) 
@@ -43,17 +47,13 @@ Madan Baduwal
 * [Usajobs](https://www.usajobs.gov/)
 * [Pathrise](https://www.pathrise.com/)
 * [Naukri](https://www.naukri.com/)
-## Important Factors Selecting Company
-
-* H1B filled
-* Linkedin follower: 6 digit followers in linkedin i.e 100k > 
-* Many company have sub-companies work on software and technology
 
 ## Fortune 500+
 
-Profile: Find out position and submit
+* Main page> Career(top or bottom of the page, about>career) > Students > Internship
 
-No Profile: Fill all fields and submit
+* Profile: Find out position and submit
+* No Profile: Fill all fields and submit
 
 1. Meta | [Jobs](https://www.metacareers.com/),[Internship](https://www.metacareers.com/careerprograms/students) | [Profile](https://www.metacareers.com/profile/home)
 2. Amazon | [Jobs](https://www.amazon.jobs/en/), [Internship](https://www.amazon.jobs/en/teams/internships-for-students)| [Profile](https://account.amazon.jobs/en-US)
@@ -556,7 +556,7 @@ No Profile: Fill all fields and submit
 499. [Frontier Communications](https://frontier.com/)
 500. [Ameren](https://www.ameren.com/)
 
-Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
+## Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 
 501. [regeneron](https://www.regeneron.com/)
 502. [Dice](https://www.dice.com/)
@@ -936,7 +936,7 @@ Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 877. [Zynga](https://www.zynga.com/)
 
 
-[Projectstartups](https://www.projectstartups.com/)
+## [Projectstartups](https://www.projectstartups.com/)
 
 878. [vint](https://vint.co/)
 879. [pocketnest](https://www.pocketnest.com/)
@@ -948,23 +948,23 @@ Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 885. [Radancy](https://www.radancy.com/en)
 886. [Dgraph Labs](https://dgraph.io/)
 
-Linkedine 
+## Companies Found In Linkedine 
 
-1.   [FocusKPI](https://www.focuskpi.com/)
-2.   [ARA](https://www.ara.com/)
-3.   [Discover Financial Services](https://www.discover.com/)
-4.   [Alibaba Group](https://www.alibabagroup.com/en-US/)
-5.   [Alldus](https://alldus.com/)
-6.   [Nityo Infotech](https://nityo.com/)
-7.   [Eliassen Group](http://www.eliassen.com/)
-8.   [Sage Bionetworks](https://sagebionetworks.org/)
-9.   [CGG](https://www.cgg.com/)
-10.  [Allen Institute for AI (AI2)](https://alleninstitute.org/)
-11.  [Jobot](https://jobot.com/)
-12.  [IUNU](https://iunu.com/)
-13.  [Actalentservices](https://www.actalentservices.com/)
+887.   [FocusKPI](https://www.focuskpi.com/)
+888.   [ARA](https://www.ara.com/)
+889.   [Discover Financial Services](https://www.discover.com/)
+890.   [Alibaba Group](https://www.alibabagroup.com/en-US/)
+891.   [Alldus](https://alldus.com/)
+892.   [Nityo Infotech](https://nityo.com/)
+893.   [Eliassen Group](http://www.eliassen.com/)
+894.   [Sage Bionetworks](https://sagebionetworks.org/)
+895.   [CGG](https://www.cgg.com/)
+896.  [Allen Institute for AI (AI2)](https://alleninstitute.org/)
+897.  [Jobot](https://jobot.com/)
+898.  [IUNU](https://iunu.com/)
+899.  [Actalentservices](https://www.actalentservices.com/)
      
-**Generative AI Companies with > $55MM Raised (As of march 2023)**
+## Generative AI Companies with > $55MM Raised (As of march 2023)
 
 900. [Krisp.ai](https://krisp.ai/)
 901. [One.ai](https://one.ai/) 
@@ -1202,7 +1202,8 @@ Linkedine
 
 
 
-### Reference
+**Reference**
+
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
 * [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 * [github:Solomon04](https://github.com/Solomon04/top-tech-companies)
@@ -1210,11 +1211,15 @@ Linkedine
 * [machine learning software  jobs near me: note company name and apply through portal](https://www.google.com/search?q=machine+learning+software++jobs+near+me&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#htivrt=jobs&htidocid=1gww_iHo9B8AAAAAAAAAAA%3D%3D&fpstate=tldetail)
 * [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 * [Linkdine](https://www.linkedin.com/search/results/content/?keywords=summar%202024%20machine%20learning%20internship&origin=SWITCH_SEARCH_VERTICAL&sid=iN7)
+
+
+
 ## Remote Companies In US
 
 1. [Turing](turing.com)
 
-### References
+**References**
+
 - [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
 - [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
 - [established-remote: github](https://github.com/yanirs/established-remote)
@@ -1324,7 +1329,7 @@ Vertex Group (Schaumburg, IL)
 VST Consulting Inc
 XcelTech Inc -->
 
-### Reference
+**Reference**
 
 * [Facebook: Jobs for OPT & CPT Students]()
 * [Facebbok: F1, OPT, CPT Employers, Students]()
