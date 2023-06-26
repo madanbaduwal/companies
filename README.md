@@ -28,10 +28,9 @@ Madan Baduwal
 
 * H1B filled
 * Linkedin follower: 6 digit followers in linkedin i.e 100k > 
-* Many company have sub-companies work on software and technology
 
 
-## job sites
+## Job listing companies 
 
 * [Google near job search](https://www.google.com/search?q=machine+learning+software++jobs+near+me&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#htivrt=jobs&htidocid=1gww_iHo9B8AAAAAAAAAAA%3D%3D&fpstate=tldetail)
 * [Linkedin](https://www.linkedin.com/) 
@@ -51,6 +50,7 @@ Madan Baduwal
 ## Fortune 500+
 
 * Main page> Career(top or bottom of the page, about>career) > Students > Internship
+* Many company have sub-companies work on software and technology
 
 * Profile: Find out position and submit
 * No Profile: Fill all fields and submit
@@ -560,7 +560,6 @@ Madan Baduwal
 
 * [Firtune 500](https://fortune.com/ranking/fortune500/)
 * [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
-
 ## Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 
 501. [regeneron](https://www.regeneron.com/)
@@ -1109,7 +1108,7 @@ Madan Baduwal
 1025. [Durable](https://durable.co/) | [Jobs](https://durable.co/careers)
 1026. [Lately](https://www.lately.ai/) | [Jobs]()
 1027. [Outplay](https://outplayhq.com/en-us) | [Jobs](https://outplayhq.com/careers)
-1028. [https://www.toplinepro.com/]() | [Jobs](https://jobs.lever.co/toplinepro)
+1028. [toplinepro](https://www.toplinepro.com/) | [Jobs](https://jobs.lever.co/toplinepro)
 1029. [Anyword](https://anyword.com/) | [Jobs](https://anyword.com/careers/)
 1030. [Unbounce](https://unbounce.com/) | [Jobs](https://unbounce.com/careers/)
 1031. [Mutiny](https://www.mutinyhq.com/) | [Jobs](https://www.mutinyhq.com/careers#VacanciesBlock)
@@ -1216,17 +1215,18 @@ Madan Baduwal
 1132. [Inflection](https://inflection.ai/) | [Jobs](https://inflection.ai/careers)
 
 
-## Remote Companies In US
+## Companies helps to land remote jobs or remote work(Freelancing)
 
 1. [Turing](turing.com)
+2. [Upwork](upwork.com)
+3. [Toptal](https://www.toptal.com/)
+4. [Fiver](https://www.fiverr.com/)
+5. [Clouddevs](https://clouddevs.com/)
+6. [Revelo](https://www.revelo.com/)
+7. [Lemon](https://lemon.io/)
 
-**References**
 
-- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
-- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
-- [established-remote: github](https://github.com/yanirs/established-remote)
-
-## Consultancy
+## Consultancy helps to land in a job
 
 Parameters for selecting Consultancy
 
@@ -1343,5 +1343,7 @@ XcelTech Inc -->
 ## References
 
 
-* [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
-
+- [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
+- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
+- [established-remote: github](https://github.com/yanirs/established-remote)
