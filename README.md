@@ -38,7 +38,8 @@ Madan Baduwal
 * [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 * [ZipRecruiter](https://www.ziprecruiter.com/)
 * [Mediabistro](https://www.mediabistro.com/)
-* Youtube
+* [Youtube](youtube.com)
+* [Cybercoders](https://www.cybercoders.com/)
 *  [Handshake](https://joinhandshake.com/)
 * [Monster](https://www.monster.com/)
 * [Simplyhired](https://www.simplyhired.com/)
@@ -938,45 +939,36 @@ Madan Baduwal
 875. [Zest AI](https://www.zest.ai/)
 876. [Zoom](https://zoom.us/)
 877. [Zynga](https://www.zynga.com/)
+878.   [FocusKPI](https://www.focuskpi.com/)
+879.   [ARA](https://www.ara.com/)
+880.   [Discover Financial Services](https://www.discover.com/)
+881.   [Alibaba Group](https://www.alibabagroup.com/en-US/)
+882.   [Alldus](https://alldus.com/)
+883.   [Nityo Infotech](https://nityo.com/)
+884.   [Eliassen Group](http://www.eliassen.com/)
+885.   [Sage Bionetworks](https://sagebionetworks.org/)
+886.   [CGG](https://www.cgg.com/)
+887.  [Allen Institute for AI (AI2)](https://alleninstitute.org/)
+888.  [Jobot](https://jobot.com/)
+889.  [IUNU](https://iunu.com/)
+890.  [Actalentservices](https://www.actalentservices.com/)
+891.  [Gappify](https://www.gappify.com/) | [Jobs](https://www.gappify.com/careers/)
+892.  [Taboola](https://www.taboola.com/) | [Jobs](https://www.taboola.com/careers)
+893. [crowdbotics](https://www.crowdbotics.com/) | [Jobs](https://www.crowdbotics.com/careers)
+894. [Brightspeed](https://www.brightspeed.com/) | [Jobs](https://careers.smartrecruiters.com/Brightspeed)
+895. [Siemens Healthineers](https://www.siemens-healthineers.com/) | [Jobs](https://jobs.siemens-healthineers.com/careers)
+896. [Elastic](https://www.elastic.co/) | [Jobs](https://www.elastic.co/careers)
+897. [Coupang](https://www.coupang.jobs/en/) | [Jobs](https://www.coupang.jobs/en/jobs/)
+898. [Stellantis](https://www.stellantis.com/en) | [Jobs](https://www.stellantis.com/en/careers/work-with-us)
+899. [AAA](https://www.ace.aaa.com/) | [Jobs](https://careers.ace.aaa.com/us/en)
+900. [Peloton Interactive](https://www.onepeloton.com/) | [Jobs](https://careers.onepeloton.com/)
 
 
 **Reference**
 
 * [github:Solomon04](https://github.com/Solomon04/top-tech-companies)
 
-## [Projectstartups](https://www.projectstartups.com/)
 
-878. [vint](https://vint.co/)
-879. [pocketnest](https://www.pocketnest.com/)
-880. [Zype](https://www.getzype.com/)
-881. [AppViewX](https://www.appviewx.com/)
-882. [ZEBEDEE](https://zebedee.io/)
-883. [Dot Compliance](https://www.dotcompliance.com/)
-884. [ZeroAvia](https://www.zeroavia.com/)
-885. [Radancy](https://www.radancy.com/en)
-886. [Dgraph Labs](https://dgraph.io/)
-
-
-
-**Reference**
-
-* [Projectstartups](https://www.projectstartups.com/)
-
-## Companies Found In Linkedine 
-
-887.   [FocusKPI](https://www.focuskpi.com/)
-888.   [ARA](https://www.ara.com/)
-889.   [Discover Financial Services](https://www.discover.com/)
-890.   [Alibaba Group](https://www.alibabagroup.com/en-US/)
-891.   [Alldus](https://alldus.com/)
-892.   [Nityo Infotech](https://nityo.com/)
-893.   [Eliassen Group](http://www.eliassen.com/)
-894.   [Sage Bionetworks](https://sagebionetworks.org/)
-895.   [CGG](https://www.cgg.com/)
-896.  [Allen Institute for AI (AI2)](https://alleninstitute.org/)
-897.  [Jobot](https://jobot.com/)
-898.  [IUNU](https://iunu.com/)
-899.  [Actalentservices](https://www.actalentservices.com/)
      
 ## Generative AI Companies with > $55MM Raised (As of march 2023)
 
@@ -1215,6 +1207,21 @@ Madan Baduwal
 1132. [Inflection](https://inflection.ai/) | [Jobs](https://inflection.ai/careers)
 
 
+## [Projectstartups](https://www.projectstartups.com/)
+
+1. []() | []()
+
+
+
+**Reference**
+
+* [Projectstartups](https://www.projectstartups.com/)
+
+## Companies Found In Linkedine 
+
+
+1. []() | []()
+
 ## Companies helps to land remote jobs or remote work(Freelancing)
 
 1. [Turing](turing.com)
@@ -1226,7 +1233,7 @@ Madan Baduwal
 7. [Lemon](https://lemon.io/)
 
 
-## Consultancy helps to land in a job
+## Consultancy / Staffing and Recruiting Company helps to land in a job
 
 Parameters for selecting Consultancy
 
@@ -1239,13 +1246,30 @@ Importatnt terminnology
 
 * W2 contact position
 
+**Consultancy**
 
 1. [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
 2. [Conflux Systems Inc.](https://www.confluxsystems.com/) | <!-- Gowtham Raja Komarala: 16789568780 -->
 3. [Arconinc](https://www.arconinc.com/)<!-- Privya Hada: 703-636-9384 -->
 4. [Proximatetech](https://proximatetech.com/)
 5. [Miztechsolutions](https://www.miztechsolutions.com/)
+6. [ICONMA](https://www.iconma.com/)
+7. [INSPYR Solutions](https://www.inspyrsolutions.com/)
+8. [Trident Consulting](https://www.tridentconsultinginc.com/)
+9. [BCG X](https://www.bcg.com/)
+10. [Addiox Technologies LLC](https://www.linkedin.com/company/aadiox-technologies/)
+11. [Peraton](https://www.peraton.com/)
+12. [Synechron](https://www.synechron.com/)
+13. 
 
+**Staffing and Recruiting**
+
+1. [Acceler8 Talent](https://www.acceler8talent.com/)
+2. [Insight Global](https://insightglobal.com/)
+3. [Swift Strategic Solutions Inc](http://www.s3staff.com/)
+4. [Peterson Technology Partners](https://www.ptechpartners.com/)
+5. [Storm3](https://storm3.com/)
+6. 
 
 
 
@@ -1331,13 +1355,14 @@ Vertex Group (Schaumburg, IL)
 VST Consulting Inc
 XcelTech Inc -->
 
+
+
 **Reference**
 
 * [Facebook: Jobs for OPT & CPT Students]()
 * [Facebbok: F1, OPT, CPT Employers, Students]()
 * [Facebook Group: OPT, CPT ,H4-EAD , H1B, GC, USC, ASYLUM visa jobs in USA]()
 * [Facebook: H1B, H4, F1, OPT & CPT Visa Holders]()
-
 
 
 ## References
