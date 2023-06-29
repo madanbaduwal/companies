@@ -1219,8 +1219,17 @@ Madan Baduwal
 
 ## Companies Found In Linkedine 
 
+* Some companies are Services and Consulting
 
-1. []() | []()
+1. [Vanilla](https://www.justvanilla.com/) | [Jobs](https://www.justvanilla.com/careers)
+2. [Mastech Digital](https://www.mastechdigital.com) | [Jobs](https://www.mastechdigital.com/careermain/)
+3. [Weave](https://www.getweave.com/) | [Jobs](https://www.getweave.com/careers/)
+4. [CBTS](https://go.cbts.com/apo-h3) | [Jobs](https://www.cbts.com/careers/)
+5. [Kforce Inc](https://www.kforce.com/) | [Jobs](https://www.kforce.com/about/careers-at-kforce/)
+6. [Dematic](https://www.dematic.com/en-us/)|[Jobs](https://www.dematic.com/en-us/about/careers/)
+7. [Alcon](https://www.alcon.com/)|[Jobs](https://www.alcon.com/about-us/careers)
+8. [New Era Technology](https://www.neweratech.com/us/)|[Jobs](https://www.neweratech.com/us/careers/)
+9. []() | []()
 
 ## Companies helps to land remote jobs or remote work(Freelancing)
 
@@ -1269,7 +1278,9 @@ Importatnt terminnology
 3. [Swift Strategic Solutions Inc](http://www.s3staff.com/)
 4. [Peterson Technology Partners](https://www.ptechpartners.com/)
 5. [Storm3](https://storm3.com/)
-6. 
+6. [Talener](https://talener.com/)
+7. [System One](https://systemone.com/)
+8. []()
 
 
 
