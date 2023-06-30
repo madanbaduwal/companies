@@ -1229,7 +1229,34 @@ Madan Baduwal
 6. [Dematic](https://www.dematic.com/en-us/)|[Jobs](https://www.dematic.com/en-us/about/careers/)
 7. [Alcon](https://www.alcon.com/)|[Jobs](https://www.alcon.com/about-us/careers)
 8. [New Era Technology](https://www.neweratech.com/us/)|[Jobs](https://www.neweratech.com/us/careers/)
-9. []() | []()
+9. [Revl](https://revl.com/) | [Jobs](https://revl.com/careers)
+10. [Afiniti](https://www.afiniti.com/) | [Jobs]()
+11. [Precisionhawk](https://www.precisionhawk.com/)| [Jobs](https://www.precisionhawk.com/careers): Precision Hawk offers a fully autonomous UAV performing low altitude aerial data collection and subsequent data management and analysis.
+12. [ContentSquare](https://contentsquare.com/) | [Jobs](https://contentsquare.com/careers/) : ContentSquare is a specialist for optimizing Web and mobile sites.
+13. [C3 AI](https://www.c3iot.com/) | [Jobs](https://www.c3iot.com/careers/): Enterprise Platform as a Service (PaaS) for AI, predictive analytics, big data, and IoT software applications
+14. [Huma](https://www.huma.com/) | [Jobs](https://www.huma.com/careers)
+15. [Biofourmis](https://www.biofourmis.com/) | [Jobs](): Biofourmis is reinventing remote patient monitoring by detecting personalized patterns predictive of patient’s health deterioration
+16. [People.ai](https://www.people.ai/) | [Jobs](https://www.people.ai/about-us/careers) : People is the AI platform for enterprise sales, marketing, and customer success that uncovers every revenue opportunity from every customer.
+17. [MoneyLion](https://www.moneylion.com/) | [Jobs](https://www.moneylion.com/careers/) : MoneyLion is a mobile personal finance and consumer lending platform.
+18. [MIPS](https://www.mips.com/) | [Jobs](https://www.mips.com/careers-united-states-of-america/) : Semiconductor Manufacturing 
+19. [Rokoko](https://www.rokoko.com/) | [Jobs](https://www.rokoko.com/about/careers): Rokoko is making human motion data universally accessible
+20. [Featurespace](https://www.featurespace.com/) | [Jobs](https://www.featurespace.com/careers/current-opportunities/)  :  Featurespace is a provider of adaptive behavioral analytics technology for fraud and risk management in financial services & gaming.
+21. [Feedzai](https://feedzai.com/) | [Jobs](https://careers.feedzai.com/?_gl=1%2A15abc2u%2A_gcl_au%2AMTQzOTA0NDA3Ni4xNjg4MTEyMjkx)
+22. [Conversica](https://www.conversica.com/) | [Jobs](https://www.conversica.com/company/culture-and-careers/) : Leader in conversational AI for business; the only provider of AI-driven lead engagement software for marketing and sales organizations.
+23. [Life365](https://www.life365.health/en/) | [Jobs](https://www.life365.co/careers)  : Digital Health as a Service (DHaaS) Platform
+24. [Crowdz](https://crowdz.io/) | [Jobs](https://crowdz.io/careers) : Blockchain-Accelerated Commerce
+25. [pymetrics](https://www.pymetrics.ai/) | [Jobs]() : Pymetrics develops neuroscience-based assessment and prediction technology for staffing services.
+26. [Lemonade](https://www.lemonade.com/) | [Jobs](https://makers.lemonade.com/) : Lemonade offers homeowners and renters insurance powered by artificial intelligence and behavioral economics.
+27. [Ironclad](https://ironcladapp.com/) | [Jobs](https://ironcladapp.com/careers/) : Ironclad is the intelligent contract management system for in-house legal teams.
+28. [Arundo Analytics](https://www.arundo.com/) | [Jobs](https://www.arundo.com/people-and-career) : Machine learning for assets heavy industries · Big Data · Analytics · Data Science · Internet of Things· Industrial Internet · AI
+29. [LoopMe](https://loopme.com/) | [Jobs](https://loopme.com/careers/) :  LoopMe, the first company to close the loop on brand advertising attribution for offline sales using AI and mobile data.
+30. [Standard Cognition](https://standard.ai/) | [Jobs](https://standard.ai/careers) : Standard Cognition is an artificial intelligence platform that allows buyers to grab what they want without having to go to a cashier.
+31. [Coupa Software] (https://www.coupa.com/) | [Jobs](https://careers.coupa.com/job-openings) 
+32. [Meltwater](https://www.meltwater.com/en) | [Jobs](https://www.meltwater.com/en/careers) 
+33. [Immuta](https://www.immuta.com/) | [Jobs](https://www.immuta.com/careers/) : Data management for data science.
+34. [Clearcover](https://clearcover.com/) | [Jobs](https://clearcover.com/careers/) : Clearcover makes it easy to get reliable car insurance in minutes.
+35. [Unbabel](https://unbabel.com/) | [Jobs](https://careers.unbabel.com/) : Understand and be understood with Unbabel's AI-powered, human-refined Translation as a Service.
+36. []() | []()
 
 ## Companies helps to land remote jobs or remote work(Freelancing)
 
