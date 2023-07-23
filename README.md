@@ -1256,7 +1256,16 @@ Madan Baduwal
 33. [Immuta](https://www.immuta.com/) | [Jobs](https://www.immuta.com/careers/) : Data management for data science.
 34. [Clearcover](https://clearcover.com/) | [Jobs](https://clearcover.com/careers/) : Clearcover makes it easy to get reliable car insurance in minutes.
 35. [Unbabel](https://unbabel.com/) | [Jobs](https://careers.unbabel.com/) : Understand and be understood with Unbabel's AI-powered, human-refined Translation as a Service.
-36. []() | []()
+36. [Tessian](https://www.tessian.com/) | [Jobs](https://www.tessian.com/careers/) : Tessian prevents highly sensitive information being sent to the wrong people over email.
+37. [Influential](https://influential.co/)|[Jobs](https://influential.co/careers): Influential is an A.I. influencer technology and the only Developer Partner of IBM Watson for Influencer Marketing and Technology.
+38. [Prophesee](https://www.prophesee.ai/) | [Jobs]() : Prophesee provides bio-inspired computer vision solutions for autonomous navigation and connected objects.
+39. [Holmusk](https://www.holmusk.com/) | [Jobs](https://www.holmusk.com/careers) : Holmusk is a digital health company providing solutions for complex problems through innovative and scalable behavioural change programmes.
+40. [OWKIN](https://owkin.com/) | [Jobs](https://owkin.com/hiring#current-opportunities) : Analyzing patient data of today to find treatments of tomorrow
+41. [Verbit.ai](https://verbit.ai/) | [Jobs]() : We're using smart AI technology to disrupt transcription and captioning with automation and speed.
+42. [Rubicon Global](https://www.rubicon.com/) | [Jobs](https://www.rubicon.com/careers/): Rubicon Global is a technology company that provides waste, recycling, and smart city solutions to businesses and governments worldwide.
+43. [Paperspace](https://www.paperspace.com/) | [Jobs](https://www.paperspace.com/careers) : Paperspace powers next-generation applications built on GPUs
+44. [Kite](https://www.kite.com/blog/product/kite-is-saying-farewell/) | [Jobs](https://www.kite.com/blog/product/kite-is-saying-farewell/) : Kite augments coding environment with the use of internet’s programming knowledge and machine learning.
+
 
 ## Companies helps to land remote jobs or remote work(Freelancing)
 
@@ -1307,7 +1316,6 @@ Importatnt terminnology
 5. [Storm3](https://storm3.com/)
 6. [Talener](https://talener.com/)
 7. [System One](https://systemone.com/)
-8. []()
 
 
 
