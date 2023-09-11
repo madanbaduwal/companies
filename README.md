@@ -1205,7 +1205,12 @@ Madan Baduwal
 1130. [Cohere](https://cohere.com/) | [Jobs](https://cohere.com/careers)
 1131. [Adept](https://www.adept.ai/) | [Jobs](https://www.adept.ai/careers)
 1132. [Inflection](https://inflection.ai/) | [Jobs](https://inflection.ai/careers)
+1133. [Waabi.ai](https://waabi.ai/) | [Jobs](https://jobs.lever.co/waabi)
+1134. [Palantir Technologies](https://www.palantir.com/) | [Jobs](https://www.palantir.com/careers/)
+1135. [Wellington Management](https://www.wellington.com/en) | [Jobs](https://www.wellington.com/en)
 
+
+## [New-Grad-Positions 2024](https://github.com/SimplifyJobs/New-Grad-Positions)
 
 ## [Projectstartups](https://www.projectstartups.com/)
 
