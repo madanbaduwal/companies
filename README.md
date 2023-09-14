@@ -27,9 +27,10 @@ Madan Baduwal
 
 * [Linkedin](https://www.linkedin.com/)  | Search as "Machine Learning Intern"
     * [Linkedin Search Filter](https://www.linkedin.com/jobs/search/?currentJobId=3719191855&f_E=1&keywords=machine%20learning%20intern&origin=JOB_SEARCH_PAGE_JOB_FILTER)  
-* [Google near job search](https://www.google.com/search?q=machine+learning+internship+jobs&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#fpstate=tldetail&htivrt=jobs&htidocid=c0TG2prMmRAnTPHEAAAAAA%3D%3D)
-* [Simplify Jobs](https://simplify.jobs/jobs?state=United%20States&points=71.5388001%3B-66.885417%3B18.7763%3B-180&country=United%20States&experience=Internship&category=Software%20Engineering)
+* [Google Filter](https://www.google.com/search?q=machine+learning+internship+jobs&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#fpstate=tldetail&htivrt=jobs&htidocid=c0TG2prMmRAnTPHEAAAAAA%3D%3D)
+* [Simplify Jobs Filter](https://simplify.jobs/jobs?state=United%20States&points=71.5388001%3B-66.885417%3B18.7763%3B-180&country=United%20States&experience=Internship&category=Software%20Engineering)
 * [indeed](https://www.indeed.com/)
+    * [Indeed Filter](https://www.indeed.com/jobs?q=machine+learning+internship&l=United+States&from=searchOnHP&vjk=c161fa4a53a6b2e2)
 * [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 * [ZipRecruiter](https://www.ziprecruiter.com/)
 * [Mediabistro](https://www.mediabistro.com/)
