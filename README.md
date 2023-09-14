@@ -6,17 +6,15 @@
 * **Note:In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
 
 ## Cover Letter
-Dear [Recruiter Name],
 
-I am currently in my first year of masters in computer science degree at the University of Texas Permian Basin, and I am seeking opportunities to develop my research and professional skills at [company name]. Do you have any vacancies for interns(from January 2024 remote) or jobs(from may 2024) Machine Learning Position?
+Subject : Summer 2024 Internship 
 
-I have 3+ years of experience in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, Software engineering, and Robotics. I am going to attach my resume for reference.
+Hi [Recruiter Name],
 
-Thank you for your consideration, I hope very much to hear from you soon.
+I am currently enrolled in the MS program (Computer Science) at the University of Texas Permian Basin and looking for summer 2024 internship opportunities. Is there any position available in your team? Can you please help me out here.
 
 
-Yours sincerely,
-
+Thanks and Regards
 Madan Baduwal
 
 
@@ -27,9 +25,10 @@ Madan Baduwal
 
 ## Job listing companies 
 
-* [Google near job search](https://www.google.com/search?q=machine+learning+software++jobs+near+me&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#htivrt=jobs&htidocid=1gww_iHo9B8AAAAAAAAAAA%3D%3D&fpstate=tldetail)
-* [Linkedin](https://www.linkedin.com/)  | Search as "2024 summer internship you will get github list"
-    * [Linkedin Search Filter](https://www.linkedin.com/jobs/search/?currentJobId=3702785879&f_T=9%2C370%2C18630%2C25189%2C14184%2C607%2C17413%2C25190%2C2528%2C30006%2C30220%2C3110&geoId=103644278&keywords=internship&location=United%20States&refresh=true&sortBy=R)  
+* [Linkedin](https://www.linkedin.com/)  | Search as "Machine Learning Intern"
+    * [Linkedin Search Filter](https://www.linkedin.com/jobs/search/?currentJobId=3719191855&f_E=1&keywords=machine%20learning%20intern&origin=JOB_SEARCH_PAGE_JOB_FILTER)  
+* [Google near job search](https://www.google.com/search?q=machine+learning+internship+jobs&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#fpstate=tldetail&htivrt=jobs&htidocid=c0TG2prMmRAnTPHEAAAAAA%3D%3D)
+* [Simplify Jobs](https://simplify.jobs/jobs?state=United%20States&points=71.5388001%3B-66.885417%3B18.7763%3B-180&country=United%20States&experience=Internship&category=Software%20Engineering)
 * [indeed](https://www.indeed.com/)
 * [Glassdoor](https://www.glassdoor.com/member/home/index.htm)
 * [ZipRecruiter](https://www.ziprecruiter.com/)
@@ -43,12 +42,12 @@ Madan Baduwal
 * [Usajobs](https://www.usajobs.gov/)
 * [Pathrise](https://www.pathrise.com/)
 * [Naukri](https://www.naukri.com/)
-* [Simplify Jobs](https://simplify.jobs/jobs)
 * [levels.fyi](https://www.levels.fyi/internships/)
 
 ## Tools 
 
 - [simplify]()
+- [Careerflow AI LinkedIn Optimization and more]()
 
 ## Fortune 500+
 
