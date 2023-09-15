@@ -23,6 +23,16 @@ Madan Baduwal
 * H1B filled
 * Linkedin follower: 6 digit followers in linkedin i.e 100k > 
 
+
+## Other Notes
+
+* Check job descriptions and refine resume with skills
+* Set two unforgetable passwords for job portal
+* Three parallel concept
+   * Social Media: Linkedin, google, indeed... | You can randomly apply any company JD match with yours resume
+   * Official website : Make a dream company list | Apply carefully and give some time
+   * From others list: github, other list... | Randomly apply any company JD match with yours resume
+
 ## Job listing companies 
 
 * [Linkedin](https://www.linkedin.com/)  | Search as "Machine Learning Intern"
@@ -1414,6 +1424,8 @@ XcelTech Inc -->
 - [Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships)
 - [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 - [2024-SWE-New-Grad](https://github.com/AlanChen4/2024-SWE-New-Grad)
+- [Summer-2024-internship](https://github.com/OnlyReferrals/Summer-2024-internship)
+- [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
 - [Projectstartups](https://www.projectstartups.com/)
 - [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 - [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
