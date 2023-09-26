@@ -7,6 +7,7 @@
 
 ## Cover Letter
 
+```
 Subject : Summer 2024 Internship 
 
 Hi [Recruiter Name],
@@ -15,8 +16,11 @@ I am currently enrolled in the MS program (Computer Science) at the University o
 
 
 Thanks and Regards
+
 Madan Baduwal
 
+
+```
 
 ## Important Factors Selecting Company
 
