@@ -11,7 +11,7 @@ Subject : Summer 2024 Internship
 
 Hi [Recruiter Name],
 
-I am currently enrolled in the MS program (Computer Science) at the University of Texas Permian Basin and looking for summer 2024 internship opportunities. Is there any position available in your team? Can you please help me out here.
+I am currently enrolled in the MS program (Computer Science) at the University of Texas Permian Basin and looking for summer 2024 internship opportunities in Machine Learning and Data Science. Is there any position available in your team? Can you please help me out here.
 
 
 Thanks and Regards
