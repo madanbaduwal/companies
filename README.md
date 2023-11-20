@@ -2,8 +2,13 @@
 
 ## For an interview
 
-* **Note: Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
-* **Note:In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
+Notes: 
+
+* If your resume doesn't align with job description then there is low probability of selecting your resume. Apply positions that fit for your profile only. i.e your profile should match with job description and company goal mission. 
+* **Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
+* **In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
+* **Research about company before interview , ask genuine questions**
+
 
 ## Cover Letter
 
@@ -25,6 +30,7 @@ Madan Baduwal
 ## Important Factors Selecting Company
 
 * H1B filled
+* Green Card filled
 * Linkedin follower: 6 digit followers in linkedin i.e 100k > 
 
 
@@ -32,10 +38,18 @@ Madan Baduwal
 
 * Check job descriptions and refine resume with skills
 * Set two unforgetable passwords for job portal
+   <!-- * Passwordmadan@123
+   * Passwordbaduwal@123  -->
 * Three parallel concept
    * Social Media: Linkedin, google, indeed... | You can randomly apply any company JD match with yours resume
    * Official website : Make a dream company list | Apply carefully and give some time
    * From others list: github, other list... | Randomly apply any company JD match with yours resume
+* Be flexible about job title computer vision engineer(first priority) > NLP engineer > Machine learning engineer > Data analytics > Software engineer
+* **Main page> Career(top or bottom of the page, about>career) > Students > Internship**
+* **Official website > linkedin of that website > jobs > linkedin automatically recommend jobs for you according to your profile, search your job by title | You will get fast update in LinkedIn**
+* Many company have sub-companies work on software and technology
+* Profile: Find out position and submit
+* No Profile: Fill all fields and submit
 
 ## Job listing companies 
 
@@ -61,16 +75,11 @@ Madan Baduwal
 
 ## Tools 
 
-- [simplify]()
-- [Careerflow AI LinkedIn Optimization and more]()
+- [simplify]() : Help to autofill job applications
+- [Careerflow AI LinkedIn Optimization and more]() : Evaluate your profile/resume on the basis of JD and point-out missing keywords.
+  
 
 ## Fortune 500+
-
-* Main page> Career(top or bottom of the page, about>career) > Students > Internship
-* Many company have sub-companies work on software and technology
-
-* Profile: Find out position and submit
-* No Profile: Fill all fields and submit
 
 1. Meta | [Jobs](https://www.metacareers.com/),[Internship](https://www.metacareers.com/careerprograms/students) | [Profile](https://www.metacareers.com/profile/home)
 2. Amazon | [Jobs](https://www.amazon.jobs/en/), [Internship](https://www.amazon.jobs/en/teams/internships-for-students)| [Profile](https://account.amazon.jobs/en-US)
@@ -216,52 +225,52 @@ Madan Baduwal
 142. [AutoNation](https://jobs.autonation.com/)
 143. [Penske Automotive Group](https://www.penskeautomotive.com/home/default.aspx)
 144. [PayPal Holdings](https://careers.pypl.com/home/)
-145. [Macy's](https://www.macysinc.com/careers)
-146. [Duke Energy](https://www.duke-energy.com/our-company/careers)
-147. [United Airlines Holdings](https://careers.united.com/us/en)
-148. [Visa](https://www.visa.co.in/)
-149. [Rite Aid](https://www.riteaid.com/)
-150. [Cummins](https://www.cummins.com/)
-151. [U.S. Bancorp](https://www.usbank.com/index.html)
-152. [Paccar](https://jobs.paccar.com/)
-153. [McDonald's](https://careers.mcdonalds.com/)
-154. [Southern](https://www.southernrailway.com/)
-155. [C.H. Robinson Worldwide](https://www.chrobinson.com/en-us/)
-156. [Truist Financial](https://www.truist.com/#)
-157. [Applied Materials](https://www.appliedmaterials.com/)
-158. [Freeport-McMoRan](https://www.fcx.com/)
-159. [Lithia Motors](https://www.lithia.com/)
-160. [Blackstone](https://www.blackstone.com/)
-161. [Hartford Financial Services Group](https://www.thehartford.com/)
-162. [Aflac](https://www.aflac.com/)
-163. [Whirlpool](https://www.whirlpoolindia.com/)
-164. [Union Pacific](https://www.up.com/index.htm)
-165. [International Paper](https://www.internationalpaper.com/)
-166. [AltriaGroup](https://www.altria.com/)
-167. [CDW](https://www.cdw.com/)
-168. [ManpowerGroup](https://www.manpowergroup.com/en/careers)
-169. [PG&E](https://www.pgecorp.com/corp/index.page)
-170. [Carrier Global](https://www.corporate.carrier.com/)
-171. [Baker Hughes](https://www.bakerhughes.com/)
-172. [Cleveland-Cliffs](https://www.clevelandcliffs.com/)
-173. [United States Steel](https://www.ussteel.com/)
-174. [Becton Dickinson](https://www.bd.com/en-us)
-175. [CarMax](https://www.carmax.com/)
-176. [Sherwin-Williams](https://www.sherwin-williams.com/)
-177. [Builders FirstSource](https://www.bldr.com/)
-178. [Marsh & McLennan](https://www.marsh.com/us/home.html)
-179. [PNC Financial Services](https://www.pnc.com/en/personal-banking.html)
-180. [Lumen Technologies](https://www.lumen.com/en-us/home.html)
-181. [Avnet](https://www.avnet.com/wps/portal/us/)
-182. [Tenet Healthcare](https://www.tenethealth.com/)
-183. [Kimberly-Clark](https://www.kimberly-clark.com/en-us/)
-184. [Kohl's](https://www.kohls.com/)
-185. [BlackRock](https://www.blackrock.com/us/individual)
-186. [Jones Lang LaSalle](https://www.us.jll.com/)
-187. [Lear](https://www.lear.com/)
-188. [Lincoln National](https://www.lincolnfinancial.com/public/individuals)
-189. [Charles Schwab](https://www.schwab.com/)
-190. [Ross Stores](https://jobs.rossstores.com/)
+145. [Macy's](https://www.macysinc.com/careers) | [Jobs](https://www.macysinc.com/work-with-us/careers/default.aspx) | [Linkedin](https://www.linkedin.com/company/macy/life/8e0217c8-1786-4f24-9de7-f688c91e8105/)
+146. [Duke Energy](https://www.duke-energy.com/our-company/careers) | [Jobs](https://www.duke-energy.com/our-company/careers)|[Linkedin](https://www.linkedin.com/company/duke-energy-corporation/)
+147. [United Airlines Holdings](https://www.united.com/en/us/) | [Jobs](https://careers.united.com/us/en) | [Linkedin](https://www.linkedin.com/company/united-airlines/jobs/)
+148. [Visa](https://www.visa.co.in/) | [Jobs](https://www.visa.co.in/careers.html) | [Linkedin](https://www.linkedin.com/company/visa/)
+149. [Rite Aid](https://www.riteaid.com/) | [Jobs](https://careers.riteaid.com/) | [Linkedin](https://www.linkedin.com/company/riteaid/)
+150. [Cummins](https://www.cummins.com/) | [Jobs](https://www.cummins.com/careers) | [Linkedin](https://www.linkedin.com/company/cummins-inc/)
+151. [U.S. Bancorp](https://www.usbank.com/index.html) | [Jobs](https://careers.usbank.com/global/en) |[Linkedin](https://www.linkedin.com/company/us-bank/)
+152. [Paccar](https://jobs.paccar.com/)|[Jobs](https://jobs.paccar.com/) | [Linkedin](https://www.linkedin.com/company/paccar/)
+153. [McDonald's](https://www.mcdonalds.com/us/en-us.html) | [Jobs](https://careers.mcdonalds.com/) | [Jobs](https://www.linkedin.com/company/mcdonald's-corporation/)
+154. [Southern](https://www.southernrailway.com/) | [Jobs](https://www.southernrailway.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/southern-railway-limited-southern-/)
+155. [C.H. Robinson Worldwide](https://www.chrobinson.com/en-us/) | [Jobs](https://www.chrobinson.com/en-us/carriers/) | [Linkdine](https://www.linkedin.com/company/c-h-robinson/)
+156. [Truist Financial](https://www.truist.com/#) | [Jobs](https://careers.truist.com/us/en) | [Linkdine](https://www.linkedin.com/company/truistfinancialcorporation/)
+157. [Applied Materials](https://www.appliedmaterials.com/)| [Jobs](https://www.appliedmaterials.com/us/en/careers.html) | [Linkdine](https://www.linkedin.com/company/applied-materials/)
+158. [Freeport-McMoRan](https://www.fcx.com/) | [Jobs](https://www.fcx.com/careers)| [Linkdine](https://www.linkedin.com/company/freeport-mcmoran-inc/)
+159. [Lithia Motors](https://www.lithia.com/) | [Jobs](https://lithia.wd5.myworkdayjobs.com/LithiaCareers/?source=Lithia_Website)|[Linkedin](https://www.linkedin.com/company/lithia-motors/)
+160. [Blackstone](https://www.blackstone.com/) | [Jobs](https://www.blackstone.com/careers/careers-blackstone/) | [Linkedin](https://www.linkedin.com/company/blackstonegroup/)
+161. [Hartford Financial Services Group](https://www.thehartford.com/) | [Jobs](https://www.thehartford.com/careers) | [Linkedin](https://www.linkedin.com/company/the-hartford/)
+162. [Aflac](https://www.aflac.com/) | [Jobs](https://careers.aflac.com/) | [linkedin](https://www.linkedin.com/company/aflac/)
+163. [Whirlpool](https://www.whirlpoolindia.com/) | [Jobs](https://www.whirlpoolcareers.com/india/) | [Linedin](https://www.linkedin.com/company/whirlpool-corporation/)
+164. [Union Pacific](https://www.up.com/index.htm) | [Jobs](https://up.jobs/) | [Linedin](https://www.linkedin.com/company/unionpacific/)
+165. [International Paper](https://www.internationalpaper.com/)| [Jobs](https://www.internationalpaper.com/employee-resources) | [Linedin](https://www.linkedin.com/company/international-paper/)
+166. [AltriaGroup](https://www.altria.com/)| [Jobs](https://careers.altria.com/?src=topnav) | [Linedin](https://www.linkedin.com/company/altria/jobs/)
+167. [CDW](https://www.cdw.com/)| [Jobs](https://www.cdwjobs.com/?bid=45) | [Linedin](https://www.linkedin.com/company/cdw/)
+168. [ManpowerGroup](https://www.manpowergroup.com/en/careers)| [Jobs](https://www.manpowergroup.com/en/careers) | [Linedin](https://www.linkedin.com/company/manpowergroup/?utm_source=Elevate&utm_medium=Social&utm_campaign=LinkedIn)
+169. [PG&E](https://www.pgecorp.com/corp/index.page)| [Jobs](https://jobs.pge.com/) | [Linedin](https://www.linkedin.com/company/pacificgasandelectric/)
+170. [Carrier Global](https://www.corporate.carrier.com/)| [Jobs](https://www.corporate.carrier.com/careers/work-with-us/) | [Linedin](https://www.linkedin.com/company/carrier/) | Have IT positions
+171. [Baker Hughes](https://www.bakerhughes.com/)| [Jobs](https://careers.bakerhughes.com/global/en) | [Linedin](https://www.linkedin.com/company/bakerhughes/) | Have IT positions
+172. [Cleveland-Cliffs](https://www.clevelandcliffs.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/cleveland-cliffs/)
+173. [United States Steel](https://www.ussteel.com/)| [Jobs](https://www.ussteel.com/careers/careers-in-steel) | [Linedin](https://www.linkedin.com/company/u-s-steel/)
+174. [Becton Dickinson](https://www.bd.com/en-us)| [Jobs](https://jobs.bd.com/) | [Linedin](https://www.linkedin.com/company/bd1/) | Have IT positions
+175. [CarMax](https://www.carmax.com/)| [Jobs](https://careers.carmax.com/us/en) | [Linedin](https://www.linkedin.com/company/carmax/) | Have IT positions
+176. [Sherwin-Williams](https://www.sherwin-williams.com/)| [Jobs](https://careers.sherwin-williams.com/home?_gl=1*p1ow8e*_gcl_au*MTM5NTgxMDYyNC4xNzAwNDc1NjA2*_ga*NTI2NzMzOTM0LjE3MDA0NzU2MDc.*_ga_BFTFS1H2E0*MTcwMDQ3NTYwNy4xLjAuMTcwMDQ3NTYxMy41NC4wLjA.&_ga=2.139191348.662149353.1700475608-526733934.1700475607) | [Linedin](https://www.linkedin.com/company/sherwin-williams/)
+177. [Builders FirstSource](https://www.bldr.com/)| [Jobs](https://www.bldr.com/join-our-team/jobs-search) | [Linedin](https://www.linkedin.com/company/builders-firstsource/)
+178. [Marsh & McLennan](https://www.marsh.com/us/home.html)| [Jobs](https://careers.marshmclennan.com/global/en/marsh) | [Linedin](https://www.linkedin.com/company/marsh/)
+179. [PNC Financial Services](https://www.pnc.com/en/personal-banking.html)| [Jobs](https://careers.pnc.com/global/en) | [Linedin](https://www.linkedin.com/company/pnc-bank/)
+180. [Lumen Technologies](https://www.lumen.com/en-us/home.html)| [Jobs](https://jobs.lumen.com/global/en) | [Linedin](https://www.linkedin.com/company/lumentechnologies/)
+181. [Avnet](https://www.avnet.com/wps/portal/us/)| [Jobs](https://www.avnet.com/wps/portal/us/about-avnet/careers/) | [Linedin](https://www.linkedin.com/company/avnet/)
+182. [Tenet Healthcare](https://www.tenethealth.com/)| [Jobs](https://www.tenethealth.com/careers) | [Linedin](https://www.linkedin.com/company/tenet-healthcare/)
+183. [Kimberly-Clark](https://www.kimberly-clark.com/en-us/)| [Jobs](https://www.careers.kimberly-clark.com/en) | [Linedin](https://www.linkedin.com/company/kimberly-clark/?trk=hb_tab_compy_id_3439)
+184. [Kohl's](https://www.kohls.com/)| [Jobs](https://careers.kohls.com/) | [Linedin](https://www.linkedin.com/company/kohls-department-stores/)
+185. [BlackRock](https://www.blackrock.com/us/individual)| [Jobs](https://careers.blackrock.com/) | [Linedin](https://www.linkedin.com/company/blackrock/) | Have IT positions
+186. [Jones Lang LaSalle](https://www.us.jll.com/)| [Jobs](https://www.us.jll.com/en/careers) | [Linedin](https://www.linkedin.com/company/jll/)
+187. [Lear](https://www.lear.com/)| [Jobs](https://jobs.lear.com/) | [Linedin](https://www.linkedin.com/company/lear-corporation/)
+188. [Lincoln National](https://www.lincolnfinancial.com/public/individuals)| [Jobs](https://www.lincolnfinancial.com/public/aboutus/careers) | [Linedin](https://www.linkedin.com/company/lincoln-financial-group/)
+189. [Charles Schwab](https://www.schwab.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/charles-schwab/) | Have IT positions
+190. [Ross Stores](https://jobs.rossstores.com/)| [Jobs](https://jobs.rossstores.com/#close) | [Linedin](https://www.linkedin.com/company/ross-stores/jobs/) | [Jobs]() | [Linedin]()
 191. [Mastercard](https://www.mastercard.co.in/en-in.html)
 192. [Genuine Parts](https://www.genpt.com/)
 193. [WestRock](https://www.westrock.com/)
