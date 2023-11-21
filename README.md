@@ -276,11 +276,11 @@ Madan Baduwal
 193. [WestRock](https://www.westrock.com/)| [Jobs](https://www.westrock.com/company/careers) | [Linedin](https://www.linkedin.com/company/westrockcompany/) | Packaging and Containers Manufacturing
 194. [EOG Resources](https://www.eogresources.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/eog-resources/) | Oil and Gas
 195. [cognizant Technology](https://www.cognizant.com/us/en)| [Jobs](https://careers.cognizant.com/global/en) | [Linedin](https://www.linkedin.com/company/cognizant/) |Have IT positions| IT Services and IT Consulting
-196. [Moderna](https://www.modernatx.com/)| [Jobs]() | [Linedin]()
-197. [Steel Dynamics](https://stld.steeldynamics.com/)| [Jobs]() | [Linedin]()
-198. [HF Sinclair](https://www.hfsinclair.com/home/default.aspx)| [Jobs]() | [Linedin]()
-199. [Texas Instruments](https://www.ti.com/)| [Jobs]() | [Linedin]()
-200. [Emerson Electric](https://www.emerson.com/en-us/careers)| [Jobs]() | [Linedin]()
+196. [Moderna](https://www.modernatx.com/)| [Jobs](https://www.modernatx.com/careers/life-at-moderna) | [Linedin](https://www.linkedin.com/company/modernatx/) | Have IT positions | Biotechnology Research
+197. [Steel Dynamics](https://stld.steeldynamics.com/)| [Jobs](https://stld.steeldynamics.com/careersnew/) | [Linedin](https://www.linkedin.com/company/steel-dynamics-inc/) | Manufacturing
+198. [HF Sinclair](https://www.hfsinclair.com/home/default.aspx)| [Jobs](https://careers.hfsinclair.com/) | [Linedin](https://www.linkedin.com/company/hollyfrontier/) | Oil and Gas
+199. [Texas Instruments](https://www.ti.com/)| [Jobs](https://careers.ti.com/) | [Linedin](https://www.linkedin.com/company/texas-instruments/) | Have IT positions | Semiconductor Manufacturing
+200. [Emerson Electric](https://www.emerson.com/en-us/careers)| [Jobs](https://www.emerson.com/en-us/careers) | [Linedin](https://www.linkedin.com/company/emerson/) | Have IT positions| Industrial Machinery Manufacturing
 201. [WESCO International](https://www.wesco.com/)| [Jobs]() | [Linedin]()
 202. [General Mills](https://www.generalmills.com/)| [Jobs]() | [Linedin]()
 203. [Tenneco](https://www.tenneco.com/)| [Jobs]() | [Linedin]()
