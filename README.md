@@ -272,10 +272,10 @@ Madan Baduwal
 189. [Charles Schwab](https://www.schwab.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/charles-schwab/) | Have IT positions
 190. [Ross Stores](https://jobs.rossstores.com/)| [Jobs](https://jobs.rossstores.com/#close) | [Linedin](https://www.linkedin.com/company/ross-stores/jobs/) 
 191. [Mastercard](https://www.mastercard.co.in/en-in.html) | [Jobs](https://careers.mastercard.com/us/en) | [Linedin](https://www.linkedin.com/company/mastercard/) | Have IT positions
-192. [Genuine Parts](https://www.genpt.com/) | [Jobs]() | [Linedin]()
-193. [WestRock](https://www.westrock.com/)| [Jobs]() | [Linedin]()
-194. [EOG Resources](https://careers.eogresources.com/adhocjobsearch.asp)| [Jobs]() | [Linedin]()
-195. [cognizant Technology](https://www.cognizant.com/us/en)| [Jobs]() | [Linedin]()
+192. [Genuine Parts](https://www.genpt.com/) | [Jobs](https://jobs.genpt.com/) | [Linedin](https://www.linkedin.com/company/genuine-parts-company/) | Have IT positions | Motor Vehicle Parts Manufacturing
+193. [WestRock](https://www.westrock.com/)| [Jobs](https://www.westrock.com/company/careers) | [Linedin](https://www.linkedin.com/company/westrockcompany/) | Packaging and Containers Manufacturing
+194. [EOG Resources](https://www.eogresources.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/eog-resources/) | Oil and Gas
+195. [cognizant Technology](https://www.cognizant.com/us/en)| [Jobs](https://careers.cognizant.com/global/en) | [Linedin](https://www.linkedin.com/company/cognizant/) |Have IT positions| IT Services and IT Consulting
 196. [Moderna](https://www.modernatx.com/)| [Jobs]() | [Linedin]()
 197. [Steel Dynamics](https://stld.steeldynamics.com/)| [Jobs]() | [Linedin]()
 198. [HF Sinclair](https://www.hfsinclair.com/home/default.aspx)| [Jobs]() | [Linedin]()
