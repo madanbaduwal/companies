@@ -281,45 +281,45 @@ Madan Baduwal
 198. [HF Sinclair](https://www.hfsinclair.com/home/default.aspx)| [Jobs](https://careers.hfsinclair.com/) | [Linedin](https://www.linkedin.com/company/hollyfrontier/) | Oil and Gas
 199. [Texas Instruments](https://www.ti.com/)| [Jobs](https://careers.ti.com/) | [Linedin](https://www.linkedin.com/company/texas-instruments/) | Have IT positions | Semiconductor Manufacturing
 200. [Emerson Electric](https://www.emerson.com/en-us/careers)| [Jobs](https://www.emerson.com/en-us/careers) | [Linedin](https://www.linkedin.com/company/emerson/) | Have IT positions| Industrial Machinery Manufacturing
-201. [WESCO International](https://www.wesco.com/)| [Jobs]() | [Linedin]()
-202. [General Mills](https://www.generalmills.com/)| [Jobs]() | [Linedin]()
-203. [Tenneco](https://www.tenneco.com/)| [Jobs]() | [Linedin]()
+201. [WESCO International](https://www.wesco.com/)| [Jobs](https://www.wesco.com/us/en/our-company/careers/career-opportunities.html) | [Linedin](https://www.linkedin.com/company/wesco/posts/?feedView=all) | Wholesale
+202. [General Mills](https://www.generalmills.com/)| [Jobs](https://careers.generalmills.com/careers/?lang=en-US) | [Linedin](https://www.linkedin.com/company/general-mills/) | Manufacturing
+203. [Tenneco](https://www.tenneco.com/)| [Jobs](https://jobs.tenneco.com/) | [Linedin](https://www.linkedin.com/company/tenneco/) | Motor Vehicle Manufacturing
 204. [Waste Management](https://gwcnweb.org/)| [Jobs]() | [Linedin]()
 205. [Waste Management](https://gwcnweb.org/)| [Jobs]() | [Linedin]()
-206. [Viatris](https://www.viatris.com/en)| [Jobs]() | [Linedin]()
-207. [DISH Network](https://www.dish.com/#)| [Jobs]() | [Linedin]()
-208. [L3Harris Technologies](https://www.l3harris.com/)| [Jobs]() | [Linedin]()
-209. [DXC Technology](https://dxc.com/us/en)| [Jobs]() | [Linedin]()
-210. [Block](https://www.block.xyz/)| [Jobs]() | [Linedin]()
-211. [Goodyear Tire & Rubber](https://www.goodyear.com/)| [Jobs]() | [Linedin]()
-212. [Uber Technologies](https://www.uber.com/)| [Jobs]() | [Linedin]()
-213. [Colgate-Palmolive](https://www.colgatepalmolive.com/en-us)| [Jobs]() | [Linedin]()
-214. [Stanley Black & Decker](https://www.stanleyblackanddecker.com/)| [Jobs]() | [Linedin]()
-215. [DuPont](https://www.dupont.com/)| [Jobs]() | [Linedin]()
-216. [Stryker](https://careers.stryker.com/)| [Jobs]() | [Linedin]()
-217. [NextEra Energy](https://www.nexteraenergy.com/)| [Jobs]() | [Linedin]()
-218. [Targa Resources](https://www.targaresources.com/)| [Jobs]() | [Linedin]()
-219. [Western Digital](https://www.westerndigital.com/)| [Jobs]() | [Linedin]()
-220. [PPG Industries](https://www.ppg.com/en-US)| [Jobs]() | [Linedin]()
-221. [American Electric Power](https://www.aep.com/)| [Jobs]() | [Linedin]()
-222. [Gap](https://www.gap.com/)| [Jobs]() | [Linedin]()
-223. [BJ's Wholesale Club](https://www.bjs.com/)| [Jobs]() | [Linedin]()
-224. [Reinsurance Group of](https://www.rgare.com/)| [Jobs]() | [Linedin]()
-225. [Kinder Morgan](https://www.kindermorgan.com/)| [Jobs]() | [Linedin]()
-226. [Oneok](https://www.oneok.com/)| [Jobs]() | [Linedin]()
-227. [Expeditors Intl. of Washington](https://www.expeditors.com/)| [Jobs]() | [Linedin]()
-228. [Advanced Micro Devices](https://www.amd.com/en)| [Jobs]() | [Linedin]()
-229. [Fiserv](https://www.fiserv.com/)| [Jobs]() | [Linedin]()
-230. [Estée Lauder](https://www.elcompanies.com/en)| [Jobs]() | [Linedin]()
-231. [Bank of New York Mellon](https://www.bnymellon.com/)| [Jobs]() | [Linedin]()
-232. [Laboratory Corp. of America](https://www.labcorp.com/)| [Jobs]() | [Linedin]()
-233. [Regeneron Pharmaceuticals](https://www.regeneron.com/)| [Jobs]() | [Linedin]()
-234. [Land O'Lakes](https://www.landolakesinc.com/)| [Jobs]() | [Linedin]()
-235. [Cheniere Energy](https://www.cheniere.com/)| [Jobs]() | [Linedin]()
-236. [Southwest Airlines](https://www.southwest.com/)| [Jobs]() | [Linedin]()
-237. [Synchrony Financial](https://www.synchrony.com/)| [Jobs]() | [Linedin]()
-238. [Corteva](https://www.corteva.com/)| [Jobs]() | [Linedin]()
-239. [Fidelity National Financial](https://fnf.com/)| [Jobs]() | [Linedin]()
+206. [Viatris](https://www.viatris.com/en)| [Jobs](https://www.viatris.com/en/careers) | [Linedin](https://www.linkedin.com/company/viatris/) | Pharmaceutical Manufacturing 
+207. [DISH Network](https://www.dish.com/#)| [Jobs](https://careers.dish.com/) | [Linedin](https://www.linkedin.com/company/dish-network/) | Telecommunications
+208. [L3Harris Technologies](https://www.l3harris.com/)| [Jobs](https://careers.l3harris.com/new-grads-and-interns) | [Linedin](https://www.linkedin.com/company/l3harris-technologies/) | Have IT positions | Defense and Space Manufacturing
+209. [DXC Technology](https://dxc.com/us/en)| [Jobs](https://careers.dxc.com/global/en) | [Linedin](https://www.linkedin.com/company/dxctechnology/) | Have IT positions | IT Services and IT Consulting
+210. [Block](https://www.block.xyz/)| [Jobs](https://block.xyz/careers) | [Linedin](https://www.linkedin.com/company/joinblock/) |Have IT positions| Financial Services
+211. [Goodyear Tire & Rubber](https://www.goodyear.com/)| [Jobs](https://jobs.goodyear.com/) | [Linedin](https://www.linkedin.com/company/goodyear/jobs/) | Have IT positions | Motor Vehicle Manufacturing 
+212. [Uber Technologies](https://www.uber.com/)| [Jobs](https://www.uber.com/us/en/careers/?uclick_id=fe6ed5d4-3ea4-4182-b437-23764612f378) | [Linedin](https://www.linkedin.com/company/uber-com/) | Have IT positions | Internet Marketplace Platforms 
+213. [Colgate-Palmolive](https://www.colgatepalmolive.com/en-us)| [Jobs](https://jobs.colgate.com/) | [Linedin](https://www.linkedin.com/company/colgate-palmolive/) | Have IT positions | Manufacturing
+214. [Stanley Black & Decker](https://www.stanleyblackanddecker.com/)| [Jobs](https://www.stanleyblackanddecker.com/careers/featured-careers) | [Linedin](https://www.linkedin.com/company/stanley-black-decker-inc/) | Have IT positions | Manufacturing 
+215. [DuPont](https://www.dupont.com/)| [Jobs](https://careers.dupont.com/us/en) | [Linedin](https://www.linkedin.com/company/dupont/) | Have IT positions  | Manufacturing
+216. [Stryker](https://www.strykercareersblog.com/)| [Jobs](https://careers.stryker.com/) | [Linedin](https://www.linkedin.com/company/stryker/) | Have IT positions| Medical Equipment Manufacturing 
+217. [NextEra Energy](https://www.nexteraenergy.com/)| [Jobs](https://www.nexteraenergy.com/careers/search-jobs.html) | [Linedin](https://www.linkedin.com/company/nextera-energy-inc/) | Have IT positions | Utilities
+218. [Targa Resources](https://www.targaresources.com/)| [Jobs](https://www.targaresources.com/careers/careers-overview) | [Linedin](https://www.linkedin.com/company/targa-resources/) |  Have IT positions | Oil and Gas
+219. [Western Digital](https://www.westerndigital.com/)| [Jobs](https://jobs.westerndigital.com/) | [Linedin](https://www.linkedin.com/company/western-digital/)  |  Have IT positions| Computer Hardware Manufacturing
+220. [PPG Industries](https://www.ppg.com/en-US)| [Jobs](https://ppg.referrals.selectminds.com/) | [Linedin](https://www.linkedin.com/company/ppg/) | Paint, Coating, and Adhesive Manufacturing 
+221. [American Electric Power](https://www.aep.com/)| [Jobs](https://www.aep.com/careers/positions) | [Linedin](https://www.linkedin.com/company/american-electric-power/) | Utilities
+222. [Gap](https://www.gap.com/)| [Jobs](https://www.gapinc.com/en-us/careers/gap-careers) | [Linedin](https://www.linkedin.com/company/gap-inc--gap/) | Retail
+223. [BJ's Wholesale Club](https://www.bjs.com/)| [Jobs](https://careers.bjs.com/) | [Linedin](https://www.linkedin.com/company/bj's-wholesale-club/) | Retail
+224. [Reinsurance Group of](https://www.rgare.com/)| [Jobs](https://www.rgare.com/careers/careers-overview) | [Linedin](https://www.linkedin.com/company/rga-reinsurance-group-of-america-incorporated/) | Have IT positions |Insurance
+225. [Kinder Morgan](https://www.kindermorgan.com/)| [Jobs](https://www.kindermorgan.com/Careers/Job-Opportunities) | [Linedin](https://www.linkedin.com/company/kinder-morgan/) | Oil and Gas
+226. [Oneok](https://www.oneok.com/)| [Jobs](https://oneok.wd1.myworkdayjobs.com/ONEOK) | [Linedin](https://www.linkedin.com/company/oneok/) | Oil and Gas 
+227. [Expeditors Intl. of Washington](https://www.expeditors.com/)| [Jobs](https://www.expeditors.com/careers) | [Linedin](https://www.linkedin.com/company/expeditors/) | Transportation, Logistics, Supply Chain and Storage 
+228. [Advanced Micro Devices](https://www.amd.com/en)| [Jobs](https://careers.amd.com/careers-home) | [Linedin](https://www.linkedin.com/company/amd/) | Have IT positions | Semiconductor Manufacturing 
+229. [Fiserv](https://www.fiserv.com/)| [Jobs](https://www.careers.fiserv.com/) | [Linedin](https://www.linkedin.com/company/fiserv/) | Have IT positions | IT Services and IT Consulting 
+230. [Estée Lauder](https://www.elcompanies.com/en)| [Jobs](https://www.elcompanies.com/en/careers/technology-jobs) | [Linedin](https://www.linkedin.com/company/the-estee-lauder-companies-inc/) | Personal Care Product Manufacturing 
+231. [Bank of New York Mellon](https://www.bnymellon.com/)| [Jobs](https://bnymellon.eightfold.ai/careers) | [Linedin](https://www.linkedin.com/company/bny-mellon/) | Financial Services
+232. [Laboratory Corp. of America](https://www.labcorp.com/)| [Jobs](https://careers.labcorp.com/global/en) | [Linedin](https://www.linkedin.com/company/labcorp/) | Hospitals and Health Care 
+233. [Regeneron Pharmaceuticals](https://www.regeneron.com/)| [Jobs](https://careers.regeneron.com/) | [Linedin](https://www.linkedin.com/company/regeneron-pharmaceuticals/) |Have IT positions | Biotechnology
+234. [Land O'Lakes](https://www.landolakesinc.com/)| [Jobs](https://careers.landolakesinc.com/us/en) | [Linedin](https://www.linkedin.com/company/landolakesinc/) | Food and Beverage Manufacturing 
+235. [Cheniere Energy](https://www.cheniere.com/)| [Jobs](https://www.cheniere.com/careers) | [Linedin](https://www.linkedin.com/company/cheniere-energy-inc/) | Oil and Gas
+236. [Southwest Airlines](https://www.southwest.com/)| [Jobs](https://careers.southwestair.com/?clk=GFOOTER-ABOUT-CAREERS) | [Linedin](https://www.linkedin.com/company/southwest-airlines/?clk=GFOOTER-LINKEDIN) | Have IT positions | Airlines and Aviation 
+237. [Synchrony Financial](https://www.synchrony.com/)| [Jobs](https://www.synchronycareers.com/?intlnk=synfin&intcmp=home_header-topnav_synchronycareers_ext) | [Linedin](https://www.linkedin.com/company/synchrony-financial/) | Financial Services
+238. [Corteva](https://www.corteva.com/)| [Jobs](https://careers.corteva.com/) | [Linedin](https://www.linkedin.com/company/corteva/) |Farming 
+239. [Fidelity National Financial](https://fnf.com/)| [Jobs](https://fnf.com/careers) | [Linedin](https://www.linkedin.com/company/fidelity-national-financial/) | Financial Services
 240. [DTEEnergy](https://dteenergy.com/)| [Jobs]() | [Linedin]()
 241. [Murphy USA](https://www.murphyusa.com/murphyusa/home)
 242. [Halliburton](halliburton.com)
