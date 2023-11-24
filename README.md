@@ -9,6 +9,21 @@ Notes:
 * **In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
 * **Research about company before interview , ask genuine questions**
 
+## Software Engineer Levels
+
+Apply proper positions
+
+1. Internships
+2. Junior Software Engineer
+3. Software Engineer
+4. Senior Software Engineer
+5. Lead Software Engineer
+6. Principal Software Engineer
+7. Staff Engineer
+8. Engineering Manager
+9. Director of Engineering
+10. Vice President of Engineering
+11. Chief Technology Officer (CTO)
 
 ## Cover Letter
 
@@ -320,67 +335,67 @@ Madan Baduwal
 237. [Synchrony Financial](https://www.synchrony.com/)| [Jobs](https://www.synchronycareers.com/?intlnk=synfin&intcmp=home_header-topnav_synchronycareers_ext) | [Linedin](https://www.linkedin.com/company/synchrony-financial/) | Financial Services
 238. [Corteva](https://www.corteva.com/)| [Jobs](https://careers.corteva.com/) | [Linedin](https://www.linkedin.com/company/corteva/) |Farming 
 239. [Fidelity National Financial](https://fnf.com/)| [Jobs](https://fnf.com/careers) | [Linedin](https://www.linkedin.com/company/fidelity-national-financial/) | Financial Services
-240. [DTEEnergy](https://dteenergy.com/)| [Jobs]() | [Linedin]()
-241. [Murphy USA](https://www.murphyusa.com/murphyusa/home)
-242. [Halliburton](halliburton.com)
-243. [Automatic Data Processing](https://www.adp.com/)
-244. [Edison International](https://www.edison.com/)
-245. [BorgWarner](https://www.borgwarner.com/home)
-246. [Nordstrom](https://www.nordstrom.com/)
-247. [Loews](https://loews.com/)
-248. [Guardian Life Ins. Co. of America](https://www.guardianlife.com/careers)
-249. [Pioneer Natural Resources](https://www.pxd.com/)
-250. [AutoZone](https://www.autozone.com/)
-251. [Lam Research](https://www.lamresearch.com/)
-252. [American Family Insurance Group](https://www.amfam.com/)
-253. [Illinois Tool Works](https://www.itw.com/)
-254. [Parker-Hannifin](https://www.parker.com/us/en/home.html)
-255. [Otis Worldwide](https://www.otis.com/en/us/)
-256. [Omnicom Group](https://www.omnicomgroup.com/)
-257. [Principal Financial](https://www.principal.com/)
-258. [Dominion Energy](https://careers.dominionenergy.com/)
-259. [Kellogg](https://www.kelloggs.com/en_US/home.html)
-260. [Fluor](https://www.fluor.com/)
-261. [AECOM](https://aecom.com/)
-262. [Reliance Steel & Aluminum](https://www.rsac.com/)
-263. [Jacobs Engineering Group](https://www.jacobs.com/)
-264. [Corning](https://www.corning.com/worldwide/en.html)
-265. [Farmers Insurance Exchange](https://www.farmers.com/careers/)
-266. [Qurate Retail](https://www.qurateretailgroup.com/)
-267. [Pacific Life](https://www.pacificlife.com/)
-268. [PulteGroup](https://www.pultegroupinc.com/home/default.aspx)
-269. [Fidelity National Information Services](https://www.fisglobal.com/en)
-270. [1QVIA Holdings](https://www.iqvia.com/)
-271. [Marriott International](https://www.marriott.com/default.mi)
-272. [Berry Global Group](https://www.berryglobal.com/en/)
-273. [Ball](https://www.ball.com/)
-274. [Group 1 Automotive](https://www.group1auto.com/)
-275. [Leidos Holdings](https://www.leidos.com/)
-276. [Wayfair](https://www.wayfair.com/)
-277. [Consolidated Edison](https://www.coned.com/en/)
-278. [Ameriprise Financial](https://www.ameriprise.com/)
-279. [Xcel Energy](https://jobs.xcelenergy.com/)
-280. [O'Reilly Automotive](https://www.oreillyauto.com/)
-281. [Global Partners](https://www.globalp.com/)
-282. [Rocket Companies](https://www.rocketcompanies.com/)
-283. [LKQ](https://www.lkqcorp.com/)
-284. [W.W. Grainger](https://www.grainger.com/)
-285. [Quanta Services](https://www.quantaservices.com/)
-286. [CrownHoldings](https://www.crowncork.com/)
-287. [Fox](https://www.foxnews.com/)
-288. [Sempra](https://www.sempra.com/)
-289. [Markel](https://www.markel.com/)
-290. [Carvana](https://www.carvana.com/)
-291. [XPO Logistics](https://www.xpo.com/)
-292. [Baxter International](https://www.baxter.com/)
-293. [Ecolab](https://www.ecolab.com/)
-294. [Tractor Supply](https://www.tractorsupply.com/)
-295. [The Andersons](https://www.andersonsinc.com/)
-296. [Keurig Dr Pepper](https://www.keurigdrpepper.com/)
-297. [Universal Health Services](https://uhs.com/)
-298. [CSX](https://www.csx.com/)
-299. [Henry Schein](https://www.henryschein.com/)
-300. [Sonic Automotive](https://www.sonicautomotive.com/)
+240. [DTEEnergy](https://dteenergy.com/)| [Jobs](https://www.dteenergy.com/us/en/residential/about-dte/careers/careers.html) | [Linedin](https://www.linkedin.com/company/dte-energy/) | Utilities
+241. [Murphy USA](https://www.murphyusa.com/murphyusa/home)| [Jobs](https://www.murphyusa.com/murphyusa/jobs) | [Linedin](https://www.linkedin.com/company/murphyusa/) | Retail
+242. [Halliburton](https://www.halliburton.com/)| [Jobs](https://jobs.halliburton.com/) | [Linedin](https://www.linkedin.com/company/halliburton/) | Have IT positions | Oil and Gas
+243. [Automatic Data Processing](https://www.adp.com/)| [Jobs](https://jobs.adp.com/?rb=ADP_COM) | [Linedin](https://www.linkedin.com/company/adp/life/internships/) | Have IT positions  | Human Resources Services 
+244. [Edison International](https://www.edison.com/)| [Jobs](https://www.edisoncareers.com/) | [Linedin](https://www.linkedin.com/company/sce/) |  Have IT positions | Utilities
+245. [BorgWarner](https://www.borgwarner.com/home)| [Jobs](https://www.borgwarner.com/careers) | [Linedin](https://www.linkedin.com/company/borgwarner/) | Have IT positions | Motor Vehicle Manufacturing 
+246. [Nordstrom](https://www.nordstrom.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/nordstrom/) | Have IT positions | Retail
+247. [Loews](https://loews.com/)| [Jobs](https://loews.com/loews-careers) | [Linedin](https://www.linkedin.com/company/loews-corporation/) | Have IT positions | Investment Management
+248. [Guardian Life Ins. Co. of America](https://www.guardianlife.com/careers)| [Jobs](https://www.guardianlife.com/careers) | [Linedin](https://www.linkedin.com/company/the-guardian-life-insurance-company-of-america_164085/?trk=company_logo)| Have IT positions | Financial Services
+249. [Pioneer Natural Resources](https://www.pxd.com/)| [Jobs](https://www.pxd.com/careers) | [Linedin](https://www.linkedin.com/company/pioneer-natural-resources-company/) | Oil and Gas
+250. [AutoZone](https://www.autozone.com/)| [Jobs](https://careers.autozone.com/) | [Linedin](https://www.linkedin.com/company/autozone/) | Motor Vehicle Manufacturing
+251. [Lam Research](https://www.lamresearch.com/)| [Jobs](https://www.lamresearch.com/careers/careers-overview/) | [Linedin](https://www.linkedin.com/company/lam-research/) | Have IT positions | Semiconductor Manufacturing 
+252. [American Family Insurance Group](https://www.amfam.com/)| [Jobs](https://www.amfam.com/about/careers) | [Linedin](https://www.linkedin.com/company/american-family-insurance/) | Insurance
+253. [Illinois Tool Works](https://www.itw.com/)| [Jobs](https://jobs.itw.com/) | [Linedin](https://www.linkedin.com/company/illinoistoolworks/) | Have IT positions | Machinery Manufacturing
+254. [Parker-Hannifin](https://www.parker.com/us/en/home.html)| [Jobs](https://www.parker.com/us/en/careers.html) | [Linedin](https://www.linkedin.com/company/parker-hannifin/) | Have IT positions | Industrial Machinery Manufacturing 
+255. [Otis Worldwide](https://www.otis.com/en/us/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/otis_elevators/) | Consumer Services
+256. [Omnicom Group](https://www.omnicomgroup.com/)| [Jobs](https://us-careers.omnicommediagroup.com/careers-omg/) | [Linedin](https://www.linkedin.com/company/omnicom/) | Advertising Services
+257. [Principal Financial](https://www.principal.com/)| [Jobs](https://www.principal.com/about-us/careers) | [Linedin](https://www.linkedin.com/company/principalfinancialgroup/) | Have IT positions | Financial Services
+258. [Dominion Energy](https://careers.dominionenergy.com/)| [Jobs](https://careers.dominionenergy.com/) | [Linedin](https://www.linkedin.com/company/dominionenergy/) | Utilities
+259. [Kellogg](https://www.kelloggs.com/en_US/home.html)| [Jobs](https://jobs.kellanova.com/go/View-All-Jobs/9476800/) | [Linedin](https://www.linkedin.com/company/kellogg-company/) | Manufacturing
+260. [Fluor](https://www.fluor.com/)| [Jobs](https://www.fluor.com/careers) | [Linedin](https://www.linkedin.com/company/fluor/) | Construction 
+261. [AECOM](https://aecom.com/)| [Jobs](https://aecom.com/careers/) | [Linedin](https://www.linkedin.com/company/aecom/) |  Civil Engineering
+262. [Reliance Steel & Aluminum](https://www.rsac.com/)| [Jobs](https://www.rsac.com/careers/) | [Linedin](https://www.linkedin.com/company/reliance-rs/) | Wholesale Metals and Minerals 
+263. [Jacobs Engineering Group](https://www.jacobs.com/)| [Jobs](https://careers.jacobs.com/) | [Linedin](https://www.linkedin.com/company/jacobs/) | Have IT positions | Business Consulting and Services 
+264. [Corning](https://www.corning.com/worldwide/en.html)| [Jobs](https://www.corning.com/worldwide/en/careers.html) | [Linedin](https://www.linkedin.com/showcase/corning-hr-talent-connect/) | Gl ass, Ceramics and Concrete Manufacturing
+265. [Farmers Insurance Exchange](https://www.farmers.com/careers/)| [Jobs](https://www.farmers.com/careers/) | [Linedin](https://www.linkedin.com/company/farmers-insurance/) | Have IT positions | Insurance
+266. [Qurate Retail](https://www.qurateretailgroup.com/)| [Jobs](https://careers.qurateretailgroup.com/) | [Linedin](https://www.linkedin.com/company/qurateretailgroup/jobs/) | Retail
+267. [Pacific Life](https://www.pacificlife.com/)| [Jobs](https://www.pacificlife.com/home/Careers.html) | [Linedin](https://www.linkedin.com/company/pacific-life/) | Financial Services
+268. [PulteGroup](https://www.pultegroupinc.com/home/default.aspx)| [Jobs](https://pultegroup.wd1.myworkdayjobs.com/PGI) | [Linedin](https://www.linkedin.com/company/pultegroup/) | Construction
+269. [Fidelity National Information Services](https://www.fisglobal.com/en)| [Jobs](https://careers.fisglobal.com/us/en) | [Linedin](https://www.linkedin.com/company/fis/) | Have IT positions | Information Technology & Services
+270. [1QVIA Holdings](https://www.iqvia.com/)| [Jobs](https://jobs.iqvia.com/search-jobs) | [Linedin](https://www.linkedin.com/company/iqvia/) | Hospitals and Health Care 
+271. [Marriott International](https://www.marriott.com/default.mi) | [Jobs](https://careers.marriott.com/) | [Linkedin](https://www.linkedin.com/company/marriott-international/) | Hospitality
+272. [Berry Global Group](https://www.berryglobal.com/en/) | [Jobs]() | [Linkedin]() |  
+273. [Ball](https://www.ball.com/) | [Jobs]() | [Linkedin]() |  
+274. [Group 1 Automotive](https://www.group1auto.com/) | [Jobs]() | [Linkedin]() |  
+275. [Leidos Holdings](https://www.leidos.com/) | [Jobs]() | [Linkedin]() |  
+276. [Wayfair](https://www.wayfair.com/) | [Jobs]() | [Linkedin]() |  
+277. [Consolidated Edison](https://www.coned.com/en/) | [Jobs]() | [Linkedin]() |  
+278. [Ameriprise Financial](https://www.ameriprise.com/) | [Jobs]() | [Linkedin]() |  
+279. [Xcel Energy](https://jobs.xcelenergy.com/) | [Jobs]() | [Linkedin]() |  
+280. [O'Reilly Automotive](https://www.oreillyauto.com/) | [Jobs]() | [Linkedin]() |  
+281. [Global Partners](https://www.globalp.com/) | [Jobs]() | [Linkedin]() |  
+282. [Rocket Companies](https://www.rocketcompanies.com/) | [Jobs]() | [Linkedin]() |  
+283. [LKQ](https://www.lkqcorp.com/) | [Jobs]() | [Linkedin]() |  
+284. [W.W. Grainger](https://www.grainger.com/)| [Jobs]() | [Linkedin]() |  
+285. [Quanta Services](https://www.quantaservices.com/)| [Jobs]() | [Linkedin]() |  
+286. [CrownHoldings](https://www.crowncork.com/)| [Jobs]() | [Linkedin]() |  
+287. [Fox](https://www.foxnews.com/)| [Jobs]() | [Linkedin]() |  
+288. [Sempra](https://www.sempra.com/)| [Jobs]() | [Linkedin]() |  
+289. [Markel](https://www.markel.com/)| [Jobs]() | [Linkedin]() |  
+290. [Carvana](https://www.carvana.com/)| [Jobs]() | [Linkedin]() |  
+291. [XPO Logistics](https://www.xpo.com/) | [Jobs]() | [Linkedin]() |  
+292. [Baxter International](https://www.baxter.com/)| [Jobs]() | [Linkedin]() |  
+293. [Ecolab](https://www.ecolab.com/)| [Jobs]() | [Linkedin]() |  
+294. [Tractor Supply](https://www.tractorsupply.com/)| [Jobs]() | [Linkedin]() |  
+295. [The Andersons](https://www.andersonsinc.com/)| [Jobs]() | [Linkedin]() |  
+296. [Keurig Dr Pepper](https://www.keurigdrpepper.com/)| [Jobs]() | [Linkedin]() |  
+297. [Universal Health Services](https://uhs.com/)| [Jobs]() | [Linkedin]() |  
+298. [CSX](https://www.csx.com/)| [Jobs]() | [Linkedin]() |  
+299. [Henry Schein](https://www.henryschein.com/)| [Jobs]() | [Linkedin]() |  
+300. [Sonic Automotive](https://www.sonicautomotive.com/)| [Jobs]() | [Linkedin]() |  
 301. [eBay](https://www.ebay.com/)
 302. [Textron](https://www.textron.com/)
 303. [Jones Financial (Edward Jones)](https://www.edwardjones.com/us-en)
