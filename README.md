@@ -63,13 +63,12 @@ Madan Baduwal
 * **Main page> Career(top or bottom of the page, about>career) > Students > Internship**
 * **Official website > linkedin of that website > jobs > linkedin automatically recommend jobs for you according to your profile, search your job by title | You will get fast update in LinkedIn**
 * Many company have sub-companies work on software and technology
-* Profile: Find out position and submit
-* No Profile: Fill all fields and submit
 
 ## Job listing companies 
 
 * [Linkedin](https://www.linkedin.com/)  | Search as "Machine Learning Intern"
     * [Linkedin Search Filter](https://www.linkedin.com/jobs/search/?currentJobId=3719191855&f_E=1&keywords=machine%20learning%20intern&origin=JOB_SEARCH_PAGE_JOB_FILTER)  
+    * After finding job goto company linkedin page you will find more related jobs
 * [Google Filter](https://www.google.com/search?q=machine+learning+internship+jobs&ibp=htl;jobs&sa=X&ved=2ahUKEwiztrGt_5v-AhWiFFkFHdiPChoQutcGKAF6BAgLEAY&sxsrf=APwXEdeK_S4bCz3yuD4-oksg0OIMsTkblw:1681015666669#fpstate=tldetail&htivrt=jobs&htidocid=c0TG2prMmRAnTPHEAAAAAA%3D%3D)
 * [Simplify Jobs Filter](https://simplify.jobs/jobs?state=United%20States&points=71.5388001%3B-66.885417%3B18.7763%3B-180&country=United%20States&experience=Internship&category=Software%20Engineering)
 * [indeed](https://www.indeed.com/)
@@ -368,17 +367,17 @@ Madan Baduwal
 270. [1QVIA Holdings](https://www.iqvia.com/)| [Jobs](https://jobs.iqvia.com/search-jobs) | [Linedin](https://www.linkedin.com/company/iqvia/) | Hospitals and Health Care 
 271. [Marriott International](https://www.marriott.com/default.mi) | [Jobs](https://careers.marriott.com/) | [Linkedin](https://www.linkedin.com/company/marriott-international/) | Hospitality
 272. [Berry Global Group](https://www.berryglobal.com/en/) | [Jobs]() | [Linkedin]() |  
-273. [Ball](https://www.ball.com/) | [Jobs]() | [Linkedin]() |  
-274. [Group 1 Automotive](https://www.group1auto.com/) | [Jobs]() | [Linkedin]() |  
-275. [Leidos Holdings](https://www.leidos.com/) | [Jobs]() | [Linkedin]() |  
-276. [Wayfair](https://www.wayfair.com/) | [Jobs]() | [Linkedin]() |  
-277. [Consolidated Edison](https://www.coned.com/en/) | [Jobs]() | [Linkedin]() |  
-278. [Ameriprise Financial](https://www.ameriprise.com/) | [Jobs]() | [Linkedin]() |  
-279. [Xcel Energy](https://jobs.xcelenergy.com/) | [Jobs]() | [Linkedin]() |  
-280. [O'Reilly Automotive](https://www.oreillyauto.com/) | [Jobs]() | [Linkedin]() |  
-281. [Global Partners](https://www.globalp.com/) | [Jobs]() | [Linkedin]() |  
-282. [Rocket Companies](https://www.rocketcompanies.com/) | [Jobs]() | [Linkedin]() |  
-283. [LKQ](https://www.lkqcorp.com/) | [Jobs]() | [Linkedin]() |  
+273. [Ball](https://www.ball.com/) | [Jobs](https://www.ball.com/careers/internships) | [Linkedin](https://www.linkedin.com/company/ball/) |  Packaging & Containers 
+274. [Group 1 Automotive](https://www.group1auto.com/) | [Jobs](https://www.group1careers.com/) | [Linkedin](https://www.linkedin.com/company/group1automotive/) |  Motor Vehicle Manufacturing 
+275. [Leidos Holdings](https://www.leidos.com/) | [Jobs](https://careers.leidos.com/) | [Linkedin](https://www.linkedin.com/company/leidos/) | Have IT positions | IT Services and IT Consulting
+276. [Wayfair](https://www.wayfair.com/) | [Jobs](https://www.aboutwayfair.com/careers) | [Linkedin](https://www.linkedin.com/company/wayfair/) | Have IT positions | Retail 
+277. [Consolidated Edison](https://www.coned.com/en/) | [Jobs](https://www.coned.com/en/about-us/careers) | [Linkedin](https://www.linkedin.com/company/con-edison/) |  Utilities
+278. [Ameriprise Financial](https://www.ameriprise.com/) | [Jobs](https://www.ameriprise.com/careers) | [Linkedin](https://www.linkedin.com/company/ameriprise-financial-services-llc/) | Financial Services  
+279. [Xcel Energy](https://tx.my.xcelenergy.com/s/) | [Jobs](https://jobs.xcelenergy.com/) | [Linkedin](https://www.linkedin.com/company/xcel-energy/) |  Utilities
+280. [O'Reilly Automotive](https://www.oreillyauto.com/) | [Jobs](https://corporate.oreillyauto.com/onlineapplication/careerpage?_gl=1*53jxud*_ga*MTg2NDMzMjg3NS4xNzAwODYxMDAz*_ga_TV3LS85R98*MTcwMDg2MTAwMi4xLjEuMTcwMDg2MTAwNS4wLjAuMA..) | [Linkedin](https://www.linkedin.com/company/o'reilly-auto-parts/) |  Retail
+281. [Global Partners](https://www.globalp.com/) | [Jobs](https://careers.globalp.com/us/en) | [Linkedin](https://www.linkedin.com/company/global-companies-llc/) |  Oil and Gas 
+282. [Rocket Companies](https://www.rocketcompanies.com/) | [Jobs](https://www.rocketcompanies.com/our-team/careers/) | [Linkedin](https://www.linkedin.com/company/rocketmortgage/) |  Financial Services 
+283. [LKQ](https://www.lkqcorp.com/) | [Jobs](https://www.lkqcorp.com/culture-and-careers/) | [Linkedin](https://www.linkedin.com/company/lkq-corporation/) |  
 284. [W.W. Grainger](https://www.grainger.com/)| [Jobs]() | [Linkedin]() |  
 285. [Quanta Services](https://www.quantaservices.com/)| [Jobs]() | [Linkedin]() |  
 286. [CrownHoldings](https://www.crowncork.com/)| [Jobs]() | [Linkedin]() |  
