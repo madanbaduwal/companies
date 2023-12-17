@@ -4,7 +4,7 @@
 
 Notes: 
 
-* If your resume doesn't align with job description then there is low probability of selecting your resume. Apply positions that fit for your profile only. i.e your profile should match with job description and company goal mission. 
+* If your resume/profile doesn't align with job description then there is low probability of selecting your resume. First Build your profile and apply positions that fit for your profile only. i.e your profile should match with job description and company goal mission. 
 * **Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
 * **In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
 * **Research about company before interview , ask genuine questions**
@@ -66,6 +66,8 @@ Madan Baduwal
 
 ## Job listing companies 
 
+Note: Create your profile in these platform, they you recommend job according to your profile. It will save your time.
+
 * [Linkedin](https://www.linkedin.com/)  | Search as "Machine Learning Intern"
     * [Linkedin Search Filter](https://www.linkedin.com/jobs/search/?currentJobId=3719191855&f_E=1&keywords=machine%20learning%20intern&origin=JOB_SEARCH_PAGE_JOB_FILTER)  
     * After finding job goto company linkedin page you will find more related jobs
@@ -78,7 +80,7 @@ Madan Baduwal
 * [Mediabistro](https://www.mediabistro.com/)
 * [Youtube](youtube.com)
 * [Cybercoders](https://www.cybercoders.com/)
-*  [Handshake](https://joinhandshake.com/)
+* [Handshake](https://joinhandshake.com/)
 * [Monster](https://www.monster.com/)
 * [Simplyhired](https://www.simplyhired.com/)
 * [Careerbuilder](https://www.careerbuilder.com/)
@@ -86,6 +88,8 @@ Madan Baduwal
 * [Pathrise](https://www.pathrise.com/)
 * [Naukri](https://www.naukri.com/)
 * [levels.fyi](https://www.levels.fyi/internships/)
+
+
 
 ## Tools 
 
