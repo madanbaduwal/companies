@@ -7,7 +7,7 @@ Notes:
 * If your resume/profile doesn't align with job description then there is low probability of selecting your resume. First Build your profile and apply positions that fit for your profile only. i.e your profile should match with job description and company goal mission. 
 * **Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
 * **In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
-* **Research about company before interview , ask genuine questions**
+* **Research about company before interview , ask genuine questions to the interviewer about company and projects**
 
 ## Software Engineer Levels
 
@@ -381,64 +381,64 @@ Note: Create your profile in these platform, they you recommend job according to
 280. [O'Reilly Automotive](https://www.oreillyauto.com/) | [Jobs](https://corporate.oreillyauto.com/onlineapplication/careerpage?_gl=1*53jxud*_ga*MTg2NDMzMjg3NS4xNzAwODYxMDAz*_ga_TV3LS85R98*MTcwMDg2MTAwMi4xLjEuMTcwMDg2MTAwNS4wLjAuMA..) | [Linkedin](https://www.linkedin.com/company/o'reilly-auto-parts/) |  Retail
 281. [Global Partners](https://www.globalp.com/) | [Jobs](https://careers.globalp.com/us/en) | [Linkedin](https://www.linkedin.com/company/global-companies-llc/) |  Oil and Gas 
 282. [Rocket Companies](https://www.rocketcompanies.com/) | [Jobs](https://www.rocketcompanies.com/our-team/careers/) | [Linkedin](https://www.linkedin.com/company/rocketmortgage/) |  Financial Services 
-283. [LKQ](https://www.lkqcorp.com/) | [Jobs](https://www.lkqcorp.com/culture-and-careers/) | [Linkedin](https://www.linkedin.com/company/lkq-corporation/) |  
-284. [W.W. Grainger](https://www.grainger.com/)| [Jobs]() | [Linkedin]() |  
-285. [Quanta Services](https://www.quantaservices.com/)| [Jobs]() | [Linkedin]() |  
-286. [CrownHoldings](https://www.crowncork.com/)| [Jobs]() | [Linkedin]() |  
-287. [Fox](https://www.foxnews.com/)| [Jobs]() | [Linkedin]() |  
-288. [Sempra](https://www.sempra.com/)| [Jobs]() | [Linkedin]() |  
-289. [Markel](https://www.markel.com/)| [Jobs]() | [Linkedin]() |  
-290. [Carvana](https://www.carvana.com/)| [Jobs]() | [Linkedin]() |  
-291. [XPO Logistics](https://www.xpo.com/) | [Jobs]() | [Linkedin]() |  
-292. [Baxter International](https://www.baxter.com/)| [Jobs]() | [Linkedin]() |  
-293. [Ecolab](https://www.ecolab.com/)| [Jobs]() | [Linkedin]() |  
-294. [Tractor Supply](https://www.tractorsupply.com/)| [Jobs]() | [Linkedin]() |  
-295. [The Andersons](https://www.andersonsinc.com/)| [Jobs]() | [Linkedin]() |  
-296. [Keurig Dr Pepper](https://www.keurigdrpepper.com/)| [Jobs]() | [Linkedin]() |  
-297. [Universal Health Services](https://uhs.com/)| [Jobs]() | [Linkedin]() |  
-298. [CSX](https://www.csx.com/)| [Jobs]() | [Linkedin]() |  
-299. [Henry Schein](https://www.henryschein.com/)| [Jobs]() | [Linkedin]() |  
-300. [Sonic Automotive](https://www.sonicautomotive.com/)| [Jobs]() | [Linkedin]() |  
-301. [eBay](https://www.ebay.com/)
-302. [Textron](https://www.textron.com/)
-303. [Jones Financial (Edward Jones)](https://www.edwardjones.com/us-en)
-304. [Community Health Systems](https://www.chs.net/)
-305. [Mosaic](https://www.mosaicco.com/)
-306. [Thor Industries](https://www.thorindustries.com/)
-307. [Dick's Sporting Goods	](https://www.dickssportinggoods.com/)
-308. [Newmont](https://newmont.com/)
-309. [Devon Energy](https://www.devonenergy.com/)
-310. [Warner Bros. Discovery](https://wbd.com/)
-311. [J.B. Hunt Transport Services](https://www.jbhunt.com/)
-312. [Alcoa](https://www.alcoa.com/global/en/home/)
-313. [Peter Kiewit Sons’](https://www.kiewit.com/)
-314. [Aramark](https://www.aramark.com/home)
-315. [Vistra](https://www.vistra.com/)
-316. [State Street](https://www.statestreet.com/us/en/asset-manager)
-317. [Unum Group](https://www.unum.com/)
-318. [Alleghany](https://www.alleghany.com/about-alleghany/default.aspx)
-319. [Boston Scientific](https://www.bostonscientific.com/en-US/Home.html)
-320. [Westlake](https://www.westlake.com/)
-321. [Entergy](https://www.entergy.com/#)
-322. [International Flavors & Fragrances](https://www.iff.com/)
-323. [DaVita](https://www.davita.com/)
-324. [Mutual of Omaha Insurance](https://www.mutualofomaha.com/)
-325. [Assurant](https://www.assurant.com/)
-326. [Liberty Media](https://www.libertymedia.com/)
-327. [Hormel Foods](https://www.hormelfoods.com/)
-328. [Icahn Enterprises](https://www.ielp.com/)
-329. [Republic Services](https://www.republicservices.com/)
-330. [Mohawk Industries](https://mohawkind.com/)
-331. [Conagra Brands](https://www.conagrabrands.com/)
-332. [Norfolk Southern](http://www.nscorp.com/content/nscorp/en.html)
-333. [AES](https://www.aes.com/)
-334. [AGCO](https://www.agcocorp.com/)
-335. [Caesars Entertainment](https://www.caesars.com/)
-336. [Equitable Holdings](https://equitableholdings.com/)
-337. [Advance Auto Parts](https://shop.advanceautoparts.com/)
-338. [Biogen](https://www.biogen.com/)
-339. [Auto-Owners Insurance](https://www.auto-owners.com/)
-340. [Booking Holdings](https://www.bookingholdings.com/)
+283. [LKQ](https://www.lkqcorp.com/) | [Jobs](https://www.lkqcorp.com/culture-and-careers/) | [Linkedin](https://www.linkedin.com/company/lkq-corporation/) |  Automotive
+284. [W.W. Grainger](https://www.grainger.com/)| [Jobs](https://jobs.grainger.com/) | [Linkedin](https://www.linkedin.com/company/w.w.-grainger/) |  Retail Office Equipment
+285. [Quanta Services](https://www.quantaservices.com/)| [Jobs](https://www.quantaservices.com/careers) | [Linkedin](https://www.linkedin.com/company/quanta-services) |  Construction
+286. [CrownHoldings](https://www.crowncork.com/)| [Jobs](https://www.crowncork.com/careers) | [Linkedin](https://www.linkedin.com/company/crown-holdings-inc-/) |  Packaging & Containers
+287. [Fox](https://www.foxnews.com/)| [Jobs](https://foxcareers.com/Search/SearchResults?brand=Fox%20News%20Careers) | [Linkedin](https://www.linkedin.com/company/fox-news-channel/) |  Broadcast Media Production and Distribution
+288. [Sempra](https://www.sempra.com/)| [Jobs](https://www.sempra.com/careers) | [Linkedin](https://www.linkedin.com/company/sempra/) |  Utilities
+289. [Markel](https://www.markel.com/)| [Jobs](https://www.markel.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/markel-insurance/) |  Insurance
+290. [Carvana](https://www.carvana.com/)| [Jobs](https://www.carvana.com/careers) | [Linkedin](https://www.linkedin.com/company/carvana/) |  Technology, Information and Internet
+291. [XPO Logistics](https://www.xpo.com/) | [Jobs](https://www.xpo.com/work-with-us/) | [Linkedin](https://www.linkedin.com/company/xpologistics/) |  Truck Transportation
+292. [Baxter International](https://www.baxter.com/)| [Jobs](https://www.baxter.com/careers) | [Linkedin](https://www.linkedin.com/company/baxter-healthcare) |  Medical Equipment Manufacturing
+293. [Ecolab](https://www.ecolab.com/)| [Jobs](https://jobs.ecolab.com/global/en) | [Linkedin](https://www.linkedin.com/company/ecolab) |  Chemical Manufacturing
+294. [Tractor Supply](https://www.tractorsupply.com/)| [Jobs](https://www.tractorsupply.careers/?utm_source=corpsite&utm_campaign=TSC_Shop&cm_sp=footer-_-tsc+careers) | [Linkedin](https://www.linkedin.com/company/tractor-supply-company/life/ee91918e-b39b-4b2d-b3b3-754ff2f3a428/) |  Retail
+295. [The Andersons](https://www.andersonsinc.com/)| [Jobs](https://andersonsinc.wd1.myworkdayjobs.com/TheAndersonsCareers) | [Linkedin](https://www.linkedin.com/company/theandersonsinc/) |  Food and Beverage Manufacturing
+296. [Keurig Dr Pepper](https://www.keurigdrpepper.com/)| [Jobs](https://careers.keurigdrpepper.com/) | [Linkedin](https://www.linkedin.com/company/keurig-dr-pepper-inc/) | Food and Beverage Services 
+297. [Universal Health Services](https://uhs.com/)| [Jobs](https://jobs.uhs.com/careers/) | [Linkedin](https://www.linkedin.com/company/uhs/) |  Hospitals and Health Care
+298. [CSX](https://www.csx.com/)| [Jobs](https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX?_gl=1*7025vj*_ga*MTM5MjQwODk5Ni4xNzA1MDQzNTI3*_ga_58T88XBVN1*MTcwNTA0MzUyNi4xLjEuMTcwNTA0MzU1MC4zNi4wLjA.) | [Linkedin](https://www.linkedin.com/company/csx-transportation/) | Rail Transportation 
+299. [Henry Schein](https://www.henryschein.com/)| [Jobs](https://www.henryschein.com/us-en/Corporate/Career/JobSearch.aspx?id=1&hsi_domain=www.henryschein.com&hsi_locale=us-en) | [Linkedin](https://www.linkedin.com/company/henry-schein/) |  Medical Equipment Manufacturing
+300. [Sonic Automotive](https://www.sonicautomotive.com/)| [Jobs](https://jobs.sonicautomotive.com/) | [Linkedin](https://www.linkedin.com/company/sonic-automotive) |  Retail Motor Vehicles
+301. [eBay](https://www.ebay.com/) | [Jobs](https://jobs.ebayinc.com/us/en) | [Linkedin](https://www.linkedin.com/company/ebay/) | Technology, Information and Internet
+302. [Textron](https://www.textron.com/) | [Jobs](https://careers.textron.com/) | [Linkedin](https://www.linkedin.com/company/textron/) | Aviation and Aerospace Component Manufacturing
+303. [Jones Financial (Edward Jones)](https://www.edwardjones.com/us-en) | [Jobs]() | [Linkedin]() |
+304. [Community Health Systems](https://www.chs.net/) | [Jobs]() | [Linkedin]() |
+305. [Mosaic](https://www.mosaicco.com/) | [Jobs]() | [Linkedin]() |
+306. [Thor Industries](https://www.thorindustries.com/) | [Jobs]() | [Linkedin]() |
+307. [Dick's Sporting Goods	](https://www.dickssportinggoods.com/) | [Jobs]() | [Linkedin]() |
+308. [Newmont](https://newmont.com/) | [Jobs]() | [Linkedin]() |
+309. [Devon Energy](https://www.devonenergy.com/) | [Jobs]() | [Linkedin]() |
+310. [Warner Bros. Discovery](https://wbd.com/) | [Jobs]() | [Linkedin]() |
+311. [J.B. Hunt Transport Services](https://www.jbhunt.com/) | [Jobs]() | [Linkedin]() |
+312. [Alcoa](https://www.alcoa.com/global/en/home/) | [Jobs]() | [Linkedin]() |
+313. [Peter Kiewit Sons’](https://www.kiewit.com/) | [Jobs]() | [Linkedin]() |
+314. [Aramark](https://www.aramark.com/home) | [Jobs]() | [Linkedin]() |
+315. [Vistra](https://www.vistra.com/) | [Jobs]() | [Linkedin]() |
+316. [State Street](https://www.statestreet.com/us/en/asset-manager) | [Jobs]() | [Linkedin]() |
+317. [Unum Group](https://www.unum.com/) | [Jobs]() | [Linkedin]() |
+318. [Alleghany](https://www.alleghany.com/about-alleghany/default.aspx) | [Jobs]() | [Linkedin]() |
+319. [Boston Scientific](https://www.bostonscientific.com/en-US/Home.html) | [Jobs]() | [Linkedin]() |
+320. [Westlake](https://www.westlake.com/) | [Jobs]() | [Linkedin]() |
+321. [Entergy](https://www.entergy.com/#) | [Jobs]() | [Linkedin]() |
+322. [International Flavors & Fragrances](https://www.iff.com/) | [Jobs]() | [Linkedin]() |
+323. [DaVita](https://www.davita.com/) | [Jobs]() | [Linkedin]() |
+324. [Mutual of Omaha Insurance](https://www.mutualofomaha.com/) | [Jobs]() | [Linkedin]() |
+325. [Assurant](https://www.assurant.com/) | [Jobs]() | [Linkedin]() |
+326. [Liberty Media](https://www.libertymedia.com/) | [Jobs]() | [Linkedin]() |
+327. [Hormel Foods](https://www.hormelfoods.com/) | [Jobs]() | [Linkedin]() |
+328. [Icahn Enterprises](https://www.ielp.com/) | [Jobs]() | [Linkedin]() |
+329. [Republic Services](https://www.republicservices.com/) | [Jobs]() | [Linkedin]() |
+330. [Mohawk Industries](https://mohawkind.com/) | [Jobs]() | [Linkedin]() |
+331. [Conagra Brands](https://www.conagrabrands.com/) | [Jobs]() | [Linkedin]() |
+332. [Norfolk Southern](http://www.nscorp.com/content/nscorp/en.html) | [Jobs]() | [Linkedin]() |
+333. [AES](https://www.aes.com/) | [Jobs]() | [Linkedin]() |
+334. [AGCO](https://www.agcocorp.com/) | [Jobs]() | [Linkedin]() |
+335. [Caesars Entertainment](https://www.caesars.com/) | [Jobs]() | [Linkedin]() |
+336. [Equitable Holdings](https://equitableholdings.com/) | [Jobs]() | [Linkedin]() |
+337. [Advance Auto Parts](https://shop.advanceautoparts.com/) | [Jobs]() | [Linkedin]() |
+338. [Biogen](https://www.biogen.com/) | [Jobs]() | [Linkedin]() |
+339. [Auto-Owners Insurance](https://www.auto-owners.com/) | [Jobs]() | [Linkedin]() |
+340. [Booking Holdings](https://www.bookingholdings.com/)  | [Jobs]() | [Linkedin]() |
 341. [Amphenol](https://amphenol.com/)
 342. [Quest Diagnostics](https://www.questdiagnostics.com/)
 343. [FirstEnergy](https://firstenergycorp.com/fehome.html)
