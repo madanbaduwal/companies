@@ -532,25 +532,25 @@ Note: Create your profile in these platform, they you recommend job according to
 422. [Arthur J. Gallagher](https://www.ajg.com/) | [Jobs] (https://jobs.ajg.com/ajg-home/) | [Linkedin](https://www.linkedin.com/company/gallagher-global/) | Insurance
 423. [Motorola Solutions](https://www.motorolasolutions.com/) | [Jobs] (https://www.motorolasolutions.com/en_us/about/careers.html) | [Linkedin](https://www.linkedin.com/company/motorolasolutions/) | Telecommunications
 424. [Tillow Group](https://www.zillowgroup.com/) | [Jobs] (https://www.zillow.com/careers/) | [Linkedin](https://www.linkedin.com/company/zillow/) | Real Estate
-425. [Opendoor Technologies	](https://www.opendoor.com/) | [Jobs] () | [Linkedin]() |
-426. [J.M. Smucker](https://www.jmsmucker.com/) | [Jobs] () | [Linkedin]() |
-427. [Anywhere Real Estate/Realogy](https://www.anywhere.re/) | [Jobs] () | [Linkedin]() |
-428. [Oshkosh](https://www.oshkosh.com/) | [Jobs] () | [Linkedin]() |
-429. [MasTec](https://www.mastec.com/) | [Jobs] () | [Linkedin]() |
-430. [GXO Logistics](https://gxo.com/) | [Jobs] () | [Linkedin]() |
-431. [APA](https://www.apa.org/) | [Jobs] () | [Linkedin]() |
-432. [Boise Cascade](https://www.bc.com/) | [Jobs] () | [Linkedin]() |
-433. [Dover](https://www.dovercorporation.com/) | [Jobs] () | [Linkedin]() |
-434. [Genworth Financial](https://www.genworth.com/) | [Jobs] () | [Linkedin]() |
-435. Bath & Body Works[](https://www.bathandbodyworks.com/) | [Jobs] () | [Linkedin]() |
-436. [Booz Allen Hamilton Holding](https://www.boozallen.com/) | [Jobs] () | [Linkedin]() |
-437. [Coinbase Global](https://www.coinbase.com/) | [Jobs] () | [Linkedin]() |
-438. [Zimmer Biomet Holdings](https://www.zimmerbiomet.com/en) | [Jobs] () | [Linkedin]() |
-439. [Westinghouse Air Break Technologies](https://www.wabteccorp.com/) | [Jobs] () | [Linkedin]() |
-440. [Zoetis](https://www.zoetis.com/) | [Jobs] () | [Linkedin]() |
-441. [Packaging Corp. of America](https://www.packagingcorp.com/) | [Jobs] () | [Linkedin]() |
-442. [LPL Financial Holdings](https://www.lpl.com/) | [Jobs] () | [Linkedin]() |
-443. [T. Rowe Price](https://www.troweprice.com/corporate/us/en/home.html) | [Jobs] () | [Linkedin]() |
+425. [Opendoor Technologies	](https://www.opendoor.com/) | [Jobs] (https://www.opendoor.com/careers) | [Linkedin](https://www.linkedin.com/company/opendoor-com/) | Real Estate
+426. [J.M. Smucker](https://www.jmsmucker.com/) | [Jobs] (https://www.jmsmucker.com/careers) | [Linkedin](https://www.linkedin.com/company/the-jm-smucker-co/) | Manufacturing
+427. [Anywhere Real Estate/Realogy](https://www.anywhere.re/) | [Jobs] (https://anywhere.re/careers/#jobSearch) | [Linkedin](https://www.linkedin.com/company/anywhere-real-estate-inc/) | Real Estate
+428. [Oshkosh](https://www.oshkosh.com/) | [Jobs] (https://careers.carters.com/) | [Linkedin]() |
+429. [MasTec](https://www.mastec.com/) | [Jobs] (https://www.mastec.com/careers/) | [Linkedin](https://www.linkedin.com/company/mas-tec/) | Construction
+430. [GXO Logistics](https://gxo.com/) | [Jobs] (https://gxo.com/careers/) | [Linkedin](https://www.linkedin.com/company/gxologistics/) | Transportation, Logistics, Supply Chain and Storage
+431. [APA](https://www.apa.org/) | [Jobs] (https://www.psyccareers.com/) | [Linkedin](https://www.linkedin.com/company/american-psychological-association/) | Non-profit Organizations
+432. [Boise Cascade](https://www.bc.com/) | [Jobs] (https://www.bc.com/careers/) | [Linkedin](https://www.linkedin.com/company/boise-cascade/) | Wholesale Building Materials
+433. [Dover](https://www.dovercorporation.com/) | [Jobs] (https://www.dovercorporation.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/dovercorp/) | Machinery Manufacturing
+434. [Genworth Financial](https://www.genworth.com/) | [Jobs] (https://www.genworth.com/about-us/building-careers) | [Linkedin](https://www.linkedin.com/company/genworth-financial_2/) | Insurance
+435. [Bath & Body Works](https://www.bathandbodyworks.com/) | [Jobs] (https://careers.bathandbodyworks.com/en/) | [Linkedin](https://www.linkedin.com/company/bath-and-body-works/) | Retail
+436. [Booz Allen Hamilton Holding](https://www.boozallen.com/) | [Jobs] (https://careers.boozallen.com/) | [Linkedin](https://www.linkedin.com/company/booz-allen-hamilton/) | IT Services and IT Consulting
+437. [Coinbase Global](https://www.coinbase.com/) | [Jobs] (https://www.coinbase.com/careers) | [Linkedin](https://www.linkedin.com/company/coinbase/) | Internet Publishing
+438. [Zimmer Biomet Holdings](https://www.zimmerbiomet.com/en) | [Jobs] (https://careers.zimmerbiomet.com/us/en) | [Linkedin](https://www.linkedin.com/company/zimmerbiomet/) | Medical Equipment Manufacturing
+439. [Westinghouse Air Break Technologies](https://www.wabteccorp.com/) | [Jobs] (https://www.wabteccorp.com/careers) | [Linkedin](https://www.linkedin.com/company/wabtec-corporation/) | Railroad Equipment Manufacturing
+440. [Zoetis](https://www.zoetis.com/) | [Jobs] (https://www.zoetis.com/join-us/careers-at-zoetis) | [Linkedin](https://www.linkedin.com/company/zoetis/) | Pharmaceutical Manufacturing
+441. [Packaging Corp. of America](https://www.packagingcorp.com/) | [Jobs] (https://careers.packagingcorp.com/) | [Linkedin](https://www.linkedin.com/company/pca/) | Packaging & Containers
+442. [LPL Financial Holdings](https://www.lpl.com/) | [Jobs] (https://www.lpl.com/about-us.html) | [Linkedin](https://www.linkedin.com/company/lpl-financial/) | Financial Services
+443. [T. Rowe Price](https://www.troweprice.com/corporate/us/en/home.html) | [Jobs] (https://www.troweprice.com/corporate/us/en/careers.html) | [Linkedin](https://www.linkedin.com/company/t--rowe-price/) | Financial Services
 444. [Fortune Brands Home & Security](https://www.fbhs.com/) | [Jobs] () | [Linkedin]() |
 445. [Casey's General Stores](https://www.caseys.com/) | [Jobs] () | [Linkedin]() |
 446. [A-Mark Precious Metals](https://amark.com/)
