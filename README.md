@@ -509,55 +509,55 @@ Note: Create your profile in these platform, they you recommend job according to
 399. [Graybar Electric](https://www.graybar.com/) | [Jobs](Financial Services) | [Linkedin](https://www.linkedin.com/company/graybar/) | Wholesale
 400. [Ovintiv](https://www.ovintiv.com/) | [Jobs](https://www.ovintiv.com/students-grads/) | [Linkedin](https://www.linkedin.com/company/ovintiv/) | Oil and Gas
 401. [UFP Industries](https://www.ufpi.com/) | [Jobs](https://www.ufpi.com/careers#location_g=31.8304307|-102.3578534&location_o=Distance%2CAscending) | [Linkedin](https://www.linkedin.com/company/ufp-industries/) | Holding Companies
-402. [Ulta Beauty](https://www.ulta.com/) | [Jobs] (https://careers.ulta.com/careers/) | [Linkedin](https://www.linkedin.com/company/ulta/) | Retail
-403. [Constellation Brands](https://www.cbrands.com/) | [Jobs] (https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers) | [Linkedin](https://www.linkedin.com/company/constellation-brands/) | Food and Beverage Services
-404. [Expedia Group](https://www.expediagroup.com/home/default.aspx) | [Jobs] (https://careers.expediagroup.com/) | [Linkedin](https://www.linkedin.com/company/expedia/) | Software Development
-405. [CommScope Holding](https://www.commscope.com/) | [Jobs] (https://jobs.commscope.com/) | [Linkedin](https://www.linkedin.com/company/commscope/) |Telecommunications
-406. [Celanese](https://www.celanese.com/) | [Jobs] (https://www.celanese.com/en/careers) | [Linkedin](https://www.linkedin.com/company/celanese/) | Chemical Manufacturing
-407. [Global Payments](https://www.globalpayments.com/) | [Jobs] (https://jobs.globalpayments.com/en/?_gl=1*y334o*_gcl_au*MTI3Nzc4MTA2OS4xNzA4MzI5NzA4) | [Linkedin](https://www.linkedin.com/company/global-payments/) | Financial Services
-408. [Owens Corning	](https://www.owenscorning.com/en-us) | [Jobs] (https://careers.owenscorning.com/) | [Linkedin](https://www.linkedin.com/company/owens-corning/) | Wholesale Building Materials
-409. [Campbell Soup](https://www.campbells.com/) | [Jobs] (https://careers.campbellsoupcompany.com/us/en) | [Linkedin](https://www.linkedin.com/company/campbell-soup-company/) | Food and Beverage Services
-410. [Huntsman](https://www.huntsman.com/) | [Jobs] (https://www.huntsman.com/careers) | [Linkedin](https://www.linkedin.com/company/huntsman/) |  Chemical Manufacturing
-411. [Franklin Resources](https://www.franklinresources.com/) | [Jobs] (https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1?_gl=1*1g039x2*_ga*Njg3NTQxNDM3LjE3MDgzMzEwMzI.*_ga_15V8ZZDP8Z*MTcwODMzMTAzMS4xLjEuMTcwODMzMTEyNi4wLjAuMA..) | [Linkedin](https://www.linkedin.com/company/franklin-templeton/posts/?feedView=all) | Financial Services
-412. [Avery Dennison](https://www.averydennison.com/en/home.html) | [Jobs] (https://www.averydennison.com/en/home/about-us/careers/Global-career-search.html) | [Linkedin](https://www.linkedin.com/company/avery-dennison/) | Packaging and Containers Manufacturing
-413. [Masco](https://masco.com/) | [Jobs] (https://jobs.masco.com/us/en) | [Linkedin](https://www.linkedin.com/company/masco-corporation/) | Wholesale Building Materials
-414. [CenterPoint Energy](https://www.centerpointenergy.com/en-us/) | [Jobs] (https://careers.centerpointenergy.com/?_ga=2.228117853.1703839914.1708331600-98295041.1708331600) | [Linkedin](https://www.linkedin.com/company/centerpoint-energy/) | Utilities
-415. [Fifth Third Bancorp](https://www.53.com/content/fifth-third/en.html) | [Jobs] (https://www.53.com/content/fifth-third/en/careers.html) | [Linkedin](https://www.linkedin.com/company/fifth-third-bank/) | Financial Services
-416. [WEC Energy Group](https://www.wecenergygroup.com/) | [Jobs] (https://www.wecenergygroup.com/careers/index.htm) | [Linkedin](https://www.linkedin.com/company/wec-energy-group/) | Utilities
-417. [S&P Global](https://www.spglobal.com/en/) | [Jobs] (https://www.spglobal.com/en/careers/overview/) | [Linkedin](https://www.linkedin.com/company/spglobal/) | Financial Services
-418. [FMGlobal](https://www.fmglobal.com/) | [Jobs] (https://jobs.fmglobalcareers.com/) | [Linkedin](https://www.linkedin.com/company/fm-global/) | Insurance
-419. [Polaris](https://www.polaris.com/en-us/) | [Jobs] (https://www.polaris.com/en-us/careers/) | [Linkedin](https://www.linkedin.com/company/polarisinc/) | Manufacturing
-420. [Williams-Sonoma](https://www.williams-sonoma.com/) | [Jobs] (https://www.williams-sonoma.com/customer-service/careers/?cm_src=OLDLINK&cm_type=fnav) | [Linkedin](https://www.linkedin.com/company/williams-sonoma-inc-/) | Retail
-421. [Autoliv](https://www.autoliv.com/) | [Jobs] (https://www.autoliv.com/careers) | [Linkedin](https://www.linkedin.com/company/autoliv/) |  Motor Vehicle Parts Manufacturing
-422. [Arthur J. Gallagher](https://www.ajg.com/) | [Jobs] (https://jobs.ajg.com/ajg-home/) | [Linkedin](https://www.linkedin.com/company/gallagher-global/) | Insurance
-423. [Motorola Solutions](https://www.motorolasolutions.com/) | [Jobs] (https://www.motorolasolutions.com/en_us/about/careers.html) | [Linkedin](https://www.linkedin.com/company/motorolasolutions/) | Telecommunications
-424. [Tillow Group](https://www.zillowgroup.com/) | [Jobs] (https://www.zillow.com/careers/) | [Linkedin](https://www.linkedin.com/company/zillow/) | Real Estate
-425. [Opendoor Technologies	](https://www.opendoor.com/) | [Jobs] (https://www.opendoor.com/careers) | [Linkedin](https://www.linkedin.com/company/opendoor-com/) | Real Estate
-426. [J.M. Smucker](https://www.jmsmucker.com/) | [Jobs] (https://www.jmsmucker.com/careers) | [Linkedin](https://www.linkedin.com/company/the-jm-smucker-co/) | Manufacturing
-427. [Anywhere Real Estate/Realogy](https://www.anywhere.re/) | [Jobs] (https://anywhere.re/careers/#jobSearch) | [Linkedin](https://www.linkedin.com/company/anywhere-real-estate-inc/) | Real Estate
-428. [Oshkosh](https://www.oshkosh.com/) | [Jobs] (https://careers.carters.com/) | [Linkedin]() |
-429. [MasTec](https://www.mastec.com/) | [Jobs] (https://www.mastec.com/careers/) | [Linkedin](https://www.linkedin.com/company/mas-tec/) | Construction
-430. [GXO Logistics](https://gxo.com/) | [Jobs] (https://gxo.com/careers/) | [Linkedin](https://www.linkedin.com/company/gxologistics/) | Transportation, Logistics, Supply Chain and Storage
-431. [APA](https://www.apa.org/) | [Jobs] (https://www.psyccareers.com/) | [Linkedin](https://www.linkedin.com/company/american-psychological-association/) | Non-profit Organizations
-432. [Boise Cascade](https://www.bc.com/) | [Jobs] (https://www.bc.com/careers/) | [Linkedin](https://www.linkedin.com/company/boise-cascade/) | Wholesale Building Materials
-433. [Dover](https://www.dovercorporation.com/) | [Jobs] (https://www.dovercorporation.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/dovercorp/) | Machinery Manufacturing
-434. [Genworth Financial](https://www.genworth.com/) | [Jobs] (https://www.genworth.com/about-us/building-careers) | [Linkedin](https://www.linkedin.com/company/genworth-financial_2/) | Insurance
-435. [Bath & Body Works](https://www.bathandbodyworks.com/) | [Jobs] (https://careers.bathandbodyworks.com/en/) | [Linkedin](https://www.linkedin.com/company/bath-and-body-works/) | Retail
-436. [Booz Allen Hamilton Holding](https://www.boozallen.com/) | [Jobs] (https://careers.boozallen.com/) | [Linkedin](https://www.linkedin.com/company/booz-allen-hamilton/) | IT Services and IT Consulting
-437. [Coinbase Global](https://www.coinbase.com/) | [Jobs] (https://www.coinbase.com/careers) | [Linkedin](https://www.linkedin.com/company/coinbase/) | Internet Publishing
-438. [Zimmer Biomet Holdings](https://www.zimmerbiomet.com/en) | [Jobs] (https://careers.zimmerbiomet.com/us/en) | [Linkedin](https://www.linkedin.com/company/zimmerbiomet/) | Medical Equipment Manufacturing
-439. [Westinghouse Air Break Technologies](https://www.wabteccorp.com/) | [Jobs] (https://www.wabteccorp.com/careers) | [Linkedin](https://www.linkedin.com/company/wabtec-corporation/) | Railroad Equipment Manufacturing
-440. [Zoetis](https://www.zoetis.com/) | [Jobs] (https://www.zoetis.com/join-us/careers-at-zoetis) | [Linkedin](https://www.linkedin.com/company/zoetis/) | Pharmaceutical Manufacturing
-441. [Packaging Corp. of America](https://www.packagingcorp.com/) | [Jobs] (https://careers.packagingcorp.com/) | [Linkedin](https://www.linkedin.com/company/pca/) | Packaging & Containers
-442. [LPL Financial Holdings](https://www.lpl.com/) | [Jobs] (https://www.lpl.com/about-us.html) | [Linkedin](https://www.linkedin.com/company/lpl-financial/) | Financial Services
-443. [T. Rowe Price](https://www.troweprice.com/corporate/us/en/home.html) | [Jobs] (https://www.troweprice.com/corporate/us/en/careers.html) | [Linkedin](https://www.linkedin.com/company/t--rowe-price/) | Financial Services
-444. [Fortune Brands Home & Security](https://www.fbhs.com/) | [Jobs] () | [Linkedin]() |
-445. [Casey's General Stores](https://www.caseys.com/) | [Jobs] () | [Linkedin]() |
+402. [Ulta Beauty](https://www.ulta.com/) | [Jobs](https://careers.ulta.com/careers/) | [Linkedin](https://www.linkedin.com/company/ulta/) | Retail
+403. [Constellation Brands](https://www.cbrands.com/) | [Jobs](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers) | [Linkedin](https://www.linkedin.com/company/constellation-brands/) | Food and Beverage Services
+404. [Expedia Group](https://www.expediagroup.com/home/default.aspx) | [Jobs](https://careers.expediagroup.com/) | [Linkedin](https://www.linkedin.com/company/expedia/) | Software Development
+405. [CommScope Holding](https://www.commscope.com/) | [Jobs](https://jobs.commscope.com/) | [Linkedin](https://www.linkedin.com/company/commscope/) |Telecommunications
+406. [Celanese](https://www.celanese.com/) | [Jobs](https://www.celanese.com/en/careers) | [Linkedin](https://www.linkedin.com/company/celanese/) | Chemical Manufacturing
+407. [Global Payments](https://www.globalpayments.com/) | [Jobs](https://jobs.globalpayments.com/en/?_gl=1*y334o*_gcl_au*MTI3Nzc4MTA2OS4xNzA4MzI5NzA4) | [Linkedin](https://www.linkedin.com/company/global-payments/) | Financial Services
+408. [Owens Corning	](https://www.owenscorning.com/en-us) | [Jobs](https://careers.owenscorning.com/) | [Linkedin](https://www.linkedin.com/company/owens-corning/) | Wholesale Building Materials
+409. [Campbell Soup](https://www.campbells.com/) | [Jobs](https://careers.campbellsoupcompany.com/us/en) | [Linkedin](https://www.linkedin.com/company/campbell-soup-company/) | Food and Beverage Services
+410. [Huntsman](https://www.huntsman.com/) | [Jobs](https://www.huntsman.com/careers) | [Linkedin](https://www.linkedin.com/company/huntsman/) |  Chemical Manufacturing
+411. [Franklin Resources](https://www.franklinresources.com/) | [Jobs](https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1?_gl=1*1g039x2*_ga*Njg3NTQxNDM3LjE3MDgzMzEwMzI.*_ga_15V8ZZDP8Z*MTcwODMzMTAzMS4xLjEuMTcwODMzMTEyNi4wLjAuMA..) | [Linkedin](https://www.linkedin.com/company/franklin-templeton/posts/?feedView=all) | Financial Services
+412. [Avery Dennison](https://www.averydennison.com/en/home.html) | [Jobs](https://www.averydennison.com/en/home/about-us/careers/Global-career-search.html) | [Linkedin](https://www.linkedin.com/company/avery-dennison/) | Packaging and Containers Manufacturing
+413. [Masco](https://masco.com/) | [Jobs](https://jobs.masco.com/us/en) | [Linkedin](https://www.linkedin.com/company/masco-corporation/) | Wholesale Building Materials
+414. [CenterPoint Energy](https://www.centerpointenergy.com/en-us/) | [Jobs](https://careers.centerpointenergy.com/?_ga=2.228117853.1703839914.1708331600-98295041.1708331600) | [Linkedin](https://www.linkedin.com/company/centerpoint-energy/) | Utilities
+415. [Fifth Third Bancorp](https://www.53.com/content/fifth-third/en.html) | [Jobs](https://www.53.com/content/fifth-third/en/careers.html) | [Linkedin](https://www.linkedin.com/company/fifth-third-bank/) | Financial Services
+416. [WEC Energy Group](https://www.wecenergygroup.com/) | [Jobs](https://www.wecenergygroup.com/careers/index.htm) | [Linkedin](https://www.linkedin.com/company/wec-energy-group/) | Utilities
+417. [S&P Global](https://www.spglobal.com/en/) | [Jobs](https://www.spglobal.com/en/careers/overview/) | [Linkedin](https://www.linkedin.com/company/spglobal/) | Financial Services
+418. [FMGlobal](https://www.fmglobal.com/) | [Jobs](https://jobs.fmglobalcareers.com/) | [Linkedin](https://www.linkedin.com/company/fm-global/) | Insurance
+419. [Polaris](https://www.polaris.com/en-us/) | [Jobs](https://www.polaris.com/en-us/careers/) | [Linkedin](https://www.linkedin.com/company/polarisinc/) | Manufacturing
+420. [Williams-Sonoma](https://www.williams-sonoma.com/) | [Jobs](https://www.williams-sonoma.com/customer-service/careers/?cm_src=OLDLINK&cm_type=fnav) | [Linkedin](https://www.linkedin.com/company/williams-sonoma-inc-/) | Retail
+421. [Autoliv](https://www.autoliv.com/) | [Jobs](https://www.autoliv.com/careers) | [Linkedin](https://www.linkedin.com/company/autoliv/) |  Motor Vehicle Parts Manufacturing
+422. [Arthur J. Gallagher](https://www.ajg.com/) | [Jobs](https://jobs.ajg.com/ajg-home/) | [Linkedin](https://www.linkedin.com/company/gallagher-global/) | Insurance
+423. [Motorola Solutions](https://www.motorolasolutions.com/) | [Jobs](https://www.motorolasolutions.com/en_us/about/careers.html) | [Linkedin](https://www.linkedin.com/company/motorolasolutions/) | Telecommunications
+424. [Tillow Group](https://www.zillowgroup.com/) | [Jobs](https://www.zillow.com/careers/) | [Linkedin](https://www.linkedin.com/company/zillow/) | Real Estate
+425. [Opendoor Technologies	](https://www.opendoor.com/) | [Jobs](https://www.opendoor.com/careers) | [Linkedin](https://www.linkedin.com/company/opendoor-com/) | Real Estate
+426. [J.M. Smucker](https://www.jmsmucker.com/) | [Jobs](https://www.jmsmucker.com/careers) | [Linkedin](https://www.linkedin.com/company/the-jm-smucker-co/) | Manufacturing
+427. [Anywhere Real Estate/Realogy](https://www.anywhere.re/) | [Jobs](https://anywhere.re/careers/#jobSearch) | [Linkedin](https://www.linkedin.com/company/anywhere-real-estate-inc/) | Real Estate
+428. [Oshkosh](https://www.oshkosh.com/) | [Jobs](https://careers.carters.com/) | [Linkedin]() |
+429. [MasTec](https://www.mastec.com/) | [Jobs](https://www.mastec.com/careers/) | [Linkedin](https://www.linkedin.com/company/mas-tec/) | Construction
+430. [GXO Logistics](https://gxo.com/) | [Jobs](https://gxo.com/careers/) | [Linkedin](https://www.linkedin.com/company/gxologistics/) | Transportation, Logistics, Supply Chain and Storage
+431. [APA](https://www.apa.org/) | [Jobs](https://www.psyccareers.com/) | [Linkedin](https://www.linkedin.com/company/american-psychological-association/) | Non-profit Organizations
+432. [Boise Cascade](https://www.bc.com/) | [Jobs](https://www.bc.com/careers/) | [Linkedin](https://www.linkedin.com/company/boise-cascade/) | Wholesale Building Materials
+433. [Dover](https://www.dovercorporation.com/) | [Jobs](https://www.dovercorporation.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/dovercorp/) | Machinery Manufacturing
+434. [Genworth Financial](https://www.genworth.com/) | [Jobs](https://www.genworth.com/about-us/building-careers) | [Linkedin](https://www.linkedin.com/company/genworth-financial_2/) | Insurance
+435. [Bath & Body Works](https://www.bathandbodyworks.com/) | [Jobs](https://careers.bathandbodyworks.com/en/) | [Linkedin](https://www.linkedin.com/company/bath-and-body-works/) | Retail
+436. [Booz Allen Hamilton Holding](https://www.boozallen.com/) | [Jobs](https://careers.boozallen.com/) | [Linkedin](https://www.linkedin.com/company/booz-allen-hamilton/) | IT Services and IT Consulting
+437. [Coinbase Global](https://www.coinbase.com/) | [Jobs](https://www.coinbase.com/careers) | [Linkedin](https://www.linkedin.com/company/coinbase/) | Internet Publishing
+438. [Zimmer Biomet Holdings](https://www.zimmerbiomet.com/en) | [Jobs](https://careers.zimmerbiomet.com/us/en) | [Linkedin](https://www.linkedin.com/company/zimmerbiomet/) | Medical Equipment Manufacturing
+439. [Westinghouse Air Break Technologies](https://www.wabteccorp.com/) | [Jobs](https://www.wabteccorp.com/careers) | [Linkedin](https://www.linkedin.com/company/wabtec-corporation/) | Railroad Equipment Manufacturing
+440. [Zoetis](https://www.zoetis.com/) | [Jobs](https://www.zoetis.com/join-us/careers-at-zoetis) | [Linkedin](https://www.linkedin.com/company/zoetis/) | Pharmaceutical Manufacturing
+441. [Packaging Corp. of America](https://www.packagingcorp.com/) | [Jobs](https://careers.packagingcorp.com/) | [Linkedin](https://www.linkedin.com/company/pca/) | Packaging & Containers
+442. [LPL Financial Holdings](https://www.lpl.com/) | [Jobs](https://www.lpl.com/about-us.html) | [Linkedin](https://www.linkedin.com/company/lpl-financial/) | Financial Services
+443. [T. Rowe Price](https://www.troweprice.com/corporate/us/en/home.html) | [Jobs](https://www.troweprice.com/corporate/us/en/careers.html) | [Linkedin](https://www.linkedin.com/company/t--rowe-price/) | Financial Services
+444. [Fortune Brands Home & Security](https://www.fbhs.com/) | [Jobs]() | [Linkedin]() |
+445. [Casey's General Stores](https://www.caseys.com/) | [Jobs]() | [Linkedin]() |
 446. [A-Mark Precious Metals](https://amark.com/)
-447. [Hess](https://www.hess.com/) | [Jobs] () | [Linkedin]() |
-448. [Vertex Pharmaceuticals](https://www.vrtx.com/) | [Jobs] () | [Linkedin]() |
-449. [KeyCorp](http://www.keycorpltd.com/) | [Jobs] () | [Linkedin]() |
-450. [Chipotle Mexican Grill](https://www.chipotle.com/) | [Jobs] () | [Linkedin]() |
+447. [Hess](https://www.hess.com/) | [Jobs]() | [Linkedin]() |
+448. [Vertex Pharmaceuticals](https://www.vrtx.com/) | [Jobs]() | [Linkedin]() |
+449. [KeyCorp](http://www.keycorpltd.com/) | [Jobs]() | [Linkedin]() |
+450. [Chipotle Mexican Grill](https://www.chipotle.com/) | [Jobs]() | [Linkedin]() |
 451. [CMS Energy](https://www.cmsenergy.com/home/default.aspx)
 452. [Arconic](https://www.arconic.com/)
 453. [Taylor Morrison Home](https://www.taylormorrison.com/)
