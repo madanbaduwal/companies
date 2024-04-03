@@ -551,68 +551,68 @@ Note: Create your profile in these platform, they you recommend job according to
 441. [Packaging Corp. of America](https://www.packagingcorp.com/) | [Jobs](https://careers.packagingcorp.com/) | [Linkedin](https://www.linkedin.com/company/pca/) | Packaging & Containers
 442. [LPL Financial Holdings](https://www.lpl.com/) | [Jobs](https://www.lpl.com/about-us.html) | [Linkedin](https://www.linkedin.com/company/lpl-financial/) | Financial Services
 443. [T. Rowe Price](https://www.troweprice.com/corporate/us/en/home.html) | [Jobs](https://www.troweprice.com/corporate/us/en/careers.html) | [Linkedin](https://www.linkedin.com/company/t--rowe-price/) | Financial Services
-444. [Fortune Brands Home & Security](https://www.fbhs.com/) | [Jobs]() | [Linkedin]() |
-445. [Casey's General Stores](https://www.caseys.com/) | [Jobs]() | [Linkedin]() |
-446. [A-Mark Precious Metals](https://amark.com/)
-447. [Hess](https://www.hess.com/) | [Jobs]() | [Linkedin]() |
-448. [Vertex Pharmaceuticals](https://www.vrtx.com/) | [Jobs]() | [Linkedin]() |
-449. [KeyCorp](http://www.keycorpltd.com/) | [Jobs]() | [Linkedin]() |
-450. [Chipotle Mexican Grill](https://www.chipotle.com/) | [Jobs]() | [Linkedin]() |
-451. [CMS Energy](https://www.cmsenergy.com/home/default.aspx)
-452. [Arconic](https://www.arconic.com/)
-453. [Taylor Morrison Home](https://www.taylormorrison.com/)
-454. [American Financial Group](https://www.afginc.com/)
-455. [UGI](https://www.ugicorp.com/)
-456. [Science Applications International](https://saic.com/)
-457. [Avantor](https://www.avantorsciences.com/site/)
-458. [Hanesbrands](https://www.hanes.com/)
-459. [Clorox](https://www.clorox.com/)
-460. [KBR](https://www.kbr.com/en)
-461. [TravelCenters of America](https://www.ta-petro.com/)
-462. [Hertz Global Holdings](https://ir.hertz.com/)
-463. [Analog Devices](https://www.analog.com/en/index.html)
-464. [Securian Financial Group](https://www.securian.com/)
-465. [Darden Restaurants](https://www.darden.com/)
-466. [Graphic Packaging Holding](https://www.graphicpkg.com/)
-467. [NCR](https://www.ncr.com/)
-468. [Brighthouse Financial](https://www.brighthousefinancial.com/)
-469. [PPL](https://www.pplindia.org/)
-470. [Cintas](https://www.cintas.com/)
-471. [Xerox Holdings](https://www.xerox.com/en-us)
-472. [Rockwell Automation](https://www.rockwellautomation.com/)
-473. [Citizens Financial Group](https://www.citizensbank.com/homepage.aspx)
-474. [KLA](https://www.kla.com/)
-475. [Camping World Holdings](https://investor.campingworld.com/overview/default.aspx)
-476. [Ingredion](https://www.ingredion.com/na/en-us.html)
-477. [Veritiv](https://www.veritivcorp.com/)
-478. [Beacon Roofing Supply](https://www.becn.com/)
-479. [Diamondback Energy](https://ir.diamondbackenergy.com/)
-480. [Victoria's Secret	](https://www.victoriassecret.com/us/)
-481. [Academy Sports and Outdoors](https://www.academy.com/)
-482. [Sanmina](https://www.sanmina.com/)
-483. [ON Semiconductor](https://www.onsemi.com/)
-484. [Commercial Metals](https://www.cmc.com/)
-485. [EnLink Midstream](https://www.enlink.com/)
-486. [Southwestern Energy](https://www.swn.com/)
-487. [Equinix](https://www.equinix.se/)
-488. [Dillard's](https://www.dillards.com/)
-489. [Regions Financial](https://ir.regions.com/)
-490. [Yum Brands](https://www.yum.com/wps/portal/yumbrands/Yumbrands)
-491. [Landstar System](https://www.landstar.com/)
-492. [CF Industries Holdings](https://www.cfindustries.com/)
-493. [Northern Trust](https://www.northerntrust.com/united-states/home)
-494. [Robert Half International](https://www.roberthalf.com/)
-495. [Compass](https://www.compass-group.com/en/index.html)
-496. [Hasbro](https://shop.hasbro.com/en-us)
-497. [Roper Technologies](https://www.ropertech.com/)
-498. [ARKO](https://www.arkocorp.com/)
-499. [Frontier Communications](https://frontier.com/)
-500. [Ameren](https://www.ameren.com/)
+444. [Fortune Brands Home & Security](https://www.fbhs.com/) | [Jobs](https://www.fbin.com/careers/search-careers/?) | [Linkedin](https://www.linkedin.com/company/fortune-brands-innovations/) | Manufacturing
+445. [Casey's General Stores](https://www.caseys.com/) | [Jobs](https://www.caseys.com/careers) | [Linkedin](https://www.linkedin.com/company/caseys/) | Food and Beverage Services
+446. [A-Mark Precious Metals](https://amark.com/) [Jobs]() | [Linkedin](https://www.linkedin.com/company/a-mark-precious-metals/) | Financial Services
+447. [Hess](https://www.hess.com/) | [Jobs](https://www.hess.com/careers) | [Linkedin](https://www.linkedin.com/company/hess-corporation/) | Oil and Gas
+448. [Vertex Pharmaceuticals](https://www.vrtx.com/) | [Jobs](https://www.vrtx.com/careers/) | [Linkedin](https://www.linkedin.com/company/vertex-pharmaceuticals/) | Biotechnology Research
+449. [KeyBank](https://www.key.com/personal/index.html) | [Jobs](https://www.key.com/about/careers.html) | [Linkedin](https://www.linkedin.com/company/keybank/) | Banking
+450. [Chipotle Mexican Grill](https://www.chipotle.com/) | [Jobs](https://www.chipotle.com/order/create-account) | [Linkedin](https://www.linkedin.com/company/chipotle-mexican-grill/) | Restaurants
+451. [CMS Energy](https://www.cmsenergy.com/home/default.aspx) | [Jobs](https://www.cmsenergy.com/careers/default.aspx) | [Linkedin]() |Utilities
+452. [Arconic](https://www.arconic.com/) | [Jobs](https://www.arconic.com/joinus) | [Linkedin](https://www.linkedin.com/company/arconic/) | Manufacturing
+453. [Taylor Morrison Home](https://www.taylormorrison.com/) | [Jobs](https://careers.taylormorrison.com/?_gl=1*1anys7e*_ga*NzU0Mjc1MzQ2LjE3MTIxNzAxMDE.*_ga_5Q726MQJ81*MTcxMjE3MDEwMS4xLjEuMTcxMjE3MDEzNi4wLjAuMA..) | [Linkedin](https://www.linkedin.com/company/taylor-morrison/) | Real Estate
+454. [American Financial Group](https://www.afginc.com/) | [Jobs](https://www.greatamericaninsurancegroup.com/careers) | [Linkedin]() | Finance
+455. [UGI](https://www.ugicorp.com/) | [Jobs](https://careers.ugicorp.com/) | [Linkedin](https://www.linkedin.com/company/ugi-corporation/) | Utilities
+456. [Science Applications International](https://saic.com/) | [Jobs](https://jobs.saic.com/?bid=5081) | [Linkedin](https://www.linkedin.com/company/saicinc/) | IT Services and IT Consulting
+457. [Avantor](https://www.avantorsciences.com/site/) | [Jobs](https://vwr.wd1.myworkdayjobs.com/avantorJobs?utm_source=avantorinc.com&utm_medium=link&utm_campaign=AvantorCareers&utm_content=AvantorCareerPage-012018%3E) | [Linkedin](https://www.linkedin.com/company/avantorinc/) | Biotechnology Research
+458. [Hanesbrands](https://www.hanes.com/) | [Jobs](https://careers.hanes.com/?_ga=2.237289088.1850635309.1712171257-1163733598.1712171257) | [Linkedin](https://www.linkedin.com/company/hanesbrands-inc-/) | Manufacturing
+459. [Clorox](https://www.clorox.com/) | [Jobs](https://www.thecloroxcompany.com/careers/) | [Linkedin](https://www.linkedin.com/company/the-clorox-company/) | Manufacturing
+460. [KBR](https://www.kbr.com/en) | [Jobs](https://careers.kbr.com/us/en) | [Linkedin](https://www.linkedin.com/company/kbr-inc/) | IT Services and IT Consulting
+461. [TravelCenters of America](https://www.ta-petro.com/) | [Jobs](https://travelcenters.csod.com/ux/ats/careersite/1/home?c=travelcenters) | [Linkedin](https://www.linkedin.com/company/travelcenters-of-america/) | Retail
+462. [Hertz Global Holdings](https://ir.hertz.com/) | [Jobs](https://jobs.hertzcareers.com/#en/sites/CX_1) | [Linkedin](https://www.linkedin.com/company/hertz/) | Travel Arrangements
+463. [Analog Devices](https://www.analog.com/en/index.html) | [Jobs](https://www.analog.com/en/careers.html) | [Linkedin](https://www.linkedin.com/company/analog-devices/) | Semiconductor Manufacturing
+464. [Securian Financial Group](https://www.securian.com/) | [Jobs]() | [Linkedin]() |
+465. [Darden Restaurants](https://www.darden.com/) | [Jobs]() | [Linkedin]() |
+466. [Graphic Packaging Holding](https://www.graphicpkg.com/) | [Jobs]() | [Linkedin]() |
+467. [NCR](https://www.ncr.com/) | [Jobs]() | [Linkedin]() |
+468. [Brighthouse Financial](https://www.brighthousefinancial.com/) | [Jobs]() | [Linkedin]() |
+469. [PPL](https://www.pplindia.org/) | [Jobs]() | [Linkedin]() |
+470. [Cintas](https://www.cintas.com/) | [Jobs]() | [Linkedin]() |
+471. [Xerox Holdings](https://www.xerox.com/en-us) | [Jobs]() | [Linkedin]() |
+472. [Rockwell Automation](https://www.rockwellautomation.com/) | [Jobs]() | [Linkedin]() |
+473. [Citizens Financial Group](https://www.citizensbank.com/homepage.aspx) | [Jobs]() | [Linkedin]() |
+474. [KLA](https://www.kla.com/) | [Jobs]() | [Linkedin]() |
+475. [Camping World Holdings](https://investor.campingworld.com/overview/default.aspx) | [Jobs]() | [Linkedin]() |
+476. [Ingredion](https://www.ingredion.com/na/en-us.html) | [Jobs]() | [Linkedin]() |
+477. [Veritiv](https://www.veritivcorp.com/)  | [Jobs]() | [Linkedin]() |
+478. [Beacon Roofing Supply](https://www.becn.com/) | [Jobs]() | [Linkedin]() |
+479. [Diamondback Energy](https://ir.diamondbackenergy.com/) | [Jobs]() | [Linkedin]() |
+480. [Victoria's Secret	](https://www.victoriassecret.com/us/) | [Jobs]() | [Linkedin]() |
+481. [Academy Sports and Outdoors](https://www.academy.com/) | [Jobs]() | [Linkedin]() |
+482. [Sanmina](https://www.sanmina.com/) | [Jobs]() | [Linkedin]() |
+483. [ON Semiconductor](https://www.onsemi.com/) | [Jobs]() | [Linkedin]() |
+484. [Commercial Metals](https://www.cmc.com/) | [Jobs]() | [Linkedin]() |
+485. [EnLink Midstream](https://www.enlink.com/) | [Jobs]() | [Linkedin]() |
+486. [Southwestern Energy](https://www.swn.com/) | [Jobs]() | [Linkedin]() |
+487. [Equinix](https://www.equinix.se/) | [Jobs]() | [Linkedin]() |
+488. [Dillard's](https://www.dillards.com/) | [Jobs]() | [Linkedin]() |
+489. [Regions Financial](https://ir.regions.com/) | [Jobs]() | [Linkedin]() |
+490. [Yum Brands](https://www.yum.com/wps/portal/yumbrands/Yumbrands) | [Jobs]() | [Linkedin]() |
+491. [Landstar System](https://www.landstar.com/) | [Jobs]() | [Linkedin]() |
+492. [CF Industries Holdings](https://www.cfindustries.com/) | [Jobs]() | [Linkedin]() |
+493. [Northern Trust](https://www.northerntrust.com/united-states/home) | [Jobs]() | [Linkedin]() |
+494. [Robert Half International](https://www.roberthalf.com/) | [Jobs]() | [Linkedin]() |
+495. [Compass](https://www.compass-group.com/en/index.html) | [Jobs]() | [Linkedin]() |
+496. [Hasbro](https://shop.hasbro.com/en-us) | [Jobs]() | [Linkedin]() |
+497. [Roper Technologies](https://www.ropertech.com/) | [Jobs]() | [Linkedin]() |
+498. [ARKO](https://www.arkocorp.com/) | [Jobs]() | [Linkedin]() |
+499. [Frontier Communications](https://frontier.com/) | [Jobs]() | [Linkedin]() |
+500. [Ameren](https://www.ameren.com/) | [Jobs]() | [Linkedin]() |
 
 **Reference**
 
-* [Firtune 500](https://fortune.com/ranking/fortune500/)
-* [Firtune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
+* [Fortune 500](https://fortune.com/ranking/fortune500/)
+* [Fortune 500: Secondary source](https://www.zyxware.com/articles/4344/list-of-fortune-500-companies-and-their-websites)
 ## Github: [Solomon04](https://github.com/Solomon04/top-tech-companies)
 
 501. [regeneron](https://www.regeneron.com/)
