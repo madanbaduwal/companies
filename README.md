@@ -571,23 +571,23 @@ Note: Create your profile in these platform, they you recommend job according to
 461. [TravelCenters of America](https://www.ta-petro.com/) | [Jobs](https://travelcenters.csod.com/ux/ats/careersite/1/home?c=travelcenters) | [Linkedin](https://www.linkedin.com/company/travelcenters-of-america/) | Retail
 462. [Hertz Global Holdings](https://ir.hertz.com/) | [Jobs](https://jobs.hertzcareers.com/#en/sites/CX_1) | [Linkedin](https://www.linkedin.com/company/hertz/) | Travel Arrangements
 463. [Analog Devices](https://www.analog.com/en/index.html) | [Jobs](https://www.analog.com/en/careers.html) | [Linkedin](https://www.linkedin.com/company/analog-devices/) | Semiconductor Manufacturing
-464. [Securian Financial Group](https://www.securian.com/) | [Jobs]() | [Linkedin]() |
-465. [Darden Restaurants](https://www.darden.com/) | [Jobs]() | [Linkedin]() |
-466. [Graphic Packaging Holding](https://www.graphicpkg.com/) | [Jobs]() | [Linkedin]() |
-467. [NCR](https://www.ncr.com/) | [Jobs]() | [Linkedin]() |
-468. [Brighthouse Financial](https://www.brighthousefinancial.com/) | [Jobs]() | [Linkedin]() |
-469. [PPL](https://www.pplindia.org/) | [Jobs]() | [Linkedin]() |
-470. [Cintas](https://www.cintas.com/) | [Jobs]() | [Linkedin]() |
-471. [Xerox Holdings](https://www.xerox.com/en-us) | [Jobs]() | [Linkedin]() |
-472. [Rockwell Automation](https://www.rockwellautomation.com/) | [Jobs]() | [Linkedin]() |
-473. [Citizens Financial Group](https://www.citizensbank.com/homepage.aspx) | [Jobs]() | [Linkedin]() |
-474. [KLA](https://www.kla.com/) | [Jobs]() | [Linkedin]() |
-475. [Camping World Holdings](https://investor.campingworld.com/overview/default.aspx) | [Jobs]() | [Linkedin]() |
-476. [Ingredion](https://www.ingredion.com/na/en-us.html) | [Jobs]() | [Linkedin]() |
-477. [Veritiv](https://www.veritivcorp.com/)  | [Jobs]() | [Linkedin]() |
-478. [Beacon Roofing Supply](https://www.becn.com/) | [Jobs]() | [Linkedin]() |
-479. [Diamondback Energy](https://ir.diamondbackenergy.com/) | [Jobs]() | [Linkedin]() |
-480. [Victoria's Secret	](https://www.victoriassecret.com/us/) | [Jobs]() | [Linkedin]() |
+464. [Securian Financial Group](https://www.securian.com/) | [Jobs](https://www.securian.com/about-us/careers.html) | [Linkedin](https://www.linkedin.com/company/securian-financial/) | Financial Services
+465. [Darden Restaurants](https://www.darden.com/) | [Jobs](https://www.darden.com/careers) | [Linkedin](https://www.linkedin.com/company/darden/) | Restaurants
+466. [Graphic Packaging Holding](https://www.graphicpkg.com/) | [Jobs](https://www.graphicpkg.com/careers/) | [Linkedin](https://www.linkedin.com/company/graphic-packaging-international/) | Packaging and Containers Manufacturing
+467. [NCR](https://www.ncr.com/) | [Jobs](https://www.ncrvoyix.com/company/careers) | [Linkedin](https://www.linkedin.com/company/ncrvoyix/) | Software Development
+468. [Brighthouse Financial](https://www.brighthousefinancial.com/) | [Jobs](https://www.brighthousefinancial.com/about-us/careers/) | [Linkedin](https://www.linkedin.com/company/brighthouse-financial) | Insurance
+469. [PPL](https://www.pplindia.org/) | [Jobs]() | [Linkedin]() | 
+470. [Cintas](https://www.cintas.com/) | [Jobs](https://www.cintas.com/careers/) | [Linkedin](https://www.linkedin.com/company/cintas/) | Facilities Services
+471. [Xerox Holdings](https://www.xerox.com/en-us) | [Jobs](https://www.xerox.com/en-us/jobs) | [Linkedin](https://www.linkedin.com/company/xerox/life/369d6333-361b-434e-844d-cea85199fa6f/) | Business Consulting and Services
+472. [Rockwell Automation](https://www.rockwellautomation.com/) | [Jobs](https://www.rockwellautomation.com/en-us/company/careers.html) | [Linkedin](https://www.linkedin.com/company/rockwell-automation/) | Automation Machinery Manufacturing
+473. [Citizens Financial Group](https://www.citizensbank.com/homepage.aspx) | [Jobs](https://jobs.citizensbank.com/) | [Linkedin](https://www.linkedin.com/company/citizens-bank/) | Banking
+474. [KLA](https://www.kla.com/) | [Jobs](https://www.kla.com/careers) | [Linkedin](https://www.linkedin.com/company/klacorp/) | Semiconductor Manufacturing
+475. [Camping World Holdings](https://www.campingworld.com/) | [Jobs](https://www.campingworldjobs.com/us/en) | [Linkedin]() |
+476. [Ingredion](https://www.ingredion.com/na/en-us.html) | [Jobs](https://www.ingredion.com/na/en-us/company/careers.html) | [Linkedin](https://www.linkedin.com/company/ingredion-incorporated/) | Food and Beverage Services
+477. [Veritiv](https://www.veritivcorp.com/)  | [Jobs](https://careers.veritiv.com/us/en) | [Linkedin](https://www.linkedin.com/company/veritiv/) | Transportation, Logistics, Supply Chain and Storage
+478. [Beacon Roofing Supply](https://www.becn.com/) | [Jobs](https://jobs.becn.com/) | [Linkedin](https://www.linkedin.com/company/beacon-building-products/) | Wholesale Building Materials
+479. [Diamondback Energy](https://ir.diamondbackenergy.com/) | [Jobs](https://ir.diamondbackenergy.com/careers) | [Linkedin](https://www.linkedin.com/company/diamondback-energy-services/) | Oil and Gas
+480. [Victoria's Secret	](https://www.victoriassecret.com/us/) | [Jobs](https://careers.victoriassecret.com/en/) | [Linkedin](https://www.linkedin.com/company/victoria's-secret/) | Retail
 481. [Academy Sports and Outdoors](https://www.academy.com/) | [Jobs]() | [Linkedin]() |
 482. [Sanmina](https://www.sanmina.com/) | [Jobs]() | [Linkedin]() |
 483. [ON Semiconductor](https://www.onsemi.com/) | [Jobs]() | [Linkedin]() |
