@@ -588,26 +588,26 @@ Note: Create your profile in these platform, they you recommend job according to
 478. [Beacon Roofing Supply](https://www.becn.com/) | [Jobs](https://jobs.becn.com/) | [Linkedin](https://www.linkedin.com/company/beacon-building-products/) | Wholesale Building Materials
 479. [Diamondback Energy](https://ir.diamondbackenergy.com/) | [Jobs](https://ir.diamondbackenergy.com/careers) | [Linkedin](https://www.linkedin.com/company/diamondback-energy-services/) | Oil and Gas
 480. [Victoria's Secret	](https://www.victoriassecret.com/us/) | [Jobs](https://careers.victoriassecret.com/en/) | [Linkedin](https://www.linkedin.com/company/victoria's-secret/) | Retail
-481. [Academy Sports and Outdoors](https://www.academy.com/) | [Jobs]() | [Linkedin]() |
-482. [Sanmina](https://www.sanmina.com/) | [Jobs]() | [Linkedin]() |
-483. [ON Semiconductor](https://www.onsemi.com/) | [Jobs]() | [Linkedin]() |
-484. [Commercial Metals](https://www.cmc.com/) | [Jobs]() | [Linkedin]() |
-485. [EnLink Midstream](https://www.enlink.com/) | [Jobs]() | [Linkedin]() |
-486. [Southwestern Energy](https://www.swn.com/) | [Jobs]() | [Linkedin]() |
-487. [Equinix](https://www.equinix.se/) | [Jobs]() | [Linkedin]() |
-488. [Dillard's](https://www.dillards.com/) | [Jobs]() | [Linkedin]() |
-489. [Regions Financial](https://ir.regions.com/) | [Jobs]() | [Linkedin]() |
-490. [Yum Brands](https://www.yum.com/wps/portal/yumbrands/Yumbrands) | [Jobs]() | [Linkedin]() |
-491. [Landstar System](https://www.landstar.com/) | [Jobs]() | [Linkedin]() |
-492. [CF Industries Holdings](https://www.cfindustries.com/) | [Jobs]() | [Linkedin]() |
-493. [Northern Trust](https://www.northerntrust.com/united-states/home) | [Jobs]() | [Linkedin]() |
-494. [Robert Half International](https://www.roberthalf.com/) | [Jobs]() | [Linkedin]() |
-495. [Compass](https://www.compass-group.com/en/index.html) | [Jobs]() | [Linkedin]() |
-496. [Hasbro](https://shop.hasbro.com/en-us) | [Jobs]() | [Linkedin]() |
-497. [Roper Technologies](https://www.ropertech.com/) | [Jobs]() | [Linkedin]() |
-498. [ARKO](https://www.arkocorp.com/) | [Jobs]() | [Linkedin]() |
-499. [Frontier Communications](https://frontier.com/) | [Jobs]() | [Linkedin]() |
-500. [Ameren](https://www.ameren.com/) | [Jobs]() | [Linkedin]() |
+481. [Academy Sports and Outdoors](https://www.academy.com/) | [Jobs](https://careers.academy.com/us/en) | [Linkedin](https://www.linkedin.com/company/academy-sports-and-outdoor/) | Retail
+482. [Sanmina](https://www.sanmina.com/) | [Jobs](https://www.sanmina.com/careers/) | [Linkedin](https://www.linkedin.com/company/sanmina/) | Appliances, Electrical, and Electronics Manufacturing
+483. [ON Semiconductor](https://www.onsemi.com/) | [Jobs](https://www.onsemi.com/careers/internships) | [Linkedin](https://www.linkedin.com/company/onsemi/) | Semiconductors
+484. [Commercial Metals](https://www.cmc.com/) | [Jobs](https://www.cmc.com/en-us/cmc-careers) | [Linkedin](https://www.linkedin.com/company/inside-cmc/) | Construction
+485. [EnLink Midstream](https://www.enlink.com/) | [Jobs](https://careers.enlink.com/careers-home) | [Linkedin](https://www.linkedin.com/company/enlink-midstream/) | Oil and Gas
+486. [Southwestern Energy](https://www.swn.com/) | [Jobs](https://www.swn.com/careers/) | [Linkedin](https://www.linkedin.com/company/southwestern-energy/) | Oil and Gas
+487. [Equinix](https://www.equinix.se/) | [Jobs](https://careers.equinix.com/homepage?utm_source=dotcom) | [Linkedin](https://www.linkedin.com/company/equinix/) | Internet Publishing
+488. [Dillard's](https://www.dillards.com/) | [Jobs](https://careers.dillards.com/Careers/) | [Linkedin](https://www.linkedin.com/company/dillards/) | Retail
+489. [Regions Financial](https://ir.regions.com/) | [Jobs](https://www.linkedin.com/company/regions-financial-corporation/) | [Linkedin](https://www.linkedin.com/company/regions-financial-corporation/) | Banking
+490. [Yum Brands](https://www.yum.com/wps/portal/yumbrands/Yumbrands) | [Jobs](https://www.yum.com/wps/portal/yumbrands/Yumbrands/careers) | [Linkedin](https://www.linkedin.com/company/yum-brands/) | Restaurants
+491. [Landstar System](https://www.landstar.com/) | [Jobs](https://www.landstar.com/) | [Linkedin](https://www.linkedin.com/company/landstar/) | Truck Transportation
+492. [CF Industries Holdings](https://www.cfindustries.com/) | [Jobs](https://careers.cfindustries.com/) | [Linkedin](https://www.linkedin.com/company/cf-industries/) | Chemical Manufacturing
+493. [Northern Trust](https://www.northerntrust.com/united-states/home) | [Jobs](https://www.northerntrust.com/united-states/about-us/careers) | [Linkedin](https://www.linkedin.com/company/northern-trust/) | Financial Services
+494. [Robert Half International](https://www.roberthalf.com/) | [Jobs](https://www.roberthalf.com/us/en/jobs/odessa/all) | [Linkedin](https://www.linkedin.com/company/robert-half-international/) | Staffing and Recruiting
+495. [Compass](https://www.compass.com/) | [Jobs](https://www.compass.com/careers/) | [Linkedin](https://www.linkedin.com/company/compassinc/) | Real Estate
+496. [Hasbro](https://shop.hasbro.com/en-us) | [Jobs](https://jobs.hasbro.com/?locale=en_US) | [Linkedin](https://www.linkedin.com/company/hasbro/) | Manufacturing
+497. [Roper Technologies](https://www.ropertech.com/) | [Jobs]() | [Linkedin](https://www.linkedin.com/company/roper-industries/) | Software Development
+498. [ARKO](https://www.arkocorp.com/) | [Jobs]() | [Linkedin](https://www.linkedin.com/company/arko-corp-us/) | Retail
+499. [Frontier Communications](https://frontier.com/) | [Jobs]() | [Linkedin](https://www.linkedin.com/company/frontier-communications/) | Telecommunications
+500. [Ameren](https://www.ameren.com/) | [Jobs](https://www.ameren.com/company/careers) | [Linkedin](https://www.linkedin.com/company/ameren/) | Utilities
 
 **Reference**
 
