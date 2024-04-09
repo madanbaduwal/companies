@@ -1,13 +1,11 @@
 # Companies
 
-## For an interview
+## For resume, profile, and interview
 
-Notes: 
-
-* If your resume/profile doesn't align with job description then there is low probability of selecting your resume. First Build your profile and apply positions that fit for your profile only. i.e your profile should match with job description and company goal mission. 
-* **Write email,message,cover letter and resume in such a way that your research/goal align with company's goal/mission/job description.**
-* **In Interview give your answers in such a way that your research/goal align with the company's goal/mission/job description**
-* **Research about company before interview , ask genuine questions to the interviewer about company and projects**
+* If your resume/profile doesn't align with the job description, then there is a low probability of your resume being selected. First, build your profile and apply only for positions that fit your profile. In other words, your profile should match the job description and the company's goals and mission. 
+* Write an email, message, cover letter, and resume in such a way that your research and goals align with the company's goals, mission, and job description.
+* In an interview, give your answers in such a way that your research and goals align with the company's goals, mission, and job description.
+* Research the company thoroughly before the interview. During the interview, ask genuine questions to the interviewer about the company and its projects.
 
 ## Software Engineer Levels
 
@@ -25,7 +23,7 @@ Apply proper positions
 10. Vice President of Engineering
 11. Chief Technology Officer (CTO)
 
-## Cover Letter
+## Email, Message, and Cover Letter
 
 ```
 Subject : Summer 2024 Internship 
@@ -48,27 +46,11 @@ Madan Baduwal
 
 ```
 
-## Important Factors Selecting Company
+## Important Factors Selecting Company(For an international student)
 
 * H1B filled
 * Green Card filled
 * Linkedin follower: 6 digit followers in linkedin i.e 100k > 
-
-
-## Other Notes
-
-* Check job descriptions and refine resume with skills
-* Set two unforgetable passwords for job portal
-   <!-- * Passwordmadan@123
-   * Passwordbaduwal@123  -->
-* Three parallel concept
-   * Social Media: Linkedin, google, indeed... | You can randomly apply any company JD match with yours resume
-   * Official website : Make a dream company list | Apply carefully and give some time
-   * From others list: github, other list... | Randomly apply any company JD match with yours resume
-* Be flexible about job title computer vision engineer(first priority) > NLP engineer > Machine learning engineer > Data analytics > Software engineer
-* **Main page> Career(top or bottom of the page, about>career) > Students > Internship**
-* **Official website > linkedin of that website > jobs > linkedin automatically recommend jobs for you according to your profile, search your job by title | You will get fast update in LinkedIn**
-* Many company have sub-companies work on software and technology
 
 ## Job listing companies 
 
@@ -95,16 +77,26 @@ Note: Create your profile in these platform, they you recommend job according to
 * [Naukri](https://www.naukri.com/)
 * [levels.fyi](https://www.levels.fyi/internships/)
 
-
-
 ## Tools 
 
-- [simplify]() : Help to autofill job applications
-- [Careerflow AI LinkedIn Optimization and more]() : Evaluate your profile/resume on the basis of JD and point-out missing keywords.
+- Resume tailor and builder
+    - [Resumeworded](https://resumeworded.com/)
+- [simplify](https://simplify.jobs/) : Help to autofill job applications
+- [Careerflow AI](https://www.careerflow.ai/) : Evaluate your profile/resume on the basis of JD and point-out missing keywords.
+- [F1 Hire - Job Analyzer, H1B Checker](https://chromewebstore.google.com/detail/f1-hire-job-analyzer-h1b/jabnaledogdghdbckajlnbipcdicinom)
 
-## University
-* [UTPB]()
+## Other Notes
 
+* Check the job descriptions carefully and refine your resume to highlight the relevant skills.
+* Set two unforgettable passwords for job portals.
+* Three parallel concept
+    * Social Media: LinkedIn, Google, Indeed, etc. You can randomly apply to any company where the job description matches your resume.
+    * Official website: Make a list of your dream companies. Apply carefully and give it some time.
+    * From other lists: GitHub, other lists, etc. You can randomly apply to any company where the job description matches your resume.
+* Be flexible about job title computer vision engineer(first priority) > NLP engineer > Machine learning engineer > Data Science > Data analytics  > Software engineer
+* **Main page> Career(top or bottom of the page, about > career) > Students > Internship**
+* **Official website > linkedin of that website > jobs > linkedin automatically recommend jobs for you according to your profile, search your job by title | You will get fast update in LinkedIn**
+* Many company have sub-companies work on software and technology
 
 ## Fortune 500+
 
@@ -1331,10 +1323,7 @@ Parameters for selecting Consultancy
 * Followers in Linkedin
 * Official Gmails
 * Select Consultancy which have a position related to your career goals
-  
-Importatnt terminnology 
-
-* W2 contact position
+* W2 contract position
 
 **Consultancy**
 
@@ -1446,32 +1435,6 @@ Vertex Group (Schaumburg, IL)
 VST Consulting Inc
 XcelTech Inc -->
 
-
-
-**Reference**
-
-* [Facebook: Jobs for OPT & CPT Students]()
-* [Facebbok: F1, OPT, CPT Employers, Students]()
-* [Facebook Group: OPT, CPT ,H4-EAD , H1B, GC, USC, ASYLUM visa jobs in USA]()
-* [Facebook: H1B, H4, F1, OPT & CPT Visa Holders]()
-
-
-## References
-
-
-- [New-Grad-Positions 2024](https://github.com/SimplifyJobs/New-Grad-Positions)
-- [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
-- [Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships)
-- [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
-- [2024-SWE-New-Grad](https://github.com/AlanChen4/2024-SWE-New-Grad)
-- [Summer-2024-internship](https://github.com/OnlyReferrals/Summer-2024-internship)
-- [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
-- [Projectstartups](https://www.projectstartups.com/)
-- [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
-- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
-- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
-- [established-remote: github](https://github.com/yanirs/established-remote)
-
 ## People reference and alternative of job
 
 * Du chen
@@ -1488,4 +1451,17 @@ XcelTech Inc -->
 * Propetro(recruiting@propetroservices.com, 4322218100)
 * Western Midstream
 * https://ideapublicschools.org/
-* 
+
+## References
+- [New-Grad-Positions 2024](https://github.com/SimplifyJobs/New-Grad-Positions)
+- [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
+- [Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships)
+- [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
+- [2024-SWE-New-Grad](https://github.com/AlanChen4/2024-SWE-New-Grad)
+- [Summer-2024-internship](https://github.com/OnlyReferrals/Summer-2024-internship)
+- [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
+- [Projectstartups](https://www.projectstartups.com/)
+- [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
+- [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
+- [established-remote: github](https://github.com/yanirs/established-remote)
