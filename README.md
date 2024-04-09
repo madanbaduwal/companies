@@ -100,8 +100,8 @@ Note: Create your profile in these platform, they you recommend job according to
 
 ## Fortune 500+
 
-1. Meta | [Jobs](https://www.metacareers.com/),[Internship](https://www.metacareers.com/careerprograms/students) | [Profile](https://www.metacareers.com/profile/home)
-2. Amazon | [Jobs](https://www.amazon.jobs/en/), [Internship](https://www.amazon.jobs/en/teams/internships-for-students)| [Profile](https://account.amazon.jobs/en-US)
+1. [Meta](https://www.meta.com/) | [Jobs](https://www.metacareers.com/),[Internship](https://www.metacareers.com/careerprograms/students) | [Linkedin](https://www.linkedin.com/company/meta/) | Software Development
+2. [Amazon](https://www.amazon.com/) | [Jobs](https://www.amazon.jobs/en/), [Internship](https://www.amazon.jobs/en/teams/internships-for-students)|  [Linkedin](https://www.linkedin.com/company/amazon/) | Software Development
 3. Apple | [Jobs](https://www.apple.com/careers/us/), [Internship](https://www.apple.com/careers/us/students.html) | 
 4. Netflix| [Jobs](https://jobs.netflix.com/), [Internship](https://jobs.netflix.com/intern-program)| No need profile
 5. Google | [Jobs](https://careers.google.com/), [Internship](https://buildyourfuture.withgoogle.com/internships) | [Profile](https://www.google.com/about/careers/applications/students/) 
