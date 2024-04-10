@@ -109,16 +109,16 @@ Note: Create your profile in these platform, they you recommend job according to
 7. [SpaceX](https://www.spacex.com/) | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | No need profile | [Linkedin](https://www.linkedin.com/company/spacex/) | Aviation and Aerospace Component Manufacturing 
 8. [Microsoft](https://www.microsoft.com/en-us/) | [Jobs](https://careers.microsoft.com/us/en/), [Internship](https://careers.microsoft.com/students/us/en/job/1533653/Research-Intern-Machine-Learning) | [Linkedin](https://www.linkedin.com/company/microsoft/) | Software Development
 9. [Adobe](https://www.adobe.com/) | [Jobs](https://www.adobe.com/careers.html), [Internship](https://www.adobe.com/careers/university/internships.html) | [Linkedin](https://www.linkedin.com/company/adobe/) | Software Development
-10. Airbnb | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | No profile required | [Linkedin]() | 
-11. Walmart | [Jobs](https://careers.walmart.com/), [Internship](https://careers.walmart.com/student) | No profile required | [Linkedin]() | 
-12. CVS Health | [Jobs](https://jobs.cvshealth.com/), [Internship](https://jobs.cvshealth.com/internships/) | Profile is required | [Linkedin]() | 
-13. UnitedHealth Group | [Jobs](https://careers.unitedhealthgroup.com/), [Internship](https://careers.unitedhealthgroup.com/early-careers/) | No Profile needed | [Linkedin]() | 
-14. Exxon Mobil | [Jobs](https://jobs.exxonmobil.com/), [Internship](https://corporate.exxonmobil.com/careers/internship-opportunities) | Profile | [Linkedin]() | 
-15. McKesson |[Jobs](https://www.mckesson.com/Careers/), [Internship](https://careers.mckesson.com/en/category/intern-jobs/733/8457936/1)| Profile | [Linkedin]() | 
-16. AmerisourceBergen |[Jobs](https://www.amerisourcebergen.com/careers-home), [Internship](https://www.amerisourcebergen.com/careers-home/internships) | Profile required | [Linkedin]() | 
-17. Costco Wholesale | [Jobs](https://www.costco.com/job-opportunities.html) | No Computer science jobs | [Linkedin]() | 
-18. Cigna | [Jobs](https://jobs.thecignagroup.com/us/en),[Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program) | You can create profile | [Linkedin]() | 
-19. AT&T | [Jobs](https://www.att.jobs/),[Internship](https://www.att.jobs/students) | No profile need | [Linkedin]() | 
+10. [Airbnb](https://www.airbnb.com/) | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | [Linkedin](https://www.linkedin.com/company/airbnb/) | Software Development
+11. [Walmart](https://www.walmart.com/) | [Jobs](https://careers.walmart.com/), [Internship](https://careers.walmart.com/student) | [Linkedin](https://www.linkedin.com/company/walmart/) | Retail
+12. [CVS Health](https://www.cvshealth.com/) | [Jobs](https://jobs.cvshealth.com/), [Internship](https://jobs.cvshealth.com/internships/) | [Linkedin](https://www.linkedin.com/company/cvshealth/) | Hospitals and Health Care
+13. [UnitedHealth Group](https://www.unitedhealthgroup.com/) | [Jobs](https://careers.unitedhealthgroup.com/), [Internship](https://careers.unitedhealthgroup.com/early-careers/)  | [Linkedin](https://www.linkedin.com/company/unitedhealth-group/) | Hospitals and Health Care
+14. [Exxon Mobil](https://corporate.exxonmobil.com/) | [Jobs](https://jobs.exxonmobil.com/), [Internship](https://corporate.exxonmobil.com/careers/internship-opportunities) | [Linkedin](https://www.linkedin.com/company/exxonmobil/) | Oil and Gas
+15. [McKesson](https://www.mckesson.com/) |[Jobs](https://www.mckesson.com/Careers/), [Internship](https://careers.mckesson.com/en/category/intern-jobs/733/8457936/1)| [Linkedin](https://www.linkedin.com/company/mckesson/) | Hospitals and Health Care
+16. [AmerisourceBergen](https://www.amerisourcebergen.com/) |[Jobs](https://www.amerisourcebergen.com/careers-home), [Internship](https://www.amerisourcebergen.com/careers-home/internships) |  [Linkedin](https://www.linkedin.com/company/amerisourcebergen/) | Hospitals and Health Care
+17. [Costco Wholesale](https://www.costco.com/) | [Jobs](https://www.costco.com/job-opportunities.html)  | [Linkedin](https://www.linkedin.com/company/costco-wholesale/) | Retail
+18. [Cigna](https://www.thecignagroup.com/) | [Jobs](https://jobs.thecignagroup.com/us/en),[Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program) | [Linkedin](https://www.linkedin.com/company/the-cigna-group/) | Hospitals and Health Care
+19. [AT&T](https://www.att.com/) | [Jobs](https://www.att.jobs/),[Internship](https://www.att.jobs/students) | [Linkedin](https://www.linkedin.com/company/att/) | Telecommunications
 20. Cardinal Health | [Jobs](https://www.cardinalhealth.com/en/careers.html), [Internship](https://www.cardinalhealth.com/en/careers/students-grads/internships.html)| No profile need | [Linkedin]() | 
 21. Chevron | [Jobs](https://chevroncareers.jobs/), [Internship](https://careers.chevron.com/internship) | No profile need | [Linkedin]() | 
 22. Walgreens Boots Alliance | [Jobs](https://jobs.walgreens.com/en), [Internship](https://jobs.walgreens.com/en/students) | No profile need | [Linkedin]() | 
