@@ -102,33 +102,33 @@ Note: Create your profile in these platform, they you recommend job according to
 
 1. [Meta](https://www.meta.com/) | [Jobs](https://www.metacareers.com/),[Internship](https://www.metacareers.com/careerprograms/students) | [Linkedin](https://www.linkedin.com/company/meta/) | Software Development
 2. [Amazon](https://www.amazon.com/) | [Jobs](https://www.amazon.jobs/en/), [Internship](https://www.amazon.jobs/en/teams/internships-for-students)|  [Linkedin](https://www.linkedin.com/company/amazon/) | Software Development
-3. Apple | [Jobs](https://www.apple.com/careers/us/), [Internship](https://www.apple.com/careers/us/students.html) | 
-4. Netflix| [Jobs](https://jobs.netflix.com/), [Internship](https://jobs.netflix.com/intern-program)| No need profile
-5. Google | [Jobs](https://careers.google.com/), [Internship](https://buildyourfuture.withgoogle.com/internships) | [Profile](https://www.google.com/about/careers/applications/students/) 
-6. Tesla | [Jobs](https://www.tesla.com/careers/search/?site=US) , [Internship](https://www.tesla.com/careers/internships)| No need profile
-7. SpaceX | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | No need profile
-8. Microsoft | [Jobs](https://careers.microsoft.com/us/en/), [Internship](https://careers.microsoft.com/students/us/en/job/1533653/Research-Intern-Machine-Learning) | Profile
-9. Adobe | [Jobs](https://www.adobe.com/careers.html), [Internship](https://www.adobe.com/careers/university/internships.html) | No need profile
-10. Airbnb | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | No profile required
-11. Walmart | [Jobs](https://careers.walmart.com/), [Internship](https://careers.walmart.com/student) | No profile required
-12. CVS Health | [Jobs](https://jobs.cvshealth.com/), [Internship](https://jobs.cvshealth.com/internships/) | Profile is required
-13. UnitedHealth Group | [Jobs](https://careers.unitedhealthgroup.com/), [Internship](https://careers.unitedhealthgroup.com/early-careers/) | No Profile needed
-14. Exxon Mobil | [Jobs](https://jobs.exxonmobil.com/), [Internship](https://corporate.exxonmobil.com/careers/internship-opportunities) | Profile
-15. McKesson |[Jobs](https://www.mckesson.com/Careers/), [Internship](https://careers.mckesson.com/en/category/intern-jobs/733/8457936/1)| Profile
-16. AmerisourceBergen |[Jobs](https://www.amerisourcebergen.com/careers-home), [Internship](https://www.amerisourcebergen.com/careers-home/internships) | Profile required
-17. Costco Wholesale | [Jobs](https://www.costco.com/job-opportunities.html) | No Computer science jobs
-18. Cigna | [Jobs](https://jobs.thecignagroup.com/us/en),[Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program) | You can create profile
-19. AT&T | [Jobs](https://www.att.jobs/),[Internship](https://www.att.jobs/students) | No profile need 
-20. Cardinal Health | [Jobs](https://www.cardinalhealth.com/en/careers.html), [Internship](https://www.cardinalhealth.com/en/careers/students-grads/internships.html)| No profile need
-21. Chevron | [Jobs](https://chevroncareers.jobs/), [Internship](https://careers.chevron.com/internship) | No profile need
-22. Walgreens Boots Alliance | [Jobs](https://jobs.walgreens.com/en), [Internship](https://jobs.walgreens.com/en/students) | No profile need
-23. Marathon Petroleum | [Jobs](https://www.marathonpetroleum.com/Jobs/), [Internship](https://www.marathonpetroleum.com/Jobs/University-Recruiting/) | No profile need
-24. Elevance Health | [Jobs](https://careers.elevancehealth.com/), [Internship](https://careers.elevancehealth.com/student-programs/) | Profile need
-25. Kroger| [Jobs](https://www.thekrogerco.com/careers/), [Internship](https://www.thekrogerco.com/careers/students/) | Profile need
-26. Ford Motor | [Jobs](https://corporate.ford.com/careers/job-opportunities.html), [Internship](https://corporate.ford.com/careers/programs/students-and-recent-graduates/ford-summer-internship-program.html) | No Profile Need
-27. Verizon Communications | [Jobs](https://www.verizon.com/about/careers), [Internship](https://mycareer.verizon.com/life-at-verizon/students-internships/) | No Profile Need
-28. JPMorgan Chase	 | [Jobs](https://careers.jpmorgan.com/us/en/home), [Internship](https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__Americas__UnitedStatesofAmerica) | No profile Need
-29. General Motors | [Jobs](https://search-careers.gm.com/en/), [Internship](https://search-careers.gm.com/en/early-careers/) | 
+3. [Apple](https://www.apple.com/) | [Jobs](https://www.apple.com/careers/us/), [Internship](https://www.apple.com/careers/us/students.html) | [Linkedin](https://www.linkedin.com/company/amazon/?Amazon.jobs=footer) | Software Development
+4. [Netflix](https://www.netflix.com/) | [Jobs](https://jobs.netflix.com/), [Internship](https://jobs.netflix.com/intern-program) | [Linkedin](https://www.linkedin.com/company/netflix/) | Entertainment Providers
+5. [Google](https://www.google.com/) | [Jobs](https://careers.google.com/), [Internship](https://buildyourfuture.withgoogle.com/internships) | [Profile](https://www.google.com/about/careers/applications/students/) | [Linkedin](https://www.linkedin.com/company/google/) | Software Development
+6. [Tesla](https://www.tesla.com/) | [Jobs](https://www.tesla.com/careers/search/?site=US) , [Internship](https://www.tesla.com/careers/internships) | [Linkedin](https://www.linkedin.com/company/tesla-motors/) | Motor Vehicle Manufacturing
+7. [SpaceX](https://www.spacex.com/) | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | No need profile | [Linkedin](https://www.linkedin.com/company/spacex/) | Aviation and Aerospace Component Manufacturing 
+8. [Microsoft](https://www.microsoft.com/en-us/) | [Jobs](https://careers.microsoft.com/us/en/), [Internship](https://careers.microsoft.com/students/us/en/job/1533653/Research-Intern-Machine-Learning) | [Linkedin](https://www.linkedin.com/company/microsoft/) | Software Development
+9. [Adobe](https://www.adobe.com/) | [Jobs](https://www.adobe.com/careers.html), [Internship](https://www.adobe.com/careers/university/internships.html) | [Linkedin](https://www.linkedin.com/company/adobe/) | Software Development
+10. Airbnb | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | No profile required | [Linkedin]() | 
+11. Walmart | [Jobs](https://careers.walmart.com/), [Internship](https://careers.walmart.com/student) | No profile required | [Linkedin]() | 
+12. CVS Health | [Jobs](https://jobs.cvshealth.com/), [Internship](https://jobs.cvshealth.com/internships/) | Profile is required | [Linkedin]() | 
+13. UnitedHealth Group | [Jobs](https://careers.unitedhealthgroup.com/), [Internship](https://careers.unitedhealthgroup.com/early-careers/) | No Profile needed | [Linkedin]() | 
+14. Exxon Mobil | [Jobs](https://jobs.exxonmobil.com/), [Internship](https://corporate.exxonmobil.com/careers/internship-opportunities) | Profile | [Linkedin]() | 
+15. McKesson |[Jobs](https://www.mckesson.com/Careers/), [Internship](https://careers.mckesson.com/en/category/intern-jobs/733/8457936/1)| Profile | [Linkedin]() | 
+16. AmerisourceBergen |[Jobs](https://www.amerisourcebergen.com/careers-home), [Internship](https://www.amerisourcebergen.com/careers-home/internships) | Profile required | [Linkedin]() | 
+17. Costco Wholesale | [Jobs](https://www.costco.com/job-opportunities.html) | No Computer science jobs | [Linkedin]() | 
+18. Cigna | [Jobs](https://jobs.thecignagroup.com/us/en),[Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program) | You can create profile | [Linkedin]() | 
+19. AT&T | [Jobs](https://www.att.jobs/),[Internship](https://www.att.jobs/students) | No profile need | [Linkedin]() | 
+20. Cardinal Health | [Jobs](https://www.cardinalhealth.com/en/careers.html), [Internship](https://www.cardinalhealth.com/en/careers/students-grads/internships.html)| No profile need | [Linkedin]() | 
+21. Chevron | [Jobs](https://chevroncareers.jobs/), [Internship](https://careers.chevron.com/internship) | No profile need | [Linkedin]() | 
+22. Walgreens Boots Alliance | [Jobs](https://jobs.walgreens.com/en), [Internship](https://jobs.walgreens.com/en/students) | No profile need | [Linkedin]() | 
+23. Marathon Petroleum | [Jobs](https://www.marathonpetroleum.com/Jobs/), [Internship](https://www.marathonpetroleum.com/Jobs/University-Recruiting/) | No profile need | [Linkedin]() | 
+24. Elevance Health | [Jobs](https://careers.elevancehealth.com/), [Internship](https://careers.elevancehealth.com/student-programs/) | Profile need | [Linkedin]() | 
+25. Kroger| [Jobs](https://www.thekrogerco.com/careers/), [Internship](https://www.thekrogerco.com/careers/students/) | Profile need | [Linkedin]() | 
+26. Ford Motor | [Jobs](https://corporate.ford.com/careers/job-opportunities.html), [Internship](https://corporate.ford.com/careers/programs/students-and-recent-graduates/ford-summer-internship-program.html) | No Profile Need | [Linkedin]() | 
+27. Verizon Communications | [Jobs](https://www.verizon.com/about/careers), [Internship](https://mycareer.verizon.com/life-at-verizon/students-internships/) | No Profile Need | [Linkedin]() | 
+28. JPMorgan Chase	 | [Jobs](https://careers.jpmorgan.com/us/en/home), [Internship](https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__Americas__UnitedStatesofAmerica) | No profile Need | [Linkedin]() | 
+29. General Motors | [Jobs](https://search-careers.gm.com/en/), [Internship](https://search-careers.gm.com/en/early-careers/) | [Linkedin]() | 
 30. Centene | [Jobs](https://jobs.centene.com/us/en), [Internship](https://jobs.centene.com/us/en/students)
 31. Comcast | [Jobs](https://corporate.comcast.com/careers), [Internship](https://jobs.comcast.com/internships-and-co-ops) | Need Profile
 32. Phillips 66 | [Jobs](https://phillips66.jobs/),[Internship](https://p66oncampus.jobs/university-interns/)| No need profile
