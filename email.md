@@ -19,9 +19,9 @@ Subject : Software engineering and AI role
 
 I understand your time is valuable.  I will only write three bullet points
 
-* Doing masters in computer science(4/4) + graduate assistant
-* Led and Created an AI-enabled student progress tracking platform (https://fuseclassroom.com/), doubling the teacher-student ratio to 1:30. Currently operational in ∼60 Nepalese colleges with 20k active students.
 * Designed and developed a no-code data-centric AI platform(https://matrice.ai/) for building and deploying ML apps, reducing user deployment time by 40% and development costs by 80%.
+* Led and Created an AI-enabled student progress tracking platform (https://fuseclassroom.com/), doubling the teacher-student ratio to 1:30. Currently operational in ∼60 Nepalese colleges with 20k active students.
+* Doing masters in computer science(4/4) + graduate assistant
 
 Please find attached my resume, which provides additional details about my background and qualifications. Please let me know if there are any opportunities available in your team.
 

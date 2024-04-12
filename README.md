@@ -127,25 +127,25 @@ Note: Create your profile in these platform, they you recommend job according to
 25. [Kroger](https://www.thekrogerco.com/) | [Jobs](https://www.thekrogerco.com/careers/), [Internship](https://www.thekrogerco.com/careers/students/) | Profile need | [Linkedin](https://www.linkedin.com/company/kroger/#xd_co_f=ZWFjYjA1MmItZTVkMC00NzRmLWE5YTctNTkzMWVmMjY2NjM1~) | Retail
 26. [Ford Motor](https://corporate.ford.com/home.html) | [Jobs](https://corporate.ford.com/careers/job-opportunities.html), [Internship](https://corporate.ford.com/careers/programs/students-and-recent-graduates/ford-summer-internship-program.html) | [Linkedin](https://www.linkedin.com/company/ford-motor-company/) | Motor Vehicle Manufacturing
 27. [Verizon Communications](https://www.verizon.com/) | [Jobs](https://www.verizon.com/about/careers), [Internship](https://mycareer.verizon.com/life-at-verizon/students-internships/) | [Linkedin](https://www.linkedin.com/company/verizon/) | IT Services and IT Consulting
-28. JPMorgan Chase	 | [Jobs](https://careers.jpmorgan.com/us/en/home), [Internship](https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__Americas__UnitedStatesofAmerica) | No profile Need | [Linkedin]() | 
-29. General Motors | [Jobs](https://search-careers.gm.com/en/), [Internship](https://search-careers.gm.com/en/early-careers/) | [Linkedin]() | 
-30. Centene | [Jobs](https://jobs.centene.com/us/en), [Internship](https://jobs.centene.com/us/en/students)
-31. Comcast | [Jobs](https://corporate.comcast.com/careers), [Internship](https://jobs.comcast.com/internships-and-co-ops) | Need Profile
-32. Phillips 66 | [Jobs](https://phillips66.jobs/),[Internship](https://p66oncampus.jobs/university-interns/)| No need profile
-33. Valero Energy | [Jobs](https://www.valero.com/careers), [Internship](https://www.valero.com/careers/university-recruiting/intern-programs) | No profile need
-34. Dell Technologies|[JObs](https://jobs.dell.com/), [Internship](https://jobs.dell.com/internships) | 
-35. Target| [Jobs](https://corporate.target.com/careers), [Internship](https://jobs.target.com/category/internship-jobs/1118/57353/1?source=google_paidsearch&utm_source=google.com&utm_medium=paid_search&utm_campaign=HQ&utm_content=search_engine&utm_term=326746547&ss=paid&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0wKjfpCchlANPz6BBonM33D64W3MLs4D1nUXU5nmKVb3bzLxQHaQpgaAnUVEALw_wcB) | Need profile
-36. Fannie Mae | [Jobs](https://www.fanniemae.com/careers), [Internship](https://www.fanniemae.com/careers/campus)| No profile needed
-37. [UPS](https://www.jobs-ups.com/),[Internship](https://www.jobs-ups.com/student-programs)|No profile needed
-38. Lowe's| [Jobs](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB),[Internship](https://talent.lowes.com/us/en/students-grads)|No profile needed
-39. Bank of America| [JObs](https://careers.bankofamerica.com/en-us),[Internship](https://campus.bankofamerica.com/?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america_internship-_-Brand_Campus&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yuA4yYpTzH0M2o2MriFt5GmZBXTLqxZPbwxP9d5wYnF4Dp0y8dCKYaAogWEALw_wcB&gclsrc=aw.ds)| 
+28. [JPMorgan Chase](https://www.jpmorgan.com/global)	 | [Jobs](https://careers.jpmorgan.com/us/en/home), [Internship](https://careers.jpmorgan.com/global/en/students/programs?search=&tags=location__Americas__UnitedStatesofAmerica) | [Linkedin](https://www.linkedin.com/company/jpmorgan/) | Financial Services
+29. [General Motors](https://www.gm.com/) | [Jobs](https://search-careers.gm.com/en/), [Internship](https://search-careers.gm.com/en/early-careers/) | [Linkedin](https://www.linkedin.com/company/general-motors/) | Motor Vehicle Manufacturing
+30. [Centene](https://www.centene.com/) | [Jobs](https://jobs.centene.com/us/en), [Internship](https://jobs.centene.com/us/en/students) | [Linkedin](https://www.linkedin.com/company/centene-corporation/) | Hospitals and Health Care
+31. [Comcast](https://corporate.comcast.com/) | [Jobs](https://corporate.comcast.com/careers), [Internship](https://jobs.comcast.com/internships-and-co-ops) | [Linkedin](https://www.linkedin.com/company/comcast/) | Telecommunications
+32. [Phillips 66](https://www.phillips66.com/) | [Jobs](https://phillips66.jobs/),[Internship](https://p66oncampus.jobs/university-interns/) | [Linkedin](https://www.linkedin.com/company/phillips66co/) | Oil and Gas
+33. [Valero Energy](https://www.valero.com/careers) | [Jobs](https://www.valero.com/careers), [Internship](https://www.valero.com/careers/university-recruiting/intern-programs) | [Linkedin](https://www.linkedin.com/company/valero-energy/) | Oil and Gas
+34. [Dell Technologies](https://www.dell.com/en-us) |[Jobs](https://jobs.dell.com/), [Internship](https://jobs.dell.com/internships) | [Linkedin](https://www.linkedin.com/company/delltechnologies/) | IT Services and IT Consulting
+35. Target| [Jobs](https://corporate.target.com/careers), [Internship](https://jobs.target.com/category/internship-jobs/1118/57353/1?source=google_paidsearch&utm_source=google.com&utm_medium=paid_search&utm_campaign=HQ&utm_content=search_engine&utm_term=326746547&ss=paid&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0wKjfpCchlANPz6BBonM33D64W3MLs4D1nUXU5nmKVb3bzLxQHaQpgaAnUVEALw_wcB) | [Linkedin] |
+36. Fannie Mae | [Jobs](https://www.fanniemae.com/careers), [Internship](https://www.fanniemae.com/careers/campus) | [Linkedin] |
+37. [UPS](https://www.jobs-ups.com/),[Internship](https://www.jobs-ups.com/student-programs) | [Linkedin] |
+38. Lowe's| [Jobs](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB),[Internship](https://talent.lowes.com/us/en/students-grads) | [Linkedin] |
+39. Bank of America| [JObs](https://careers.bankofamerica.com/en-us),[Internship](https://campus.bankofamerica.com/?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america_internship-_-Brand_Campus&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yuA4yYpTzH0M2o2MriFt5GmZBXTLqxZPbwxP9d5wYnF4Dp0y8dCKYaAogWEALw_wcB&gclsrc=aw.ds) | [Linkedin] | 
 40. Johnson & Johnson | [Jobs](https://www.careers.jnj.com/), [Internship](https://www.careers.jnj.com/internship) | Profile needed
-41. Archer Daniels Midland | [Internship](https://www.adm.com/en-us/culture-and-careers/join-team-adm/),[](https://www.adm.com/en-us/news/adm-stories/adm-internship-program-offers-endless-opportunities/) | 
-42. FedEx| [Jobs](https://careers.fedex.com/fedex/),[Internhsip](https://careers.fedex.com/intern) | Need Profile
-43. Humana | [Jobs](https://careers.humana.com/), [Internship](https://careers.humana.com/career-areas/students-professional-programs/), [Linkedin](https://www.linkedin.com/company/humana/) | 
-44. Wells Fargo | [Jobs](https://www.wellsfargo.com/about/careers/),[Internship](https://www.wellsfargojobs.com/en/university-programs/),[Linkedin](https://www.linkedin.com/company/wellsfargo/)|
-45. State Farm Insurance | [Jobs](https://www.statefarm.com/careers),[Internship](https://jobs.statefarm.com/become-an-intern)
-46. [Pfizer](https://www.pfizer.com/about/careers)
+41. Archer Daniels Midland | [Internship](https://www.adm.com/en-us/culture-and-careers/join-team-adm/),[](https://www.adm.com/en-us/news/adm-stories/adm-internship-program-offers-endless-opportunities/) | [Linkedin] | 
+42. FedEx| [Jobs](https://careers.fedex.com/fedex/),[Internhsip](https://careers.fedex.com/intern) | [Linkedin] |
+43. Humana | [Jobs](https://careers.humana.com/), [Internship](https://careers.humana.com/career-areas/students-professional-programs/), [Linkedin](https://www.linkedin.com/company/humana/) | [Linkedin] |
+44. Wells Fargo | [Jobs](https://www.wellsfargo.com/about/careers/),[Internship](https://www.wellsfargojobs.com/en/university-programs/),[Linkedin](https://www.linkedin.com/company/wellsfargo/) | [Linkedin] |
+45. State Farm Insurance | [Jobs](https://www.statefarm.com/careers),[Internship](https://jobs.statefarm.com/become-an-intern) | [Linkedin] |
+46. [Pfizer](https://www.pfizer.com/about/careers) 
 47. [Citigroup](https://jobs.citi.com/)
 48. [PepsiCo](https://www.pepsicojobs.com/main/)
 49. [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
