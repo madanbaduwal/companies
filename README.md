@@ -106,7 +106,7 @@ Note: Create your profile in these platform, they you recommend job according to
 4. [Netflix](https://www.netflix.com/) | [Jobs](https://jobs.netflix.com/), [Internship](https://jobs.netflix.com/intern-program) | [Linkedin](https://www.linkedin.com/company/netflix/) | Entertainment Providers
 5. [Google](https://www.google.com/) | [Jobs](https://careers.google.com/), [Internship](https://buildyourfuture.withgoogle.com/internships) | [Profile](https://www.google.com/about/careers/applications/students/) | [Linkedin](https://www.linkedin.com/company/google/) | Software Development
 6. [Tesla](https://www.tesla.com/) | [Jobs](https://www.tesla.com/careers/search/?site=US) , [Internship](https://www.tesla.com/careers/internships) | [Linkedin](https://www.linkedin.com/company/tesla-motors/) | Motor Vehicle Manufacturing
-7. [SpaceX](https://www.spacex.com/) | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | No need profile | [Linkedin](https://www.linkedin.com/company/spacex/) | Aviation and Aerospace Component Manufacturing 
+7. [SpaceX](https://www.spacex.com/) | [Jobs](https://www.spacex.com/careers/), [Internship](https://www.spacex.com/internships/) | [Linkedin](https://www.linkedin.com/company/spacex/) | Aviation and Aerospace Component Manufacturing 
 8. [Microsoft](https://www.microsoft.com/en-us/) | [Jobs](https://careers.microsoft.com/us/en/), [Internship](https://careers.microsoft.com/students/us/en/job/1533653/Research-Intern-Machine-Learning) | [Linkedin](https://www.linkedin.com/company/microsoft/) | Software Development
 9. [Adobe](https://www.adobe.com/) | [Jobs](https://www.adobe.com/careers.html), [Internship](https://www.adobe.com/careers/university/internships.html) | [Linkedin](https://www.linkedin.com/company/adobe/) | Software Development
 10. [Airbnb](https://www.airbnb.com/) | [Jobs](https://careers.airbnb.com/), [Internship](https://careers.airbnb.com/university/) | [Linkedin](https://www.linkedin.com/company/airbnb/) | Software Development
@@ -134,116 +134,116 @@ Note: Create your profile in these platform, they you recommend job according to
 32. [Phillips 66](https://www.phillips66.com/) | [Jobs](https://phillips66.jobs/),[Internship](https://p66oncampus.jobs/university-interns/) | [Linkedin](https://www.linkedin.com/company/phillips66co/) | Oil and Gas
 33. [Valero Energy](https://www.valero.com/careers) | [Jobs](https://www.valero.com/careers), [Internship](https://www.valero.com/careers/university-recruiting/intern-programs) | [Linkedin](https://www.linkedin.com/company/valero-energy/) | Oil and Gas
 34. [Dell Technologies](https://www.dell.com/en-us) |[Jobs](https://jobs.dell.com/), [Internship](https://jobs.dell.com/internships) | [Linkedin](https://www.linkedin.com/company/delltechnologies/) | IT Services and IT Consulting
-35. Target| [Jobs](https://corporate.target.com/careers), [Internship](https://jobs.target.com/category/internship-jobs/1118/57353/1?source=google_paidsearch&utm_source=google.com&utm_medium=paid_search&utm_campaign=HQ&utm_content=search_engine&utm_term=326746547&ss=paid&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0wKjfpCchlANPz6BBonM33D64W3MLs4D1nUXU5nmKVb3bzLxQHaQpgaAnUVEALw_wcB) | [Linkedin] |
-36. Fannie Mae | [Jobs](https://www.fanniemae.com/careers), [Internship](https://www.fanniemae.com/careers/campus) | [Linkedin] |
-37. [UPS](https://www.jobs-ups.com/),[Internship](https://www.jobs-ups.com/student-programs) | [Linkedin] |
-38. Lowe's| [Jobs](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB),[Internship](https://talent.lowes.com/us/en/students-grads) | [Linkedin] |
-39. Bank of America| [JObs](https://careers.bankofamerica.com/en-us),[Internship](https://campus.bankofamerica.com/?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america_internship-_-Brand_Campus&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yuA4yYpTzH0M2o2MriFt5GmZBXTLqxZPbwxP9d5wYnF4Dp0y8dCKYaAogWEALw_wcB&gclsrc=aw.ds) | [Linkedin] | 
-40. Johnson & Johnson | [Jobs](https://www.careers.jnj.com/), [Internship](https://www.careers.jnj.com/internship) | Profile needed
-41. Archer Daniels Midland | [Internship](https://www.adm.com/en-us/culture-and-careers/join-team-adm/),[](https://www.adm.com/en-us/news/adm-stories/adm-internship-program-offers-endless-opportunities/) | [Linkedin] | 
-42. FedEx| [Jobs](https://careers.fedex.com/fedex/),[Internhsip](https://careers.fedex.com/intern) | [Linkedin] |
-43. Humana | [Jobs](https://careers.humana.com/), [Internship](https://careers.humana.com/career-areas/students-professional-programs/), [Linkedin](https://www.linkedin.com/company/humana/) | [Linkedin] |
-44. Wells Fargo | [Jobs](https://www.wellsfargo.com/about/careers/),[Internship](https://www.wellsfargojobs.com/en/university-programs/),[Linkedin](https://www.linkedin.com/company/wellsfargo/) | [Linkedin] |
-45. State Farm Insurance | [Jobs](https://www.statefarm.com/careers),[Internship](https://jobs.statefarm.com/become-an-intern) | [Linkedin] |
-46. [Pfizer](https://www.pfizer.com/about/careers) 
-47. [Citigroup](https://jobs.citi.com/)
-48. [PepsiCo](https://www.pepsicojobs.com/main/)
-49. [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
-50. [Procter & Gamble](https://www.pgcareers.com/)
-51. [General Electric / GE](https://www.ge.com/)
-52. [IBM](https://www.ibm.com/careers/us-en/search/)
-53. [MetLife](https://jobs.metlife.com/go/Corporate-Jobs/2763000/)
-54. [Prudential Financial](https://jobs.prudential.com/)
-55. [Albertsons](https://www.albertsons.com/eat-life-up/careers.html)
-56. [Walt Disney](https://jobs.disneycareers.com/)
-57. [Energy Transfer](https://energytransfer.com/careers/)
-58. [Lockheed Martin](https://www.lockheedmartin.com/)
-59. [Freddie Mac](https://www.freddiemac.com/)
-60. [Goldman Sachs Group](https://www.goldmansachs.com/)
-61. [Raytheon Technologies](https://www.rtx.com/)
-62. [HP](https://jobs.hp.com/search-results/)
-63. [Boeing](https://www.boeing.com/)
-64. [Morgan Stanley](https://www.morganstanley.com/)
-65. [HCAHealthcare](https://hcahealthcare.com/)
-66. [AbbVie](https://careers.abbvie.com/en)
-67. [Dow](https://corporate.dow.com/en-us/careers.html)
-68. [Allstate](https://careers.allstate.com/)
-69. [AIG](https://www.aig.com/home)
-70. [Best Buy](https://www.bestbuy.com/)
-71. [Charter Communications](https://corporate.charter.com/)
-72. [Sysco](https://www.sysco.com/)
-73. [Merck](https://jobs.merck.com/us/en)
-74. [Newyorklife](https://www.newyorklife.com/careers)
-75. [Caterpillar](https://www.caterpillar.com/)
-76. [Cisco Systems](https://www.cisco.com/c/en/us/about/careers.html)
-77. [TJX](https://www.tjx.com/)
-78. [Publix Super Markets](https://corporate.publix.com/careers)
-79. [ConocoPhillips](https://www.conocophillips.com/)
-80. [Liberty Mutual Insurance Group](https://www.libertymutualgroup.com/about-lm/corporate-information/overview)
-81. [Progressive](https://www.progressive.com/)
-82. [Nationwide](https://www.nationwide.com/personal/about-us/careers/explore/)
-83. [Tyson Foods](https://www.tysonfoods.com/)
-84. [Bristol-Myers Squibb](https://www.bms.com/)
-85. [Nike](https://jobs.nike.com/)
-86. [Deere](https://careers.deere.com/)
-87. [American Express](https://www.americanexpress.com/en-us/careers/)
-88. [Abbott Laboratories](https://www.abbott.com/)
-89. [StoneX Group](https://www.stonex.com/careers/)
-90. [Plains GP Holdings](https://www.plains.com/)
-91. [Enterprise Products](https://www.enterpriseproducts.com/)
-92. [TIAA](https://careers.tiaa.org/global/en/)
-93. [Oracle](https://careers.oracle.com/jobs#en/sites/jobsearch)
-94. [Thermo Fisher Scientific](https://jobs.thermofisher.com/global/en)
-95. [Coca-Cola](https://www.coca-colacompany.com/)
-96. [General Dynamics](https://www.gd.com/)
-97. [CHS](https://www.chsinc.com/)
-98. [USAA](https://www.usaajobs.com/)
-99. [Northwestern Mutual](https://www.northwesternmutual.com/careers/)
-100. [Nucor](https://nucor.com/)
-101. [Exelon](https://www.exeloncorp.com/)
-102. [Massachusetts Mutual Life](https://careers.massmutual.com/)
-103. [Northrop Grumman](https://www.northropgrumman.com/)
-104. [3M](https://www.3m.com/3M/en_US/careers-us/)
-105. [Travelers](https://careers.travelers.com/)
-106. [Arrow Electronics](https://careers.arrow.com/us/en)
-107. [Honeywell International](https://www.honeywell.com/us/en)
-108. [Dollar General](https://www.dollargeneral.com/)
-109. [Qualcomm](https://www.qualcomm.com/company/careers)
-110. [Capital One Financial](https://www.capitalonecareers.com/)
-111. [TD Synnex](https://www.tdsynnex.com/us/en/about-us/careers.html)
-112. [Philip Morris International](https://www.pmi.com/)
-113. [World Fuel Services](https://www.wfscorp.com/)
-114. [Performance Food Group](https://www.pfgc.com/)
-115. [Delta Air Lines](https://www.delta.com/us/en/careers/overview)
-116. [American Airlines Group](https://jobs.aa.com/)
-117. [Paramount Global](https://www.paramount.com/)
-118. [US Foods Holding](https://www.usfoods.com/careers.html)
-119. [Danaher](https://www.danaher.com/)
-120. [Jabil](https://www.jabil.com/)
-121. [Starbucks](https://www.starbucks.com/careers/)
-122. [Mondelez International](https://www.mondelezinternational.com/)
-123. [EliLilly](https://www.lilly.com/)
-124. [Hewlett Packard Enterpri](https://careers.hpe.com/us/en/)
-125. [D.R. Horton](https://www.drhorton.com/careers)
-126. [Molina Healthcare](https://careers.molinahealthcare.com/)
-127. [CBRE Group](https://www.cbre.com/)
-128. [Micron Technology](https://www.micron.com/careers)
-129. [Broadcom](https://www.broadcom.com/company/careers)
-130. [Gilead Sciences](https://www.gilead.com/)
-131. [PBF Energy](https://www.pbfenergy.com/)
-132. [Lennar](https://www.lennar.com/)
-133. [United Natural Foods](https://www.unfi.com/)
-134. [NRG Energy](https://www.nrg.com/about/careers.html)
-135. [Nvidia](https://www.nvidia.com/en-us/)
-136. [Occidental Petroleum](https://www.oxy.com/)
-137. [Salesforce](https://www.salesforce.com/)
-138. [Dollar Tree](https://www.dollartree.com/)
-139. [KKR](https://www.kkr.com/)
-140. [Kraft Heinz](https://www.kraftheinzcompany.com/)
-141. [Amgen](https://www.amgen.com/)
-142. [AutoNation](https://jobs.autonation.com/)
-143. [Penske Automotive Group](https://www.penskeautomotive.com/home/default.aspx)
-144. [PayPal Holdings](https://careers.pypl.com/home/)
+35. [Target](https://corporate.target.com/)| [Jobs](https://corporate.target.com/careers), [Internship](https://jobs.target.com/category/internship-jobs/1118/57353/1?source=google_paidsearch&utm_source=google.com&utm_medium=paid_search&utm_campaign=HQ&utm_content=search_engine&utm_term=326746547&ss=paid&gad=1&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0wKjfpCchlANPz6BBonM33D64W3MLs4D1nUXU5nmKVb3bzLxQHaQpgaAnUVEALw_wcB) | [Linkedin](https://www.linkedin.com/company/target/) | Retail
+36. [Fannie Mae](https://www.fanniemae.com/) | [Jobs](https://www.fanniemae.com/careers), [Internship](https://www.fanniemae.com/careers/campus) | [Linkedin](https://www.linkedin.com/company/fanniemae/) | Financial Services
+37. [UPS](https://www.ups.com/us/en/Home.page) | [Jobs](https://www.jobs-ups.com/),[Internship](https://www.jobs-ups.com/student-programs) | [Linkedin](https://www.linkedin.com/company/ups/) | Transportation, Logistics, Supply Chain and Storage
+38. [Lowe's](https://talent.lowes.com/us/en) | [Jobs](https://talent.lowes.com/us/en?utm_source=617Google&utm_medium=cpc&utm_campaign=617Google_rtl_pk_t3_west&gclid=Cj0KCQjwlPWgBhDHARIsAH2xdNdE1qlpKH8VBGtOM6UVCRl2DpsGTpdJ2K3n5O1t4oDw_aeKwsJOM54aAg4rEALw_wcB),[Internship](https://talent.lowes.com/us/en/students-grads) | [Linkedin](https://www.linkedin.com/company/lowe's-home-improvement/jobs/) | Retail
+39. [Bank of America](https://www.bankofamerica.com/) | [JObs](https://careers.bankofamerica.com/en-us),[Internship](https://campus.bankofamerica.com/?cm_mmc=ENT-Consumer-_-Google-PS-_-bank_of_america_internship-_-Brand_Campus&gclid=Cj0KCQjwj_ajBhCqARIsAA37s0yuA4yYpTzH0M2o2MriFt5GmZBXTLqxZPbwxP9d5wYnF4Dp0y8dCKYaAogWEALw_wcB&gclsrc=aw.ds) | [Linkedin](https://www.linkedin.com/company/bank-of-america/) | Banking
+40. [Johnson & Johnson](https://www.jnj.com/) | [Jobs](https://www.careers.jnj.com/), [Internship](https://www.careers.jnj.com/internship) | [Linkedin](https://www.linkedin.com/company/johnson-&-johnson/) | Hospitals and Health Care
+41. [Archer Daniels Midland](https://www.adm.com/en-us/) | [Jobs](https://www.adm.com/en-us/culture-and-careers/join-team-adm/),[Internship](https://www.adm.com/en-us/news/adm-stories/adm-internship-program-offers-endless-opportunities/) | [Linkedin](https://www.linkedin.com/company/adm/) | Food and Beverage Manufacturing
+42. [FedEx](https://www.fedex.com/en-us/home.html)| [Jobs](https://careers.fedex.com/fedex/),[Internhsip](https://careers.fedex.com/intern) | [Linkedin](https://www.linkedin.com/company/fedex/) | Freight and Package Transportation
+43. [Humana](https://humana.com/) | [Jobs](https://careers.humana.com/), [Internship](https://careers.humana.com/career-areas/students-professional-programs/), [Linkedin](https://www.linkedin.com/company/humana/) | [Linkedin] | Insurance
+44. [Wells Fargo](https://www.wellsfargo.com/) | [Jobs](https://www.wellsfargo.com/about/careers/),[Internship](https://www.wellsfargojobs.com/en/university-programs/),[Linkedin](https://www.linkedin.com/company/wellsfargo/) | [Linkedin](https://www.linkedin.com/company/wellsfargo/) | Financial Services
+45. [State Farm Insurance](https://www.linkedin.com/company/state_farm/) | [Jobs](https://www.statefarm.com/careers),[Internship](https://jobs.statefarm.com/become-an-intern) | [Linkedin](https://www.linkedin.com/company/state_farm/) | Insurance
+46. [Pfizer](https://www.pfizer.com/) | [Jobs](https://www.pfizer.com/about/careers) | [Linkedin](https://www.linkedin.com/company/pfizer/) | Pharmaceutical Manufacturing
+47. [Citigroup](https://www.citigroup.com/global) | [Jobs](https://jobs.citi.com/) | [Linkedin](https://www.linkedin.com/company/citi/life) | Financial Services
+48. [PepsiCo](https://www.pepsico.com/) | [Jobs](https://www.pepsicojobs.com/main/) | [Linkedin](https://www.linkedin.com/company/pepsico/) | Food and Beverage Services
+49. [Intel](https://www.intel.com/) | [Jobs](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html) | [Linkedin](https://www.linkedin.com/company/intel-corporation/) | Semiconductor Manufacturing
+50. [Procter & Gamble](https://us.pg.com/) | [Jobs](https://www.pgcareers.com/) | [Linkedin](https://www.linkedin.com/company/procter-and-gamble/) | Manufacturing
+51. [General Electric / GE](https://www.ge.com/) | [Jobs](https://www.ge.com/) | [Linkedin](https://www.linkedin.com/company/ge/) | Hospitals and Health Care
+52. [IBM](https://www.ibm.com/us-en) | [Jobs](https://www.ibm.com/careers/us-en/search/) | [Linkedin](https://www.linkedin.com/company/ibm/) | IT Services and IT Consulting
+53. [MetLife](https://www.metlife.com/) | [Jobs](https://jobs.metlife.com/go/Corporate-Jobs/2763000/) | [Linkedin](https://www.linkedin.com/company/metlife/) | Insurance
+54. [Prudential Financial](https://www.prudential.com/) | [Jobs](https://jobs.prudential.com/) | [Linkedin](https://www.linkedin.com/company/prudential-financial/) | Financial Services
+55. [Albertsons](https://www.albertsonscompanies.com/home/default.aspx) | [Jobs](https://www.albertsons.com/eat-life-up/careers.html) | [Linkedin](https://www.linkedin.com/company/albertsons/) | Retail
+56. [Walt Disney](https://jobs.disneycareers.com/) | [Jobs](https://jobs.disneycareers.com/) | [Linkedin](https://www.linkedin.com/company/the-walt-disney-company/) | Entertainment Providers
+57. [Energy Transfer](https://www.energytransfer.com/) | [Jobs](https://energytransfer.com/careers/) | [Linkedin](https://www.linkedin.com/company/energy-transfer/) | Oil and Gas
+58. [Lockheed Martin](https://www.lockheedmartin.com/) | [Jobs](https://www.lockheedmartin.com/) | [Linkedin](https://www.linkedin.com/company/lockheed-martin/) | Defense and Space Manufacturing
+59. [Freddie Mac](https://www.freddiemac.com/) | [Jobs](https://www.freddiemac.com/) | [Linkedin](https://www.linkedin.com/company/freddie-mac/) | Financial Services
+60. [Goldman Sachs Group](https://www.goldmansachs.com/) | [Jobs](https://www.goldmansachs.com/) | [Linkedin](https://www.linkedin.com/company/goldman-sachs/) | Financial Services 
+61. [Raytheon Technologies](https://www.rtx.com/) | [Jobs](https://www.rtx.com/) | [Linkedin](https://www.linkedin.com/company/rtx/) | Aviation and Aerospace Component Manufacturing
+62. [HP]() | [Jobs](https://jobs.hp.com/search-results/) | [Linkedin] | 
+63. [Boeing]() | [Jobs](https://www.boeing.com/) | [Linkedin] | 
+64. [Morgan Stanley]() | [Jobs](https://www.morganstanley.com/) | [Linkedin] | 
+65. [HCAHealthcare]() | [Jobs](https://hcahealthcare.com/) | [Linkedin] | 
+66. [AbbVie]() | [Jobs](https://careers.abbvie.com/en) | [Linkedin] | 
+67. [Dow]() | [Jobs](https://corporate.dow.com/en-us/careers.html) | [Linkedin] | 
+68. [Allstate]() | [Jobs](https://careers.allstate.com/) | [Linkedin] | 
+69. [AIG]() | [Jobs](https://www.aig.com/home) | [Linkedin] | 
+70. [Best Buy]() | [Jobs](https://www.bestbuy.com/) | [Linkedin] | 
+71. [Charter Communications]() | [Jobs](https://corporate.charter.com/) | [Linkedin] | 
+72. [Sysco]() | [Jobs](https://www.sysco.com/) | [Linkedin] | 
+73. [Merck]() | [Jobs](https://jobs.merck.com/us/en) | [Linkedin] | 
+74. [Newyorklife]() | [Jobs](https://www.newyorklife.com/careers) | [Linkedin] | 
+75. [Caterpillar]() | [Jobs](https://www.caterpillar.com/) | [Linkedin] | 
+76. [Cisco Systems]() | [Jobs](https://www.cisco.com/c/en/us/about/careers.html) | [Linkedin] | 
+77. [TJX]() | [Jobs](https://www.tjx.com/) | [Linkedin] | 
+78. [Publix Super Markets]() | [Jobs](https://corporate.publix.com/careers) | [Linkedin] | 
+79. [ConocoPhillips]() | [Jobs](https://www.conocophillips.com/) | [Linkedin] | 
+80. [Liberty Mutual Insurance Group]() | [Jobs](https://www.libertymutualgroup.com/about-lm/corporate-information/overview) | [Linkedin] | 
+81. [Progressive]() | [Jobs](https://www.progressive.com/) | [Linkedin] | 
+82. [Nationwide]() | [Jobs](https://www.nationwide.com/personal/about-us/careers/explore/) | [Linkedin] | 
+83. [Tyson Foods]() | [Jobs](https://www.tysonfoods.com/) | [Linkedin] | 
+84. [Bristol-Myers Squibb]() | [Jobs](https://www.bms.com/) | [Linkedin] | 
+85. [Nike]() | [Jobs](https://jobs.nike.com/) | [Linkedin] | 
+86. [Deere]() | [Jobs](https://careers.deere.com/) | [Linkedin] | 
+87. [American Express]() | [Jobs](https://www.americanexpress.com/en-us/careers/) | [Linkedin] | 
+88. [Abbott Laboratories]() | [Jobs](https://www.abbott.com/) | [Linkedin] | 
+89. [StoneX Group]() | [Jobs](https://www.stonex.com/careers/) | [Linkedin] | 
+90. [Plains GP Holdings]() | [Jobs](https://www.plains.com/) | [Linkedin] | 
+91. [Enterprise Products]() | [Jobs](https://www.enterpriseproducts.com/) | [Linkedin] | 
+92. [TIAA]() | [Jobs](https://careers.tiaa.org/global/en/) | [Linkedin] | 
+93. [Oracle]() | [Jobs](https://careers.oracle.com/jobs#en/sites/jobsearch) | [Linkedin] | 
+94. [Thermo Fisher Scientific]() | [Jobs](https://jobs.thermofisher.com/global/en) | [Linkedin] | 
+95. [Coca-Cola]() | [Jobs](https://www.coca-colacompany.com/) | [Linkedin] | 
+96. [General Dynamics]() | [Jobs](https://www.gd.com/) | [Linkedin] | 
+97. [CHS]() | [Jobs](https://www.chsinc.com/) | [Linkedin] | 
+98. [USAA]() | [Jobs](https://www.usaajobs.com/) | [Linkedin] | 
+99. [Northwestern Mutual]() | [Jobs](https://www.northwesternmutual.com/careers/) | [Linkedin] | 
+100. [Nucor]() | [Jobs](https://nucor.com/) | [Linkedin] | 
+101. [Exelon]() | [Jobs](https://www.exeloncorp.com/)
+102. [Massachusetts Mutual Life]() | [Jobs](https://careers.massmutual.com/) | [Linkedin] | 
+103. [Northrop Grumman]() | [Jobs](https://www.northropgrumman.com/) | [Linkedin] | 
+104. [3M]() | [Jobs](https://www.3m.com/3M/en_US/careers-us/) | [Linkedin] | 
+105. [Travelers]() | [Jobs](https://careers.travelers.com/) | [Linkedin] | 
+106. [Arrow Electronics]() | [Jobs](https://careers.arrow.com/us/en) | [Linkedin] | 
+107. [Honeywell International]() | [Jobs](https://www.honeywell.com/us/en) | [Linkedin] | 
+108. [Dollar General]() | [Jobs](https://www.dollargeneral.com/) | [Linkedin] | 
+109. [Qualcomm]() | [Jobs](https://www.qualcomm.com/company/careers) | [Linkedin] | 
+110. [Capital One Financial]() | [Jobs](https://www.capitalonecareers.com/) | [Linkedin] | 
+111. [TD Synnex]() | [Jobs](https://www.tdsynnex.com/us/en/about-us/careers.html) | [Linkedin] | 
+112. [Philip Morris International]() | [Jobs](https://www.pmi.com/) | [Linkedin] | 
+113. [World Fuel Services]() | [Jobs](https://www.wfscorp.com/) | [Linkedin] | 
+114. [Performance Food Group]() | [Jobs](https://www.pfgc.com/) | [Linkedin] | 
+115. [Delta Air Lines]() | [Jobs](https://www.delta.com/us/en/careers/overview) | [Linkedin] | 
+116. [American Airlines Group]() | [Jobs](https://jobs.aa.com/) | [Linkedin] | 
+117. [Paramount Global]() | [Jobs](https://www.paramount.com/) | [Linkedin] | 
+118. [US Foods Holding]() | [Jobs](https://www.usfoods.com/careers.html) | [Linkedin] | 
+119. [Danaher]() | [Jobs](https://www.danaher.com/) | [Linkedin] | 
+120. [Jabil]() | [Jobs](https://www.jabil.com/) | [Linkedin] | 
+121. [Starbucks]() | [Jobs](https://www.starbucks.com/careers/) | [Linkedin] | 
+122. [Mondelez International]() | [Jobs](https://www.mondelezinternational.com/) | [Linkedin] | 
+123. [EliLilly]() | [Jobs](https://www.lilly.com/) | [Linkedin] | 
+124. [Hewlett Packard Enterpri]() | [Jobs](https://careers.hpe.com/us/en/) | [Linkedin] | 
+125. [D.R. Horton]() | [Jobs](https://www.drhorton.com/careers) | [Linkedin] | 
+126. [Molina Healthcare]() | [Jobs](https://careers.molinahealthcare.com/) | [Linkedin] | 
+127. [CBRE Group]() | [Jobs](https://www.cbre.com/) | [Linkedin] | 
+128. [Micron Technology]() | [Jobs](https://www.micron.com/careers) | [Linkedin] | 
+129. [Broadcom]() | [Jobs](https://www.broadcom.com/company/careers) | [Linkedin] | 
+130. [Gilead Sciences]() | [Jobs](https://www.gilead.com/) | [Linkedin] | 
+131. [PBF Energy]() | [Jobs](https://www.pbfenergy.com/) | [Linkedin] | 
+132. [Lennar]() | [Jobs](https://www.lennar.com/) | [Linkedin] | 
+133. [United Natural Foods]() | [Jobs](https://www.unfi.com/)
+134. [NRG Energy]() | [Jobs](https://www.nrg.com/about/careers.html) | [Linkedin] | 
+135. [Nvidia]() | [Jobs](https://www.nvidia.com/en-us/) | [Linkedin] | 
+136. [Occidental Petroleum]() | [Jobs](https://www.oxy.com/) | [Linkedin] | 
+137. [Salesforce]() | [Jobs](https://www.salesforce.com/) | [Linkedin] | 
+138. [Dollar Tree]() | [Jobs](https://www.dollartree.com/) | [Linkedin] | 
+139. [KKR]() | [Jobs](https://www.kkr.com/) | [Linkedin] | 
+140. [Kraft Heinz]() | [Jobs](https://www.kraftheinzcompany.com/) | [Linkedin] | 
+141. [Amgen]() | [Jobs](https://www.amgen.com/) | [Linkedin] | 
+142. [AutoNation]() | [Jobs](https://jobs.autonation.com/) | [Linkedin] | 
+143. [Penske Automotive Group]() | [Jobs](https://www.penskeautomotive.com/home/default.aspx) | [Linkedin] | 
+144. [PayPal Holdings]() | [Jobs](https://careers.pypl.com/home/) | [Linkedin] | 
 145. [Macy's](https://www.macysinc.com/careers) | [Jobs](https://www.macysinc.com/work-with-us/careers/default.aspx) | [Linkedin](https://www.linkedin.com/company/macy/life/8e0217c8-1786-4f24-9de7-f688c91e8105/)
 146. [Duke Energy](https://www.duke-energy.com/our-company/careers) | [Jobs](https://www.duke-energy.com/our-company/careers)|[Linkedin](https://www.linkedin.com/company/duke-energy-corporation/)
 147. [United Airlines Holdings](https://www.united.com/en/us/) | [Jobs](https://careers.united.com/us/en) | [Linkedin](https://www.linkedin.com/company/united-airlines/jobs/)
