@@ -195,101 +195,101 @@ Note: Create your profile in these platform, they you recommend job according to
 93. [Oracle](https://www.oracle.com/) | [Jobs](https://careers.oracle.com/jobs#en/sites/jobsearch) | [Linkedin](https://www.linkedin.com/company/oracle/) | IT Services and IT Consulting
 94. [Thermo Fisher Scientific](https://www.thermofisher.com/us/en/home.html) | [Jobs](https://jobs.thermofisher.com/global/en) | [Linkedin](https://www.linkedin.com/company/thermo-fisher-scientific/) | Biotechnology Research
 95. [Coca-Cola](https://www.coca-colacompany.com/) | [Jobs](https://www.coca-colacompany.com/careers) | [Linkedin](https://www.linkedin.com/company/the-coca-cola-company/) | Food and Beverage Services
-96. [General Dynamics]() | [Jobs](https://www.gd.com/) | [Linkedin]() | 
-97. [CHS]() | [Jobs](https://www.chsinc.com/) | [Linkedin]() | 
-98. [USAA]() | [Jobs](https://www.usaajobs.com/) | [Linkedin]() | 
-99. [Northwestern Mutual]() | [Jobs](https://www.northwesternmutual.com/careers/) | [Linkedin]() | 
-100. [Nucor]() | [Jobs](https://nucor.com/) | [Linkedin]() | 
-101. [Exelon]() | [Jobs](https://www.exeloncorp.com/)
-102. [Massachusetts Mutual Life]() | [Jobs](https://careers.massmutual.com/) | [Linkedin]() | 
-103. [Northrop Grumman]() | [Jobs](https://www.northropgrumman.com/) | [Linkedin]() | 
-104. [3M]() | [Jobs](https://www.3m.com/3M/en_US/careers-us/) | [Linkedin]() | 
-105. [Travelers]() | [Jobs](https://careers.travelers.com/) | [Linkedin]() | 
-106. [Arrow Electronics]() | [Jobs](https://careers.arrow.com/us/en) | [Linkedin]() | 
-107. [Honeywell International]() | [Jobs](https://www.honeywell.com/us/en) | [Linkedin]() | 
-108. [Dollar General]() | [Jobs](https://www.dollargeneral.com/) | [Linkedin]() | 
-109. [Qualcomm]() | [Jobs](https://www.qualcomm.com/company/careers) | [Linkedin]() | 
-110. [Capital One Financial]() | [Jobs](https://www.capitalonecareers.com/) | [Linkedin]() | 
-111. [TD Synnex]() | [Jobs](https://www.tdsynnex.com/us/en/about-us/careers.html) | [Linkedin]() | 
-112. [Philip Morris International]() | [Jobs](https://www.pmi.com/) | [Linkedin]() | 
-113. [World Fuel Services]() | [Jobs](https://www.wfscorp.com/) | [Linkedin]() | 
-114. [Performance Food Group]() | [Jobs](https://www.pfgc.com/) | [Linkedin]() | 
-115. [Delta Air Lines]() | [Jobs](https://www.delta.com/us/en/careers/overview) | [Linkedin]() | 
-116. [American Airlines Group]() | [Jobs](https://jobs.aa.com/) | [Linkedin]() | 
-117. [Paramount Global]() | [Jobs](https://www.paramount.com/) | [Linkedin]() | 
-118. [US Foods Holding]() | [Jobs](https://www.usfoods.com/careers.html) | [Linkedin]() | 
-119. [Danaher]() | [Jobs](https://www.danaher.com/) | [Linkedin]() | 
-120. [Jabil]() | [Jobs](https://www.jabil.com/) | [Linkedin]() | 
-121. [Starbucks]() | [Jobs](https://www.starbucks.com/careers/) | [Linkedin]() | 
-122. [Mondelez International]() | [Jobs](https://www.mondelezinternational.com/) | [Linkedin]() | 
-123. [EliLilly]() | [Jobs](https://www.lilly.com/) | [Linkedin]() | 
-124. [Hewlett Packard Enterpri]() | [Jobs](https://careers.hpe.com/us/en/) | [Linkedin]() | 
-125. [D.R. Horton]() | [Jobs](https://www.drhorton.com/careers) | [Linkedin]() | 
-126. [Molina Healthcare]() | [Jobs](https://careers.molinahealthcare.com/) | [Linkedin]() | 
-127. [CBRE Group]() | [Jobs](https://www.cbre.com/) | [Linkedin]() | 
-128. [Micron Technology]() | [Jobs](https://www.micron.com/careers) | [Linkedin]() | 
-129. [Broadcom]() | [Jobs](https://www.broadcom.com/company/careers) | [Linkedin]() | 
-130. [Gilead Sciences]() | [Jobs](https://www.gilead.com/) | [Linkedin]() | 
-131. [PBF Energy]() | [Jobs](https://www.pbfenergy.com/) | [Linkedin]() | 
-132. [Lennar]() | [Jobs](https://www.lennar.com/) | [Linkedin]() | 
-133. [United Natural Foods]() | [Jobs](https://www.unfi.com/) | [Linkedin]() | 
-134. [NRG Energy]() | [Jobs](https://www.nrg.com/about/careers.html) | [Linkedin]() | 
-135. [Nvidia]() | [Jobs](https://www.nvidia.com/en-us/) | [Linkedin]() | 
-136. [Occidental Petroleum]() | [Jobs](https://www.oxy.com/) | [Linkedin]() | 
-137. [Salesforce]() | [Jobs](https://www.salesforce.com/) | [Linkedin]() | 
-138. [Dollar Tree]() | [Jobs](https://www.dollartree.com/) | [Linkedin]() | 
-139. [KKR]() | [Jobs](https://www.kkr.com/) | [Linkedin]() | 
-140. [Kraft Heinz]() | [Jobs](https://www.kraftheinzcompany.com/) | [Linkedin]() | 
-141. [Amgen]() | [Jobs](https://www.amgen.com/) | [Linkedin]() | 
-142. [AutoNation]() | [Jobs](https://jobs.autonation.com/) | [Linkedin]() | 
-143. [Penske Automotive Group]() | [Jobs](https://www.penskeautomotive.com/home/default.aspx) | [Linkedin]() | 
-144. [PayPal Holdings]() | [Jobs](https://careers.pypl.com/home/) | [Linkedin]() | 
-145. [Macy's](https://www.macysinc.com/careers) | [Jobs](https://www.macysinc.com/work-with-us/careers/default.aspx) | [Linkedin](https://www.linkedin.com/company/macy/life/8e0217c8-1786-4f24-9de7-f688c91e8105/)
-146. [Duke Energy](https://www.duke-energy.com/our-company/careers) | [Jobs](https://www.duke-energy.com/our-company/careers)|[Linkedin](https://www.linkedin.com/company/duke-energy-corporation/)
-147. [United Airlines Holdings](https://www.united.com/en/us/) | [Jobs](https://careers.united.com/us/en) | [Linkedin](https://www.linkedin.com/company/united-airlines/jobs/)
-148. [Visa](https://www.visa.co.in/) | [Jobs](https://www.visa.co.in/careers.html) | [Linkedin](https://www.linkedin.com/company/visa/)
-149. [Rite Aid](https://www.riteaid.com/) | [Jobs](https://careers.riteaid.com/) | [Linkedin](https://www.linkedin.com/company/riteaid/)
-150. [Cummins](https://www.cummins.com/) | [Jobs](https://www.cummins.com/careers) | [Linkedin](https://www.linkedin.com/company/cummins-inc/)
-151. [U.S. Bancorp](https://www.usbank.com/index.html) | [Jobs](https://careers.usbank.com/global/en) |[Linkedin](https://www.linkedin.com/company/us-bank/)
-152. [Paccar](https://jobs.paccar.com/)|[Jobs](https://jobs.paccar.com/) | [Linkedin](https://www.linkedin.com/company/paccar/)
-153. [McDonald's](https://www.mcdonalds.com/us/en-us.html) | [Jobs](https://careers.mcdonalds.com/) | [Jobs](https://www.linkedin.com/company/mcdonald's-corporation/)
-154. [Southern](https://www.southernrailway.com/) | [Jobs](https://www.southernrailway.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/southern-railway-limited-southern-/)
-155. [C.H. Robinson Worldwide](https://www.chrobinson.com/en-us/) | [Jobs](https://www.chrobinson.com/en-us/carriers/) | [Linkdine](https://www.linkedin.com/company/c-h-robinson/)
-156. [Truist Financial](https://www.truist.com/#) | [Jobs](https://careers.truist.com/us/en) | [Linkdine](https://www.linkedin.com/company/truistfinancialcorporation/)
-157. [Applied Materials](https://www.appliedmaterials.com/)| [Jobs](https://www.appliedmaterials.com/us/en/careers.html) | [Linkdine](https://www.linkedin.com/company/applied-materials/)
-158. [Freeport-McMoRan](https://www.fcx.com/) | [Jobs](https://www.fcx.com/careers)| [Linkdine](https://www.linkedin.com/company/freeport-mcmoran-inc/)
-159. [Lithia Motors](https://www.lithia.com/) | [Jobs](https://lithia.wd5.myworkdayjobs.com/LithiaCareers/?source=Lithia_Website)|[Linkedin](https://www.linkedin.com/company/lithia-motors/)
-160. [Blackstone](https://www.blackstone.com/) | [Jobs](https://www.blackstone.com/careers/careers-blackstone/) | [Linkedin](https://www.linkedin.com/company/blackstonegroup/)
-161. [Hartford Financial Services Group](https://www.thehartford.com/) | [Jobs](https://www.thehartford.com/careers) | [Linkedin](https://www.linkedin.com/company/the-hartford/)
-162. [Aflac](https://www.aflac.com/) | [Jobs](https://careers.aflac.com/) | [linkedin](https://www.linkedin.com/company/aflac/)
-163. [Whirlpool](https://www.whirlpoolindia.com/) | [Jobs](https://www.whirlpoolcareers.com/india/) | [Linedin](https://www.linkedin.com/company/whirlpool-corporation/)
-164. [Union Pacific](https://www.up.com/index.htm) | [Jobs](https://up.jobs/) | [Linedin](https://www.linkedin.com/company/unionpacific/)
-165. [International Paper](https://www.internationalpaper.com/)| [Jobs](https://www.internationalpaper.com/employee-resources) | [Linedin](https://www.linkedin.com/company/international-paper/)
-166. [AltriaGroup](https://www.altria.com/)| [Jobs](https://careers.altria.com/?src=topnav) | [Linedin](https://www.linkedin.com/company/altria/jobs/)
-167. [CDW](https://www.cdw.com/)| [Jobs](https://www.cdwjobs.com/?bid=45) | [Linedin](https://www.linkedin.com/company/cdw/)
-168. [ManpowerGroup](https://www.manpowergroup.com/en/careers)| [Jobs](https://www.manpowergroup.com/en/careers) | [Linedin](https://www.linkedin.com/company/manpowergroup/?utm_source=Elevate&utm_medium=Social&utm_campaign=LinkedIn)
-169. [PG&E](https://www.pgecorp.com/corp/index.page)| [Jobs](https://jobs.pge.com/) | [Linedin](https://www.linkedin.com/company/pacificgasandelectric/)
+96. [General Dynamics](https://www.gd.com/) | [Jobs](https://www.gd.com/careers) | [Linkedin](https://www.linkedin.com/company/general-dynamics/) | Defense and Space Manufacturing
+97. [CHS](https://www.chsinc.com/) | [Jobs](https://jobs.chsinc.com/) | [Linkedin](https://www.linkedin.com/company/chs/) | Food and Beverage Manufacturing
+98. [USAA](https://www.usaa.com/) | [Jobs](https://www.usaajobs.com/) | [Linkedin](https://www.linkedin.com/company/usaa/) | Financial Services
+99. [Northwestern Mutual](https://www.northwesternmutual.com/) | [Jobs](https://www.northwesternmutual.com/careers/) | [Linkedin](https://www.linkedin.com/company/northwestern-mutual/) | Financial Services
+100. [Nucor](https://nucor.com/) | [Jobs](https://nucor.com/careers) | [Linkedin](https://www.linkedin.com/company/nucor-corporation/) | Manufacturing
+101. [Exelon](https://www.exeloncorp.com/) | [Jobs](https://jobs.exeloncorp.com/) | [Linkedin](https://www.linkedin.com/company/exelon/) | Utilities
+102. [Massachusetts Mutual Life](https://www.massmutual.com/) | [Jobs](https://careers.massmutual.com/) | [Linkedin](https://www.linkedin.com/company/massmutual-financial-group/) | Financial Services
+103. [Northrop Grumman](https://www.northropgrumman.com/) | [Jobs](https://www.northropgrumman.com/careers) | [Linkedin](https://www.linkedin.com/company/northrop-grumman-corporation/) | Defense and Space Manufacturing
+104. [3M](https://www.3m.com/) | [Jobs](https://www.3m.com/3M/en_US/careers-us/) | [Linkedin](https://www.linkedin.com/company/3m/) | Industrial Machinery Manufacturing
+105. [Travelers](https://www.travelers.com/) | [Jobs](https://careers.travelers.com/) | [Linkedin](https://www.linkedin.com/company/travelers/) | Insurance
+106. [Arrow Electronics](https://www.arrow.com/) | [Jobs](https://careers.arrow.com/us/en) | [Linkedin](https://www.linkedin.com/company/arrow-electronics/) | Technology, Information and Internet
+107. [Honeywell International](https://www.honeywell.com/us/en) | [Jobs](https://careers.honeywell.com/us/en) | [Linkedin](https://www.linkedin.com/company/honeywell/) | Appliances, Electrical, and Electronics Manufacturing
+108. [Dollar General](https://www.dollargeneral.com/) | [Jobs](https://careers.dollargeneral.com/) | [Linkedin](https://www.linkedin.com/company/dollar-general/) |Retail 
+109. [Qualcomm](https://www.qualcomm.com/) | [Jobs](https://www.qualcomm.com/company/careers) | [Linkedin](https://www.linkedin.com/company/qualcomm/) | Telecommunications
+110. [Capital One Financial](https://www.capitalone.com/) | [Jobs](https://www.capitalonecareers.com/) | [Linkedin](https://www.linkedin.com/company/capital-one/) | Financial Services
+111. [TD Synnex](https://www.tdsynnex.com/na/us/) | [Jobs](https://www.tdsynnex.com/us/en/about-us/careers.html) | [Linkedin](https://www.linkedin.com/company/tdsynnex/) | IT Services and IT Consulting
+112. [Philip Morris International](https://www.pmi.com/) | [Jobs](https://www.pmi.com/careers/overview) | [Linkedin](https://www.linkedin.com/company/insidepmi/) | Tobacco Manufacturing
+113. [World Fuel Services](https://www.wfscorp.com/) | [Jobs](https://wfscorp.wd5.myworkdayjobs.com/wfscareers) | [Linkedin](https://www.linkedin.com/company/world-kinect/) | Oil and Gas
+114. [Performance Food Group](https://www.pfgc.com/) | [Jobs](https://www.pfgc.com/Careers) | [Linkedin](https://www.linkedin.com/company/performancefoodgroup/) | Food and Beverage Services
+115. [Delta Air Lines](https://www.delta.com/) | [Jobs](https://www.delta.com/us/en/careers/overview) | [Linkedin](https://www.linkedin.com/company/delta-air-lines/) | Airlines and Aviation
+116. [American Airlines Group](https://www.aa.com/homePage.do) | [Jobs](https://jobs.aa.com/) | [Linkedin](https://www.linkedin.com/company/american-airlines/) | Airlines and Aviation
+117. [Paramount Global](https://www.paramount.com/) | [Jobs](https://www.paramount.com/careers/experienced) | [Linkedin](https://www.linkedin.com/company/paramountco/) | Entertainment Providers
+118. [US Foods Holding](https://www.usfoods.com/) | [Jobs](https://www.usfoods.com/careers.html) | [Linkedin](https://www.linkedin.com/company/usfoods/) |  Food and Beverage Services
+119. [Danaher](https://www.danaher.com/) | [Jobs](https://jobs.danaher.com/global/en) | [Linkedin](https://www.linkedin.com/company/danaher/) | Medical Equipment Manufacturing
+120. [Jabil](https://www.jabil.com/) | [Jobs](https://careers.jabil.com/) | [Linkedin](https://www.linkedin.com/company/jabil/) | Appliances, Electrical, and Electronics Manufacturing
+121. [Starbucks](https://www.starbucks.com/) | [Jobs](https://www.starbucks.com/careers/) | [Linkedin](https://www.linkedin.com/company/starbucks/) | Retail
+122. [Mondelez International](https://www.mondelezinternational.com/) | [Jobs](https://www.mondelezinternational.com/careers/) | [Linkedin](https://www.linkedin.com/company/mondelezinternational/) | Food and Beverage Manufacturing
+123. [EliLilly](https://www.lilly.com/) | [Jobs](https://careers.lilly.com/us/en) | [Linkedin](https://www.linkedin.com/company/eli-lilly-and-company/) | Pharmaceutical Manufacturing
+124. [Hewlett Packard Enterpri](https://www.hpe.com/us/en/home.html) | [Jobs](https://careers.hpe.com/us/en/) | [Linkedin](https://www.linkedin.com/company/hewlett-packard-enterprise/) | IT Services and IT Consulting
+125. [D.R. Horton](https://www.drhorton.com/) | [Jobs](https://www.drhorton.com/careers) | [Linkedin](https://www.linkedin.com/company/dr-horton/) | Construction
+126. [Molina Healthcare](https://www.molinahealthcare.com/) | [Jobs](https://careers.molinahealthcare.com/) | [Linkedin](https://www.linkedin.com/company/molina-healthcare/) | Hospitals and Health Care
+127. [CBRE Group](https://www.cbre.com/) | [Jobs](https://www.cbre.com/careers) | [Linkedin](https://www.linkedin.com/company/cbre/) | Real Estate
+128. [Micron Technology](https://www.micron.com/) | [Jobs](https://www.micron.com/careers) | [Linkedin](https://www.linkedin.com/company/micron-technology/) | Semiconductor Manufacturing
+129. [Broadcom](https://www.broadcom.com/) | [Jobs](https://www.broadcom.com/company/careers) | [Linkedin](https://www.linkedin.com/company/broadcom/) | Semiconductor Manufacturing
+130. [Gilead Sciences](https://www.gilead.com/) | [Jobs](https://www.gilead.com/careers/careers-at-gilead) | [Linkedin](https://www.linkedin.com/company/gilead-sciences/) | Biotechnology Research
+131. [PBF Energy](https://www.pbfenergy.com/) | [Jobs](https://www.pbfenergy.com/careers/) | [Linkedin](https://www.linkedin.com/company/pbf-energy/) | Oil and Gas
+132. [Lennar](https://www.lennar.com/) | [Jobs](https://careers.lennar.com/) | [Linkedin](https://www.linkedin.com/company/lennar/) | Real Estate
+133. [United Natural Foods](https://www.unfi.com/) | [Jobs](https://jobs.unfi.com/?sso_oif=true) | [Linkedin](https://www.linkedin.com/company/unfi/) | Food and Beverage Services
+134. [NRG Energy](https://www.nrg.com/home.html) | [Jobs](https://www.nrg.com/about/careers.html) | [Linkedin](https://www.linkedin.com/company/nrgenergy/) | Consumer Services
+135. [Nvidia](https://www.nvidia.com/en-us/) | [Jobs](https://www.nvidia.com/en-us/about-nvidia/careers/) | [Linkedin](https://www.linkedin.com/company/nvidia/) | Computer Hardware Manufacturing
+136. [Occidental Petroleum](https://www.oxy.com/) | [Jobs](https://www.oxy.com/careers/) | [Linkedin](https://www.linkedin.com/company/oxy/) | Oil and Gas
+137. [Salesforce](https://www.salesforce.com/) | [Jobs](https://careers.salesforce.com/en/) | [Linkedin](https://www.linkedin.com/company/salesforce/jobs/) | Software Development
+138. [Dollar Tree](https://www.dollartree.com/) | [Jobs](https://www.dollartree.com/) | [Linkedin](https://www.linkedin.com/company/dollar-tree-stores/) | Retail
+139. [KKR](https://www.kkr.com/) | [Jobs](https://www.kkr.com/careers/career-opportunities) | [Linkedin](https://www.linkedin.com/company/kkr/) | Financial Services
+140. [Kraft Heinz](https://www.kraftheinzcompany.com/) | [Jobs](https://careers.kraftheinz.com/careers/Home) | [Linkedin](https://www.linkedin.com/company/the-kraft-heinz-company/) | Food and Beverage Services
+141. [Amgen](https://www.amgen.com/) | [Jobs](https://careers.amgen.com/en) | [Linkedin](https://www.linkedin.com/company/amgen/) | Biotechnology Research
+142. [AutoNation](https://jobs.autonation.com/) | [Jobs](https://jobs.autonation.com/technology) | [Linkedin](https://www.linkedin.com/company/autonation/) | Motor Vehicle Manufacturing
+143. [Penske Automotive Group](https://www.penskeautomotive.com/home/default.aspx) | [Jobs](https://pagjobs.com/) | [Linkedin](https://www.linkedin.com/company/penskeautomotive/) | Retail Motor Vehicles
+144. [PayPal Holdings](https://pypl.com/) | [Jobs](https://careers.pypl.com/home/) | [Linkedin](https://www.linkedin.com/company/paypal/) | Software Development
+145. [Macy's](https://www.macysinc.com/careers) | [Jobs](https://www.macysinc.com/work-with-us/careers/default.aspx) | [Linkedin](https://www.linkedin.com/company/macy/life/8e0217c8-1786-4f24-9de7-f688c91e8105/) | Retail
+146. [Duke Energy](https://www.duke-energy.com/our-company/careers) | [Jobs](https://www.duke-energy.com/our-company/careers)|[Linkedin](https://www.linkedin.com/company/duke-energy-corporation/) | Utilities
+147. [United Airlines Holdings](https://www.united.com/en/us/) | [Jobs](https://careers.united.com/us/en) | [Linkedin](https://www.linkedin.com/company/united-airlines/jobs/) | Airlines and Aviation
+148. [Visa](https://www.visa.co.in/) | [Jobs](https://www.visa.co.in/careers.html) | [Linkedin](https://www.linkedin.com/company/visa/) | IT Services and IT Consulting
+149. [Rite Aid](https://www.riteaid.com/) | [Jobs](https://careers.riteaid.com/) | [Linkedin](https://www.linkedin.com/company/riteaid/) | Retail
+150. [Cummins](https://www.cummins.com/) | [Jobs](https://www.cummins.com/careers) | [Linkedin](https://www.linkedin.com/company/cummins-inc/) | Motor Vehicle Manufacturing
+151. [U.S. Bancorp](https://www.usbank.com/index.html) | [Jobs](https://careers.usbank.com/global/en) | [Linkedin](https://www.linkedin.com/company/us-bank/) | Banking
+152. [Paccar](https://jobs.paccar.com/)|[Jobs](https://jobs.paccar.com/) | [Linkedin](https://www.linkedin.com/company/paccar/) | Motor Vehicle Manufacturing
+153. [McDonald's](https://www.mcdonalds.com/us/en-us.html) | [Jobs](https://careers.mcdonalds.com/) | [Jobs](https://www.linkedin.com/company/mcdonald's-corporation/) | Restaurants
+154. [Southern](https://www.southernrailway.com/) | [Jobs](https://www.southernrailway.com/about-us/careers) | [Linkedin](https://www.linkedin.com/company/southern-railway-limited-southern-/) | Rail Transportation
+155. [C.H. Robinson Worldwide](https://www.chrobinson.com/en-us/) | [Jobs](https://www.chrobinson.com/en-us/carriers/) | [Linkdine](https://www.linkedin.com/company/c-h-robinson/) | Transportation, Logistics, Supply Chain and Storage
+156. [Truist Financial](https://www.truist.com/#) | [Jobs](https://careers.truist.com/us/en) | [Linkdine](https://www.linkedin.com/company/truistfinancialcorporation/) | Financial Services
+157. [Applied Materials](https://www.appliedmaterials.com/)| [Jobs](https://www.appliedmaterials.com/us/en/careers.html) | [Linkdine](https://www.linkedin.com/company/applied-materials/) | Semiconductor Manufacturing
+158. [Freeport-McMoRan](https://www.fcx.com/) | [Jobs](https://www.fcx.com/careers)| [Linkdine](https://www.linkedin.com/company/freeport-mcmoran-inc/) | Mining
+159. [Lithia Motors](https://www.lithia.com/) | [Jobs](https://lithia.wd5.myworkdayjobs.com/LithiaCareers/?source=Lithia_Website)|[Linkedin](https://www.linkedin.com/company/lithia-motors/) | Retail Motor Vehicles
+160. [Blackstone](https://www.blackstone.com/) | [Jobs](https://www.blackstone.com/careers/careers-blackstone/) | [Linkedin](https://www.linkedin.com/company/blackstonegroup/) | Financial Services
+161. [Hartford Financial Services Group](https://www.thehartford.com/) | [Jobs](https://www.thehartford.com/careers) | [Linkedin](https://www.linkedin.com/company/the-hartford/) | Financial Services
+162. [Aflac](https://www.aflac.com/) | [Jobs](https://careers.aflac.com/) | [linkedin](https://www.linkedin.com/company/aflac/) | Insurance
+163. [Whirlpool](https://www.whirlpoolindia.com/) | [Jobs](https://www.whirlpoolcareers.com/india/) | [Linedin](https://www.linkedin.com/company/whirlpool-corporation/) | Manufacturing
+164. [Union Pacific](https://www.up.com/index.htm) | [Jobs](https://up.jobs/) | [Linedin](https://www.linkedin.com/company/unionpacific/) | Rail Transportation
+165. [International Paper](https://www.internationalpaper.com/)| [Jobs](https://www.internationalpaper.com/employee-resources) | [Linedin](https://www.linkedin.com/company/international-paper/) | Paper and Forest Product Manufacturing
+166. [AltriaGroup](https://www.altria.com/)| [Jobs](https://careers.altria.com/?src=topnav) | [Linedin](https://www.linkedin.com/company/altria/jobs/) | Manufacturing
+167. [CDW](https://www.cdw.com/)| [Jobs](https://www.cdwjobs.com/?bid=45) | [Linedin](https://www.linkedin.com/company/cdw/) | IT Services and IT Consulting
+168. [ManpowerGroup](https://www.manpowergroup.com/en/careers)| [Jobs](https://www.manpowergroup.com/en/careers) | [Linedin](https://www.linkedin.com/company/manpowergroup/?utm_source=Elevate&utm_medium=Social&utm_campaign=LinkedIn) | Staffing and Recruiting
+169. [PG&E](https://www.pgecorp.com/corp/index.page)| [Jobs](https://jobs.pge.com/) | [Linedin](https://www.linkedin.com/company/pacificgasandelectric/) | Utilities
 170. [Carrier Global](https://www.corporate.carrier.com/)| [Jobs](https://www.corporate.carrier.com/careers/work-with-us/) | [Linedin](https://www.linkedin.com/company/carrier/) | Have IT positions
 171. [Baker Hughes](https://www.bakerhughes.com/)| [Jobs](https://careers.bakerhughes.com/global/en) | [Linedin](https://www.linkedin.com/company/bakerhughes/) | Have IT positions
-172. [Cleveland-Cliffs](https://www.clevelandcliffs.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/cleveland-cliffs/)
-173. [United States Steel](https://www.ussteel.com/)| [Jobs](https://www.ussteel.com/careers/careers-in-steel) | [Linedin](https://www.linkedin.com/company/u-s-steel/)
+172. [Cleveland-Cliffs](https://www.clevelandcliffs.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/cleveland-cliffs/) | Manufacturing
+173. [United States Steel](https://www.ussteel.com/)| [Jobs](https://www.ussteel.com/careers/careers-in-steel) | [Linedin](https://www.linkedin.com/company/u-s-steel/) |Manufacturing 
 174. [Becton Dickinson](https://www.bd.com/en-us)| [Jobs](https://jobs.bd.com/) | [Linedin](https://www.linkedin.com/company/bd1/) | Have IT positions
 175. [CarMax](https://www.carmax.com/)| [Jobs](https://careers.carmax.com/us/en) | [Linedin](https://www.linkedin.com/company/carmax/) | Have IT positions
-176. [Sherwin-Williams](https://www.sherwin-williams.com/)| [Jobs](https://careers.sherwin-williams.com/home?_gl=1*p1ow8e*_gcl_au*MTM5NTgxMDYyNC4xNzAwNDc1NjA2*_ga*NTI2NzMzOTM0LjE3MDA0NzU2MDc.*_ga_BFTFS1H2E0*MTcwMDQ3NTYwNy4xLjAuMTcwMDQ3NTYxMy41NC4wLjA.&_ga=2.139191348.662149353.1700475608-526733934.1700475607) | [Linedin](https://www.linkedin.com/company/sherwin-williams/)
-177. [Builders FirstSource](https://www.bldr.com/)| [Jobs](https://www.bldr.com/join-our-team/jobs-search) | [Linedin](https://www.linkedin.com/company/builders-firstsource/)
-178. [Marsh & McLennan](https://www.marsh.com/us/home.html)| [Jobs](https://careers.marshmclennan.com/global/en/marsh) | [Linedin](https://www.linkedin.com/company/marsh/)
-179. [PNC Financial Services](https://www.pnc.com/en/personal-banking.html)| [Jobs](https://careers.pnc.com/global/en) | [Linedin](https://www.linkedin.com/company/pnc-bank/)
-180. [Lumen Technologies](https://www.lumen.com/en-us/home.html)| [Jobs](https://jobs.lumen.com/global/en) | [Linedin](https://www.linkedin.com/company/lumentechnologies/)
-181. [Avnet](https://www.avnet.com/wps/portal/us/)| [Jobs](https://www.avnet.com/wps/portal/us/about-avnet/careers/) | [Linedin](https://www.linkedin.com/company/avnet/)
-182. [Tenet Healthcare](https://www.tenethealth.com/)| [Jobs](https://www.tenethealth.com/careers) | [Linedin](https://www.linkedin.com/company/tenet-healthcare/)
-183. [Kimberly-Clark](https://www.kimberly-clark.com/en-us/)| [Jobs](https://www.careers.kimberly-clark.com/en) | [Linedin](https://www.linkedin.com/company/kimberly-clark/?trk=hb_tab_compy_id_3439)
-184. [Kohl's](https://www.kohls.com/)| [Jobs](https://careers.kohls.com/) | [Linedin](https://www.linkedin.com/company/kohls-department-stores/)
+176. [Sherwin-Williams](https://www.sherwin-williams.com/)| [Jobs](https://careers.sherwin-williams.com/home?_gl=1*p1ow8e*_gcl_au*MTM5NTgxMDYyNC4xNzAwNDc1NjA2*_ga*NTI2NzMzOTM0LjE3MDA0NzU2MDc.*_ga_BFTFS1H2E0*MTcwMDQ3NTYwNy4xLjAuMTcwMDQ3NTYxMy41NC4wLjA.&_ga=2.139191348.662149353.1700475608-526733934.1700475607) | [Linedin](https://www.linkedin.com/company/sherwin-williams/) | Chemical Manufacturing
+177. [Builders FirstSource](https://www.bldr.com/)| [Jobs](https://www.bldr.com/join-our-team/jobs-search) | [Linedin](https://www.linkedin.com/company/builders-firstsource/) | Wholesale Building Materials
+178. [Marsh & McLennan](https://www.marsh.com/us/home.html)| [Jobs](https://careers.marshmclennan.com/global/en/marsh) | [Linedin](https://www.linkedin.com/company/marsh/) | Insurance
+179. [PNC Financial Services](https://www.pnc.com/en/personal-banking.html)| [Jobs](https://careers.pnc.com/global/en) | [Linedin](https://www.linkedin.com/company/pnc-bank/) | Financial Services
+180. [Lumen Technologies](https://www.lumen.com/en-us/home.html)| [Jobs](https://jobs.lumen.com/global/en) | [Linedin](https://www.linkedin.com/company/lumentechnologies/) | Telecommunications
+181. [Avnet](https://www.avnet.com/wps/portal/us/)| [Jobs](https://www.avnet.com/wps/portal/us/about-avnet/careers/) | [Linedin](https://www.linkedin.com/company/avnet/) | IT Services and IT Consulting
+182. [Tenet Healthcare](https://www.tenethealth.com/)| [Jobs](https://www.tenethealth.com/careers) | [Linedin](https://www.linkedin.com/company/tenet-healthcare/) | Hospitals and Health Care
+183. [Kimberly-Clark](https://www.kimberly-clark.com/en-us/)| [Jobs](https://www.careers.kimberly-clark.com/en) | [Linedin](https://www.linkedin.com/company/kimberly-clark/?trk=hb_tab_compy_id_3439) | Manufacturing
+184. [Kohl's](https://www.kohls.com/)| [Jobs](https://careers.kohls.com/) | [Linedin](https://www.linkedin.com/company/kohls-department-stores/) | Retail
 185. [BlackRock](https://www.blackrock.com/us/individual)| [Jobs](https://careers.blackrock.com/) | [Linedin](https://www.linkedin.com/company/blackrock/) | Have IT positions
-186. [Jones Lang LaSalle](https://www.us.jll.com/)| [Jobs](https://www.us.jll.com/en/careers) | [Linedin](https://www.linkedin.com/company/jll/)
-187. [Lear](https://www.lear.com/)| [Jobs](https://jobs.lear.com/) | [Linedin](https://www.linkedin.com/company/lear-corporation/)
-188. [Lincoln National](https://www.lincolnfinancial.com/public/individuals)| [Jobs](https://www.lincolnfinancial.com/public/aboutus/careers) | [Linedin](https://www.linkedin.com/company/lincoln-financial-group/)
+186. [Jones Lang LaSalle](https://www.us.jll.com/)| [Jobs](https://www.us.jll.com/en/careers) | [Linedin](https://www.linkedin.com/company/jll/) | Real Estate
+187. [Lear](https://www.lear.com/)| [Jobs](https://jobs.lear.com/) | [Linedin](https://www.linkedin.com/company/lear-corporation/) | Motor Vehicle Manufacturing
+188. [Lincoln National](https://www.lincolnfinancial.com/public/individuals)| [Jobs](https://www.lincolnfinancial.com/public/aboutus/careers) | [Linedin](https://www.linkedin.com/company/lincoln-financial-group/) | Financial Services
 189. [Charles Schwab](https://www.schwab.com/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/charles-schwab/) | Have IT positions
-190. [Ross Stores](https://jobs.rossstores.com/)| [Jobs](https://jobs.rossstores.com/#close) | [Linedin](https://www.linkedin.com/company/ross-stores/jobs/) 
+190. [Ross Stores](https://jobs.rossstores.com/)| [Jobs](https://jobs.rossstores.com/#close) | [Linedin](https://www.linkedin.com/company/ross-stores/jobs/)  | Retail
 191. [Mastercard](https://www.mastercard.co.in/en-in.html) | [Jobs](https://careers.mastercard.com/us/en) | [Linedin](https://www.linkedin.com/company/mastercard/) | Have IT positions
 192. [Genuine Parts](https://www.genpt.com/) | [Jobs](https://jobs.genpt.com/) | [Linedin](https://www.linkedin.com/company/genuine-parts-company/) | Have IT positions | Motor Vehicle Parts Manufacturing
 193. [WestRock](https://www.westrock.com/)| [Jobs](https://www.westrock.com/company/careers) | [Linedin](https://www.linkedin.com/company/westrockcompany/) | Packaging and Containers Manufacturing
@@ -303,8 +303,8 @@ Note: Create your profile in these platform, they you recommend job according to
 201. [WESCO International](https://www.wesco.com/)| [Jobs](https://www.wesco.com/us/en/our-company/careers/career-opportunities.html) | [Linedin](https://www.linkedin.com/company/wesco/posts/?feedView=all) | Wholesale
 202. [General Mills](https://www.generalmills.com/)| [Jobs](https://careers.generalmills.com/careers/?lang=en-US) | [Linedin](https://www.linkedin.com/company/general-mills/) | Manufacturing
 203. [Tenneco](https://www.tenneco.com/)| [Jobs](https://jobs.tenneco.com/) | [Linedin](https://www.linkedin.com/company/tenneco/) | Motor Vehicle Manufacturing
-204. [Waste Management](https://gwcnweb.org/)| [Jobs]() | [Linedin]()
-205. [Waste Management](https://gwcnweb.org/)| [Jobs]() | [Linedin]()
+204. [Waste Management](https://gwcnweb.org/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/gwcn/) | Non-profit Organization Management
+205. [Waste Management](https://gwcnweb.org/)| [Jobs]() | [Linedin](https://www.linkedin.com/company/gwcn/) | Non-profit Organization Management
 206. [Viatris](https://www.viatris.com/en)| [Jobs](https://www.viatris.com/en/careers) | [Linedin](https://www.linkedin.com/company/viatris/) | Pharmaceutical Manufacturing 
 207. [DISH Network](https://www.dish.com/#)| [Jobs](https://careers.dish.com/) | [Linedin](https://www.linkedin.com/company/dish-network/) | Telecommunications
 208. [L3Harris Technologies](https://www.l3harris.com/)| [Jobs](https://careers.l3harris.com/new-grads-and-interns) | [Linedin](https://www.linkedin.com/company/l3harris-technologies/) | Have IT positions | Defense and Space Manufacturing
