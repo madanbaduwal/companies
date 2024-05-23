@@ -1454,6 +1454,7 @@ XcelTech Inc -->
 
 ## References
 - [New-Grad-Positions 2024](https://github.com/SimplifyJobs/New-Grad-Positions)
+- [Softapply](https://softapply.collegefam.com/)
 - [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 - [Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships)
 - [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
