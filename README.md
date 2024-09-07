@@ -735,9 +735,11 @@ Subject: Inquiry Regarding [Position Title] Role
 
 Hello [Name],
 
-I am Madan, a Machine Learning Software Engineer with 7 years of experience in the industry. I had the opportunity to lead and engineer the development of an impactful product, Fuseclassroom, which served 20,000 students across 60 colleges in Nepal and the USA.
+I am Madan, a Machine Learning Software Engineer with 7 years of experience in the industry.
+I had the opportunity to lead and engineer the development of an impactful product, Fuseclassroom, which served 20,000 students across 60 colleges in Nepal and the USA.
 
-I have strong technical skills in machine learning software engineering and design. Additionally, I possess effective communication skills, working well with clients, executives, product owners, stakeholders, managers, and teammates.
+I have strong technical skills in machine learning software engineering and design.
+Additionally, I possess effective communication skills, working well with clients, executives, product owners, stakeholders, managers, and teammates.
 
 I am currently seeking a [desired role]. Do you have any openings on your team?
 
