@@ -730,6 +730,8 @@ Apply proper positions
 
 ## Email, Message, and Cover Letter
 
+### Email
+
 ```
 Subject: Inquiry Regarding [Position Title] Role
 
@@ -748,6 +750,17 @@ Thank you for your time and consideration.
 Best regards,
 Madan
 
+```
+
+### Message in Linkedin
+
+```
+Hello Hannah
+
+I am looking for a Machine Learning Software Engineer role.
+Going to attach my resume: https://madanbaduwal.github.io/assets/pdf/Baduwal_Madan_Resume.pdf
+
+Thank You
 ```
 
 ## Important Factors Selecting Company(For an international student)
