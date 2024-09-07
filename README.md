@@ -731,23 +731,20 @@ Apply proper positions
 ## Email, Message, and Cover Letter
 
 ```
-Subject : Summer 2024 Internship 
+Subject: Inquiry Regarding [Position Title] Role
 
-Hi [Recruiter Name],
+Hello [Name],
 
-I am currently enrolled in the MS program (Computer Science) at the 
+I am Madan, a Machine Learning Software Engineer with 7 years of experience in the industry. I had the opportunity to lead and engineer the development of an impactful product, Fuseclassroom, which served 20,000 students across 60 colleges in Nepal and the USA.
 
-University of Texas Permian Basin and looking for summer 2024 internship 
+I have strong technical skills in machine learning software engineering and design. Additionally, I possess effective communication skills, working well with clients, executives, product owners, stakeholders, managers, and teammates.
 
-opportunities in Machine Learning and Data Science. 
+I am currently seeking a [desired role]. Do you have any openings on your team?
 
-Is there any position available in your team? Can you please help me out here.
+Thank you for your time and consideration.
 
-
-Thanks and Regards
-
-Madan Baduwal
-
+Best regards,
+Madan
 
 ```
 
