@@ -763,6 +763,10 @@ Going to attach my resume: https://madanbaduwal.github.io/assets/pdf/Baduwal_Mad
 Thank You
 ```
 
+### LinkedIn email finder
+
+* [prospeo.io](https://prospeo.io/linkedin-email-finder)
+
 ## Important Factors Selecting Company(For an international student)
 
 * H1B filled
