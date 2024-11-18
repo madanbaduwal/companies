@@ -804,6 +804,8 @@ Note: Create your profile in these platform, they you recommend job according to
     - [Resumeworded](https://resumeworded.com/)
 - [simplify](https://simplify.jobs/) : Help to autofill job applications
 - [Careerflow AI](https://www.careerflow.ai/) : Evaluate your profile/resume on the basis of JD and point-out missing keywords.
+- [Jobbright.ai](https://jobright.ai/): Perfect job matching
+- [wellfound](wellfound.com): Startups and job seekers connect
 - [F1 Hire - Job Analyzer, H1B Checker](https://chromewebstore.google.com/detail/f1-hire-job-analyzer-h1b/jabnaledogdghdbckajlnbipcdicinom)
 
 ## Other Notes
