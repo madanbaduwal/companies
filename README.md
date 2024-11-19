@@ -712,7 +712,7 @@ Companies can be categorized into different types based on their business models
 * In an interview, give your answers in such a way that your research and goals align with the company's goals, mission, and job description.
 * Research the company thoroughly before the interview. During the interview, ask genuine questions to the interviewer about the company and its projects.
 
-## Software Engineer Levels
+## Software Machine Learning Engineer Levels
 
 Apply proper positions
 
@@ -730,12 +730,12 @@ Apply proper positions
 
 ## Email, Message, and Cover Letter
 
-### Email
+### Email samples
 
 ```
 Subject: Inquiry Regarding [Position Title] Role
 
-Hello [Name],
+Hello [Recruiter Name],
 
 I am Madan, a Machine Learning Software Engineer with 7 years of experience in the industry.
 I had the opportunity to lead and engineer the development of an impactful product, Fuseclassroom, which served 20,000 students across 60 colleges in Nepal and the USA.
@@ -749,6 +749,40 @@ Thank you for your time and consideration.
 
 Best regards,
 Madan
+
+
+
+Subject : Summer 2024 Internship 
+
+Hi [Recruiter Name],
+
+
+"I am Madan, a final year master's student at the University of Texas Permian Basin, conducting research on "deep learning" under the supervision of Prof. Quan Yuan as a graduate research assistant. I am currently seeking internship opportunities in "machine learning, deep learning, and data analytics."" 
+
+Please find attached my resume, which provides additional details about my background and qualifications. Please let me know if there are any opportunities available in your team.
+
+Thanks and Regards
+
+Madan Baduwal
+
+
+
+
+Subject : Software engineering and AI role
+
+I understand your time is valuable.  I will only write three bullet points
+
+* Designed and developed a no-code data-centric AI platform(https://matrice.ai/) for building and deploying ML apps, reducing user deployment time by 40% and development costs by 80%.
+* Led and Created an AI-enabled student progress tracking platform (https://fuseclassroom.com/), doubling the teacher-student ratio to 1:30. Currently operational in ∼60 Nepalese colleges with 20k active students.
+* Doing masters in computer science(4/4) + graduate research assistant
+
+Please find attached my resume, which provides additional details about my background and qualifications. Please let me know if there are any opportunities available in your team.
+
+Thanks and Regards
+
+Madan Baduwal
+
+
 
 ```
 
@@ -797,6 +831,10 @@ Note: Create your profile in these platform, they you recommend job according to
 * [Pathrise](https://www.pathrise.com/)
 * [Naukri](https://www.naukri.com/)
 * [levels.fyi](https://www.levels.fyi/internships/)
+- [Jobbright.ai](https://jobright.ai/): Perfect job matching
+- [wellfound](wellfound.com): Startups and job seekers connect
+- [Softapply](https://softapply.collegefam.com/)
+- [Projectstartups](https://www.projectstartups.com/)
 
 ## Tools 
 
@@ -804,9 +842,12 @@ Note: Create your profile in these platform, they you recommend job according to
     - [Resumeworded](https://resumeworded.com/)
 - [simplify](https://simplify.jobs/) : Help to autofill job applications
 - [Careerflow AI](https://www.careerflow.ai/) : Evaluate your profile/resume on the basis of JD and point-out missing keywords.
-- [Jobbright.ai](https://jobright.ai/): Perfect job matching
-- [wellfound](wellfound.com): Startups and job seekers connect
 - [F1 Hire - Job Analyzer, H1B Checker](https://chromewebstore.google.com/detail/f1-hire-job-analyzer-h1b/jabnaledogdghdbckajlnbipcdicinom)
+- [AiTou: H1B Visa Sponsor Checker](https://chromewebstore.google.com/detail/aitou-h1b-visa-sponsor-ch/kkdfahnaohddaenhpefgbmkgkpnakamo?hl=en&pli=1)
+- [myvisajobs](https://www.myvisajobs.com/)
+- [H1Bdata](https://h1bdata.info/)
+- [Skillsyncer](https://skillsyncer.com/)
+- 
 
 ## Other Notes
 
@@ -2048,31 +2089,33 @@ Parameters for selecting Consultancy
 * Select Consultancy which have a position related to your career goals
 * W2 contract position
 
-**Consultancy**
+**Consultancies and Staffing and Recruiting**
 
-1. [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
-2. [Conflux Systems Inc.](https://www.confluxsystems.com/) | <!-- Gowtham Raja Komarala: 16789568780 -->
-3. [Arconinc](https://www.arconinc.com/)<!-- Privya Hada: 703-636-9384 -->
-4. [Proximatetech](https://proximatetech.com/)
-5. [Miztechsolutions](https://www.miztechsolutions.com/)
-6. [ICONMA](https://www.iconma.com/)
-7. [INSPYR Solutions](https://www.inspyrsolutions.com/)
-8. [Trident Consulting](https://www.tridentconsultinginc.com/)
-9. [BCG X](https://www.bcg.com/)
-10. [Addiox Technologies LLC](https://www.linkedin.com/company/aadiox-technologies/)
-11. [Peraton](https://www.peraton.com/)
-12. [Synechron](https://www.synechron.com/)
-13. 
-
-**Staffing and Recruiting**
-
-1. [Acceler8 Talent](https://www.acceler8talent.com/)
-2. [Insight Global](https://insightglobal.com/)
-3. [Swift Strategic Solutions Inc](http://www.s3staff.com/)
-4. [Peterson Technology Partners](https://www.ptechpartners.com/)
-5. [Storm3](https://storm3.com/)
-6. [Talener](https://talener.com/)
-7. [System One](https://systemone.com/)
+1. [Code Gravity(bad review)](https://codegravityit.com/)
+2. [End point](https://www.linkedin.com/company/endpoint-bg/)
+3. [rab3 technologies](https://www.rab3tech.net/)
+4. [DataSync](https://www.linkedin.com/company/datasync/)
+5. [cubic IT](https://www.linkedin.com/company/cubicit/posts/?feedView=all)
+6. [Meta horizon](https://www.linkedin.com/company/metahorizon-inc/posts/?feedView=all)
+7. [Resolve Tech Solutions](https://www.resolvetech.com/) | Ranjan working here
+8. [Conflux Systems Inc.](https://www.confluxsystems.com/) | <!-- Gowtham Raja Komarala: 16789568780 -->
+9. [Arconinc](https://www.arconinc.com/)<!-- Privya Hada: 703-636-9384 -->
+10. [Proximatetech](https://proximatetech.com/)
+11. [Miztechsolutions](https://www.miztechsolutions.com/)
+12. [ICONMA](https://www.iconma.com/)
+13. [INSPYR Solutions](https://www.inspyrsolutions.com/)
+14. [Trident Consulting](https://www.tridentconsultinginc.com/)
+15. [BCG X](https://www.bcg.com/)
+16. [Addiox Technologies LLC](https://www.linkedin.com/company/aadiox-technologies/)
+17. [Peraton](https://www.peraton.com/)
+18. [Synechron](https://www.synechron.com/)
+19. [Acceler8 Talent](https://www.acceler8talent.com/)
+20. [Insight Global](https://insightglobal.com/)
+21. [Swift Strategic Solutions Inc](http://www.s3staff.com/)
+22. [Peterson Technology Partners](https://www.ptechpartners.com/)
+23. [Storm3](https://storm3.com/)
+24. [Talener](https://talener.com/)
+25. [System One](https://systemone.com/)
 
 
 
@@ -2158,33 +2201,14 @@ Vertex Group (Schaumburg, IL)
 VST Consulting Inc
 XcelTech Inc -->
 
-## People reference and alternative of job
-
-* Du chen
-* Damilola
-* Ranjan
-* Bishal dai
-* Mohan Dai
-* Priyanka mama
-* Sradha papa
-* Relocate to Canada and work there [MobSquad](https://www.linkedin.com/company/mobsquad/)
-* Odessa College (Diana(Human Resources Manager), (432) 335-6608)
-* City of Odessa 
-* ECISD(Audrie Lujan(Recruiting Specialist), 4324560704)
-* Propetro(recruiting@propetroservices.com, 4322218100)
-* Western Midstream
-* https://ideapublicschools.org/
-
 ## References
 - [New-Grad-Positions 2024](https://github.com/SimplifyJobs/New-Grad-Positions)
-- [Softapply](https://softapply.collegefam.com/)
 - [Summer2024-Internships](https://github.com/SimplifyJobs/Summer2024-Internships)
 - [Summer-2024-SWE-Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships)
 - [New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024)
 - [2024-SWE-New-Grad](https://github.com/AlanChen4/2024-SWE-New-Grad)
 - [Summer-2024-internship](https://github.com/OnlyReferrals/Summer-2024-internship)
 - [2024-new-grad-intern](https://github.com/Trident-Development/2024-new-grad-intern)
-- [Projectstartups](https://www.projectstartups.com/)
 - [Artificial-Intelligence-startups-companies-list](https://github.com/a2tm7a/Artificial-Intelligence-startups-companies-list)
 - [Awesome-remote-job: github](https://github.com/lukasz-madon/awesome-remote-job)
 - [Remote-jobs: github](https://github.com/remoteintech/remote-jobs)
